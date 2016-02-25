@@ -1,11 +1,13 @@
 Title: Solucions del Cangur 2015 a Catalunya: Nivell 3
-Date: 2016-2-23 12:00
+Date: 2016-2-24 12:00
 Tags: cangur, matemàtiques
 Category: cangur
 Slug: solucions-cangur-2015-catalunya-nivell3
 Description: Recull de solucions del nivell 3 de les Proves Cangur 2015 a Catalunya
 
-Ací he fet un recull amb solucions per totes les qüestions del Nivell 3 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur](https://www.lopezferrando.com/cangur/2015_cat/nivell_3/enunciat_2015_cat_3.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
+Ací he fet un recull amb solucions per totes les qüestions del Nivell 3 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_3.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
+
+<!-- PELICAN_END_SUMMARY -->
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
