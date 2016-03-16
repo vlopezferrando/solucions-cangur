@@ -47,8 +47,9 @@ Podeu accedir a les qüestions directament:
 [29](#questio-29),
 [30](#questio-30)
 
-### Qüestions de 3 punts
+Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques i *Le Kangourou sans Frontières*.
 
+### Qüestions de 3 punts
 
 ![Enunciat 1, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/01.png)
 
