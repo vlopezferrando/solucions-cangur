@@ -64,7 +64,7 @@ Sabent açò, podem descartar la *A*, la *B*, la *C* i la *D*. I només és corr
 Podem començar a operar i veure que les expression valen:
 
 $$(a-b)^5= a^5 - 5a^4b + 10a^3b^2 + \cdots$$
-$$(a-b)^5= -a^5 + 5a^4b - 10a^3b^2 + \cdots$$
+$$(b-a)^5= -a^5 + 5a^4b - 10a^3b^2 + \cdots$$
 
 I les expressions s'anul·len, de manera que la solució és la **A**.
 
@@ -109,19 +109,19 @@ I hem pogut comprovar que només pot ser correcta la primera resposta: **A**.
 
 Sabem que $4 = 2^2$, si operem els exponents, tenim que:
 
-$$4^{x+1}=(2^2)^{x+1}=2^{2(x-1)}$$
+$$4^{x+1}=(2^2)^{x+1}=2^{2(x+1)}$$
 
 Per tant, volem trobar les solucions de:
 
-$$2^{2x} = 2^{2(x-1)}$$
+$$2^{2x} = 2^{2(x+1)}$$
 
 Que seran iguals quan els exponents siguen iguals:
 
-$$2x = 2(x-1)$$
+$$2x = 2(x+1)$$
 
 I operant ens queda:
 
-$$2x = 2x -2 \quad \Rightarrow \quad 0 = -2$$
+$$2x = 2x +2 \quad \Rightarrow \quad 0 = 2$$
 
 Hem arribat a una contradicció, que no té cap solució; i l'opció correcta és la **A**.
 
@@ -215,7 +215,7 @@ La figura del dibuix, tal com diu l'enunciat, és un con truncat. Pel fet de
 ser un con truncat, el paper que el recobreixi ha de ser part del recobriment
 del con, que té la forma de *sector circular*.
 
-En aquest cas, la única opció vàlida és la **E**.
+En aquest cas, l'única opció vàlida és la **E**.
 
 ![Enunciat 10, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/10.png)
 
@@ -231,7 +231,7 @@ amb $X+Y$:
 
 $$X+Y = \frac{\pi}{4}x^2 + \frac{\pi}{4}y^2 = \frac{\pi}{4}(x^2+y^2)$$
 
-Pel teorema de pitàgores, sabem que $x^2+y^2=z^2$, i per tant:
+Pel teorema de Pitàgores, sabem que $x^2+y^2=z^2$, i per tant:
 
 $$X+Y = \frac{\pi}{4}(x^2+y^2) = \frac{\pi}{4}z^2 = Z$$
 
@@ -276,7 +276,12 @@ per tal que el $3$ i $5$ siguen la suma dels seus veïns.
 
 ![Solució 12](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/solucions/12.png)
 
-La solució, doncs, és la **B**.
+Però si a sota de tot va un $-16$, els $-8$ que hi ha al seu costat deurien complir:
+
+$$-8 = -15 - 5$$
+$$-8 = -15 - 3$$
+
+Com que aquestes igualtats no es compleixen, no es pot fer el que es demana, i la solució és la **E**.
 
 ![Enunciat 13, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/13.png)
 
@@ -297,7 +302,7 @@ d=a+b  & \Rightarrow &  d>a, \quad d>b\\
 e=a+d & \Rightarrow &  e>a, \quad e>d\\
 \end{array}$$
 
-Fixem-nos que se desigualtats són estrictes ($<$ enlloc de $\le$) perquè
+Fixem-nos que les desigualtats són estrictes ($<$ enlloc de $\le$) perquè
 l'enunciat ens diu que els cinc nombres són diferents. Ara els podem ordenar de la següent manera:
 
 $$ c > e > d > a, b$$
@@ -322,27 +327,24 @@ La solució és $6$, és a dir, la **B**.
 
 ![Enunciat 15, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/15.png)
 
-Simplifiquem l'operació:
+Podem simplificar l'operació de la següent manera:
 
 $$\sqrt{(2015+2015) + (2015-2015) + (2015·2015) +(2015:2015)} =$$
-$$\sqrt{2·2015 + 0 + 2015·2015 + 1}=$$
-$$\sqrt{2017·2015 + 1}$$
 
-Sabem que el valor de $\sqrt{2017·2015 + 1}$ estarà entre $2015$ i $2017$:
+$$
+\begin{array}{llr}
+= & \sqrt{2015 + 2015 + 2015·2015 + 1} = & (\text{hem restat i dividit})\\
+= & \sqrt{(2015 + 2015·2015) + (2015+1)} = & (\text{hem reordenat})\\
+= & \sqrt{2015·(2015+1) + 2016} =  & (\text{factor comú 2015)}\\
+= & \sqrt{2015·2016 + 2016} =  & (\text{hem sumat 2015+1)}\\
+= & \sqrt{2016·(2015 + 1)} = & (\text{factor comú 2016)}\\
+= & \sqrt{2016·2016} = & (\text{hem sumat} 2015+1)\\
+= & \sqrt{2016^2} = \\
+= & 2016
+\end{array}
+$$
 
-$$2015 = \sqrt{2015·2015} < \sqrt{2017·2015 + 1} < \sqrt{2017·2017} = 2017$$
-
-Per tant:
-
-* La *A*,  $2016$, podria ser, ja que està entre $2015$ i $2017$.
-* La *B*, $2015$, no pot ser, ja que la solució ha de ser major que $2015$.
-* La *C*, $\sqrt{2015}$, no pot ser, $\sqrt{2015}$ és massa petit.
-* La *D*, $2017$, no pot ser, ja que ha de ser menor que $2017$.
-* La *E*, $4030$ no pot ser, és massa gran.
-
-I la solució ha de ser **A**, és a dir $2016$. Efectivament:
-
-$$\sqrt{2017·2015 + 1} = \sqrt{4.064.256} = \sqrt{2016^2} = 2016$$
+De manera que el resultat de l'operació és $2016$ i la solució és la **A**.
 
 ![Enunciat 16, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/16.png)
 
@@ -421,7 +423,7 @@ La solució és la **D**.
 ![Enunciat 20, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/20.png)
 
 D'entrada, sabem que només poden anar un $2$ o un $5$, ja que a sota del $6$
-anirà un un $1$ i darrere del $4$ anirà el $3$.
+anirà un $1$ i darrere del $4$ anirà el $3$.
 
 Ara bé, com que els dos daus són idèntics, imaginem que movem el dau de
 l'esquerra: posem l'$1$ a sota, i el $3$ darrere. Aleshores el $2$ ens queda a
@@ -497,17 +499,37 @@ $$r_v = q_b + 3$$
 *  Hi ha $2$ quadrats vermells més que rectangles blaus:
 $$q_v = r_b + 2$$
 
-Volem saber quants rectangles blaus ($r_b$) hi ha a la pissarra. Com que tenim més equacions que incògnites, anirem provant les solucions i comprovant que es compleixen les desigualtats. Donant-li un valor a $r_b$, mirarem com queden la resta de valors, i si tenen sentit. Deduirem els valors per ordre:
+Si a la primera equació substituïm $q_v$ per la última equació, tenim:
 
-$$\begin{array}{l}q_v = r_b + 2\\q_b=-q_v+7\\r_v=q_b+3\end{array}$$
+$$r_b + 2 + q_b = 7 \quad\Rightarrow\quad r_b = 5-q_b$$
 
-* *A*: si $r_b=1$: $q_v=3$, $q_b=4$, $r_v=7$. No pot ser, perquè hi ha més quadrats
-blaus que rectangles blaus.
+Ens quedem amb el sistema:
 
-* *B*: si $r_b=3$: $q_v=5$, $q_b=2$, $r_v=5$. Correcte, totes les desigualtats
-es compleixen.
+$$
+\begin{cases}
+r_b = 5-q_b \\
+r_v = q_b + 3 \\
+q_v = r_b + 2
+\end{cases}
+$$
 
-No cal provar més, la resposta correcta és la **B**.
+El resoldrem donant valors a $q_b$ i deduint $r_b$, $r_v$ i $q_v$ mitjançant les tres equacions.
+
+Com que $q_b<r_b$, $q_b$ només pot ser $0,1,2$, ja que si $q_b$ fóra més gran, llavors hi hauria més quadrats blaus que rectangles, i això no pot ser.
+
+Provem els diferents valors:
+
+$$
+\begin{array}{llllll}
+q_b=0 & \Rightarrow & r_b=5 & \Rightarrow & r_v = 3 & \Rightarrow & q_v= 7 \\
+q_b=1 & \Rightarrow & r_b=4 & \Rightarrow & r_v = 4 & \Rightarrow & q_v= 6 \\
+q_b=2 & \Rightarrow & r_b=3 & \Rightarrow & r_v = 5 & \Rightarrow & q_v= 5 \\
+\end{array}
+$$
+
+Les dues primeres opcions no poden ser, perquè hi ha més quadrats vermells que rectangles vermells $(q_v > r_v)$ i això no pot ser.
+
+Per tant, la solució és la última opció. Llavors $r_b=3$ i la solució és la **B**.
 
 ![Enunciat 25, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/25.png)
 

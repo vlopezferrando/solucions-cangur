@@ -95,7 +95,7 @@ El sac més pesat és $x$, que pesa $50\text{ kg}$, i la solució és la **D**.
 ![Enunciat 5, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/05.png)
 
 En primer lloc, fixem-nos que a cada figura, els trossets que la composen
-(quadrats, recangles o triangles) tenen la mateixa àrea, i per tant,
+(quadrats, rectangles o triangles) tenen la mateixa àrea, i per tant,
 sabrem la proporció ombrejada dividint el nombre de trossets ombrejats
 entre el total de trossets. Fem aquest càlcul, i les proporcions són:
 
@@ -117,7 +117,7 @@ $$
 \text{E}=\frac{3}{5}
 $$
 
-I la solució és la **D**, que és la única amb una proporció diferent.
+I la solució és la **D**, que és l'única amb una proporció diferent.
 
 ![Enunciat 6, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/06.png)
 
@@ -147,7 +147,7 @@ Si anomenem $x$ la mida de les tires, quan les superposem, la longitud total és
 
 $$2x - 10 = 50 \quad\Rightarrow\quad x=30\text{ cm}$$
 
-Sabem doncs que les tires són del $10\text{ cm}$. Si anomenem $y$ l'espai superposat, volem que:
+Sabem doncs que les tires són de $30\text{ cm}$. Si anomenem $y$ l'espai superposat, volem que:
 
 $$2·30 -y = 56 \quad\Rightarrow\quad y=4\text{ cm}$$
 
@@ -408,7 +408,7 @@ $$6\leq x<9$$
 
 $$7.1...\leq x<8.3...$$
 
-Per la última desigualtat i com $x$ és enter, $x=8$, i la solució és la **D**.
+Per l'última desigualtat i com $x$ és enter, $x=8$, i la solució és la **D**.
 
 ![Enunciat 28, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/28.png)
 

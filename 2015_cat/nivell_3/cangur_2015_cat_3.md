@@ -127,7 +127,7 @@ També sabem que hi ha el doble d'alumnes a qui agraden només la informàtica q
 
 $$i=2e\quad$$
 
-Si substituim a la primera equació:
+Si substituïm a la primera equació:
 
 $$2e+e=30 \quad \Rightarrow \quad e=10 \quad \Rightarrow \quad i=20$$
 
@@ -185,7 +185,7 @@ Descomposem $2015$ en factors primers:
 
 $$2015=5\cdot13\cdot31$$
 
-La única manera de dividir aquests factors entre les edats de pare i fill, sense que cap d'aquestes edats supere els 100 anys és:
+L'única manera de dividir aquests factors entre les edats de pare i fill, sense que cap d'aquestes edats supere els 100 anys és:
 
 $$5\cdot13=65, \quad 31$$
 
@@ -197,7 +197,7 @@ Com que és més curt anar per la hipotenusa d'un triangle rectangle que pels do
 
 ![Solució 12](https://www.lopezferrando.com/cangur/2015_cat/nivell_3/solucions/12.png)
 
-Pel teorema de pitàgores sabem que la diagonal mesura $\sqrt{1^2+1^2}=\sqrt2$, i la distància total és:
+Pel teorema de Pitàgores sabem que la diagonal mesura $\sqrt{1^2+1^2}=\sqrt2$, i la distància total és:
 
 $$\sqrt{2} + \sqrt{2} + 1 + 1=2+2\sqrt{2}$$
 
@@ -255,7 +255,7 @@ Com l'àrea del quadrat $ABCD$ és $80$, el seu costat serà:
 
 $$AB=\sqrt{80}$$
 
-Com $AE=3EB$, en el triangle rectangle $\triangle AHE$, els catets mesuren $\frac{AB}{4}, \frac{3AB}{4}$. Pel teorema de pitàgores:
+Com $AE=3EB$, en el triangle rectangle $\triangle AHE$, els catets mesuren $\frac{AB}{4}, \frac{3AB}{4}$. Pel teorema de Pitàgores:
 
 $$HE^2=\left(\frac{AB}{4}\right)^2+\left(\frac{3AB}{4}\right)^2=$$
 $$=\left(\frac{\sqrt{80}}{4}\right)^2+\left(\frac{3\sqrt{80}}{4}\right)^2= \frac{80+9\cdot80}{16}=\frac{800}{16}=50$$
@@ -534,7 +534,7 @@ Recordem també l'expressió de la tangent de l'angle doble:
 
 $$\tan 2\alpha = \frac{2 \tan\alpha}{1-\tan^2\alpha}$$
 
-Si substituim, trobem que:
+Si substituïm, trobem que:
 
 $$\frac{3}{b} = \frac{2 \tan\alpha}{1-\tan^2\alpha}$$
 $$\frac{3}{b} = \frac{2 \frac{1}{b}}{1-\left(\frac{1}{b}\right)^2} =
@@ -598,6 +598,6 @@ Hem triat $a,b,c$ de totes les maneres possibles, sense tenir en compte que $a<b
 $$
 (a,b,c)=(2,5,8),(2,8,5),(5,2,8),(5,8,2),(8,2,5),(8,5,2)
 $$
-Però només una d'elles és correcta, la que està en ordre creixent: $(2,5,8)$. Com es tracta de $3$ nombres, el número de permutacions és el factorial: $3!=3\cdot2=6$. Com només una permutació és correcta, en total hi ha:
+Però només una d'elles és correcta, la que està en ordre creixent: $(2,5,8)$. Com que es tracta de $3$ nombres, el número de permutacions és el factorial: $3!=3\cdot2=6$. Com només una permutació és correcta, en total hi ha:
 $$\frac{9\cdot8\cdot7}{3\cdot2}=84$$
 I la solució és la **A**.

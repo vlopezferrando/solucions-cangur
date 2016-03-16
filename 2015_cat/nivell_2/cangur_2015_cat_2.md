@@ -432,7 +432,7 @@ només hi ha un filferro més, i en la segona n'hi ha $2$, però com cada
 filferro només té dos extrems, no podran visitar els $6$ i $5$ vèrtexs
 necessaris.
 
-Per tant, la única forma vàlida és la última, i la solució és la **D**.
+Per tant, l'única forma vàlida és l'última, i la solució és la **D**.
 A continuació veiem una possible solució amb aquesta configuració:
 
 ![Solució 25](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/solucions/25.png)
