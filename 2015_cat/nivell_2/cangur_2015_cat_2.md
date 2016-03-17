@@ -412,34 +412,29 @@ De manera que en total hi ha $6$ cangurs, i la solució és la **D**.
 
 ![Enunciat 25, nivell 2 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/enunciats/25.png)
 
-En total, les arestes d'un cub d'$1\text{ cm}$ d'aresta sumen $12\text{ cm}$.
-Les maneres de sumar $12$ amb els filferros que tenim són:
+Per fer el cub en Raimon necessitarà un total de $12\text{ cm}$ de filferro,
+ja que el cub està format per $12$ arestes d'$1\text{ cm}$.
 
-$$\begin{array}{ccl}
-12&=&7+5\\
-12&=&6+5+1\\
-12&=&6+4+2\\
-12&=&6+3+2+1\\
-\end{array}
-$$
+A cada vèrtex del cub coincideixen $3$ arestes, i això significa que cada
+vèrtex serà, com a mínim, l'extrem d'un filferro. Per tal que un vèrtex
+no siga extrem de cap filferro, per aquest vèrtex els filferros haurien de
+*passar* però ni començar ni acabar. Com veiem a la figura següent, quan per un vèrtex
+*passa* un filferro (vermell), queda una aresta sola (negra), i per tant el vèrtex
+és a l'extrem del filferro negre:
 
-Observem una propietat que tenen els filferros quan els posem sobre arestes
-del cub: un filferro de longitud $n$, sempre deixarà un mínim de $n-1$
-vèrtexs (els del mig del camí) que tindran $2$ arestes emplenades.
-Com a cada vèrtex en un cub coincideixen $3$ arestes, açò vol dir que
-aquest vèrtex només podrà ser visitat per un filferro que comença o acaba.
+![Solució 25](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/solucions/25_0.png)
 
-En el cas de les tres primeres sumes, el $7$ i el $6$ deixen $6$ i $5$
-vèrtexs que només poden ser "visitats" per una aresta, i que per tant
-es correspondran amb el començament o final d'un filferro. En la primera suma,
-només hi ha un filferro més, i en la segona n'hi ha $2$, però com cada
-filferro només té dos extrems, no podran visitar els $6$ i $5$ vèrtexs
-necessaris.
+Com en un cub hi ha $8$ vèrtexs, hi haurà com a mínim $8$ extrems de filferros.
+Com cada filferro té $2$ extrems, com a mínim hi haurà $4$ filferros diferents.
+Una manera d'obtenir $12$ sumant $4$ filferros dels de l'enunciat és:
 
-Per tant, l'única forma vàlida és l'última, i la solució és la **D**.
-A continuació veiem una possible solució amb aquesta configuració:
+$$12=6+3+2+1$$
 
-![Solució 25](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/solucions/25.png)
+I podem comprovar que es pot construir el cub amb el següent dibuix:
+
+![Solució 25](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/solucions/25_1.png)
+
+Per tant, la solució és la **D**.
 
 ![Enunciat 26, nivell 2 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_2/enunciats/26.png)
 
