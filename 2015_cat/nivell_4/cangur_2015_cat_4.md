@@ -281,8 +281,8 @@ per tal que el $3$ i $5$ siguen la suma dels seus veïns.
 
 Però si a sota de tot va un $-16$, els $-8$ que hi ha al seu costat deurien complir:
 
-$$-8 = -15 - 5$$
-$$-8 = -15 - 3$$
+$$-8 = -16 - 5$$
+$$-8 = -16 - 3$$
 
 Com que aquestes igualtats no es compleixen, no es pot fer el que es demana, i la solució és la **E**.
 
