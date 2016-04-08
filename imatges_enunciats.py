@@ -60,7 +60,7 @@ for pagina in range(4):
     bw = gray.point(lambda x: 0 if x<128 else 255, '1')
     pixels = list(bw.getdata())
     width, height = image.size
-    pixels = [pixels[i*width: (i+1)*width] for i in xrange(height)]
+    pixels = [pixels[i*width: (i+1)*width] for i in range(height)]
 
     # Troba les posicions de les línies
     linies = obte_linies(pixels, width, height)
