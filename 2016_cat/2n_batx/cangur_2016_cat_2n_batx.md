@@ -188,23 +188,190 @@ $$(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
 
 ![Enunciat 11, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
+Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
+de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
+ser un $1$:
+
+* Si un número és $1$, qualsevol que sigui l'altre, es complirà que $x+1 > 1·x=x$.
+* Si cap dels dos números és $1$, no es complirà mai. El cas que més s'apropa és
+quan surten dos $2$: $2+2 \ngtr 2·2$, i a partir d'aqui la diferència s'eixampla:
+$2+3 \ngtr 2·3$, $3+3 \ngtr 3·3$.
+
+Així doncs, podem reformular l'enunciat com: quina és la probabilitat que surti
+algun número $1$ quan llancem els dos daus?
+
+Per saber la probabilitat que surti *algun* $1$ hem de sumar la probabilitat que surti
+en el primer dau, més la probabilitat que surti en el segon, menys la probabilitat
+que surti en els dos (perquè és una possibilitat que hem comptat dos cops). El resultat és:
+
+$$\frac16 + \frac16 - \frac16·\frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36}$$
+
+I la solució és la **D**.
+
 ![Enunciat 12, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+
+Si descomposem un nombre en factors primers, aquest serà un quadrat perfecte si tots els exponents
+són parells, i serà un cub perfecte si tots els exponents són múltiples de $3$.
+
+Pel que ens diu l'enunciat:
+
+* $10A=2·5·A$ és un quadrat perfecte. Llavors sabem que en la descomposició
+en factors primers d'$A$, el $2$ i el $5$ estan elevats a un exponent senar i
+qualsevol altre factor està elevat a un exponent parell.
+* $6A=2·3·A$ és un cub perfecte. Llavors sabem que en sumar $1$ als exponents
+de $2$ i $3$ en la descomposició d'$A$, els exponents són múltiples de $3$ i
+qualsevol altre factor està elevat a un exponent múltiple de $3$.
+
+El nombre més petit que compleix aquestes propietats és:
+
+$$A=2^5·3^2·5^3$$
+
+El nombre de divisors d'un nombre és el producte dels exponents més $1$ de cada factor primer:
+
+$$\text{divisors} = (5+1)·(2+1)·(3+1)= 6·3·4  = 72$$
+
+La solució és la **A**.
 
 ![Enunciat 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
 
+Podem fer un dibuix com el següent, que mostra una secció vertical de l'esfera:
+
+![Solució 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/13.png)
+
+Veiem que tenim un triangle rectangle amb catets $12$ i $r-8$, i amb una hipotenusa $r$.
+Pel Teorema de Pitàgores, tenim l'equació:
+
+$$12^2 + (r-8)^2 = r^2 \quad \Rightarrow \quad 144 + r^2 - 16r +64 = r^2 \quad \Rightarrow$$
+$$\Rightarrow \quad 208 - 16r = 0 \quad \Rightarrow \quad r=\frac{208}{16}=13$$
+
+Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
+
 ![Enunciat 14, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+
+Els divisors de $2016$ són els productes de totes les diferents combinacions dels factors primers:
+
+$$2016=2^5·3^2·7$$
+
+És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos cops...
+fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
+
+$$\text{divisors} = (5+1)·(2+1)·(1+1) = 6·3·2 = 36$$
+
+Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
+El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant la única solució
+que pot ser correcta és $2016^18$ i la solució és la **A**.
+
+Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
+veurem també que apareixen $18·5$ i $18·2$ vegades respectivament.
 
 ![Enunciat 15, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
 
+En multiplicar l'alçada per un factor $x$, la proporció passa de $\frac23$ a $\frac{12}{5}$:
+
+$$\frac23·x = \frac{5}{12} \quad \Rightarrow \quad x = \frac{5}{12}\frac32 = \frac{15}{24} = \frac58$$
+
+Per tant, hem hem retallat $1-\frac58 = \frac38$ de la fotografia. En tant per cent, és:
+
+$$100·\frac38 = 37,5\text{ %}$$
+
+I la solució és la **C**.
+
 ![Enunciat 16, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
+
+A l'equació $x^3+y^3 = x^2y^2$, crida l'atenció que a l'esquerra la $x$ i la $y$ estan
+elevades a $3$ i a la dreta estan elevades a $2$. Açò és significatiu perquè el resultat
+d'elevar un nombre negatiu al cub és negatiu, però és positiu si elevem el nombre al quadrat.
+
+Per aquesta raó mai pot haver cap punt al quadrant $III$, ja que en aquest
+quadrant $x$ i $y$ són negatives, i per tant a l'esquerra de l'equació el valor és negatiu
+i a la dreta és positiu. Així doncs, la solució és la **B**.
 
 ![Enunciat 17, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
 
+Els radis i altures del cilindre petit i gran respectivament són:
+
+$$r_1 = 15, \quad h_1 = 40, \quad r_2 = 20, \quad h_2 = 60$$
+
+El volum total dels dos cilindres (el volum d'un cilindre és l'àrea del cercle de la base per l'altura) és:
+
+$$V = V_1 + V_2 = \pi·15^2·40 + \pi·20^2·60 = 33.000\pi \text{ cm}^3$$
+
+Sabem que en $3$ minuts el nivell ha pujat $5\text{ cm}$ (del cilindre petit), per tant, s'ompli al ritme:
+
+$$\text{flux} = \frac{\pi·15^2·5}{3} = 375\pi \text{ cm}^3/\text{min}$$
+
+Per omplir els dos dipòsits trigarà:
+
+$$t=\frac{33000}{375} = 88\text{ min}$$
+
+I la solució és la **A**.
+
 ![Enunciat 18, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
+
+El residu sempre és més petit que el divisor, de manera que per obtindre els
+residus més grans possibles, hauríem de dividir pels divisors més grans possibles.
+En aquest cas, el divisor és la suma de les xifres d'un número més petit que $1000$.
+
+El divisor més gran possible és $27$, amb el número $999$. El residu és $0$: $999=27·37 + 0$.
+
+El segon divisor més gran possible és $26$, amb els números $998, 989, 899$. Els residus són:
+
+$$998 = 38·26 + 10$$
+$$989 = 38·26 + 1$$
+$$899 = 34·26 + 15$$
+
+El tercer divisor més gran és $25$, que es correspon amb combinacions de $997$ i $988$. Quan dividim
+per $25$ és fàcil veure si el residu serà $24$: només cal fixar-se en les últimes dues xifres i veure
+si acaben en $24,49,74,99$. Per tant, podem veure que $799$ serà el nombre que ens donarà la resposta:
+
+$$799 = 31*25 + 24$$
+
+I la solució és la **D**.
 
 ![Enunciat 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
 
+Anomenem $x_1, x_2$ els costats del primer i el segon quadrat respectivament, i fixem
+arbitràriament el radi del cercle com a $1$. Llavors, podem fer la següent figura,
+observant els dos triangles rectangles que podem construir:
+
+![Solució 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/13.png)
+
+Pel Teorema de Pitàgores podem deduir:
+
+$$x_1^2 + \left(\frac{x_1}2\right)^2 = 1^2 \quad \Rightarrow \quad \frac54x_1^2 = 1 \quad \Rightarrow \quad x_1 = \frac2{\sqrt5}$$
+$$\left(\frac{x_2}2\right)^2 + \left(\frac{x_2}2\right)^2 = 1^2 \quad \Rightarrow \quad \frac{x_2^2}{2} = 1 \quad \Rightarrow \quad x_2 = \sqrt2$$
+
+Les àrees dels quadrats, per tant, són:
+
+$$x_1^2 = \frac45, \quad x_2^2 = 2$$
+
+Com la primera placa quadrada pesa $2$ grams, la segona pesa:
+
+$$\frac2{\frac45}·2 = 5\text{ grams}$$
+
+I la solució és la **D**.
+
 ![Enunciat 20, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
+
+En primer lloc, podem trobar una solució trivial amb $x=1, y=6$:
+
+$$1!·7! = (1+6)!$$
+
+Per tal que $x·7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
+
+$$(7!-1)·7! = (7!)! = ((7!-1) + 1)$$
+
+Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8·9·10\cdots$.
+No cal provar molt per adonar-nos que: $8·9·10=720=6!$, per tant, amb $x=6, y=4$:
+
+$$7!6! = 10! = (6+4)!$$
+
+En total, hem trobat $3$ solucions per a l'equació. Vegem ara que no poden haver-hi infinites.
+
+Però això és evident, perquè amb $x>7!$, $x!·7!$ mai pot ser un factorial, i per tant
+el nombre de solucions ha de ser per força finit.
+
+Així, la solució és la **E**.
 
 ### Qüestions de 5 punts
 
