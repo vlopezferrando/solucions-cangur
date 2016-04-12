@@ -362,14 +362,14 @@ Per tal que $x·7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors,
 $$(7!-1)·7! = (7!)! = ((7!-1) + 1)$$
 
 Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8·9·10\cdots$.
-No cal provar molt per adonar-nos que: $8·9·10=720=6!$, per tant, amb $x=6, y=4$:
+No cal provar molt per adonar-nos que: $8·9·10 = 720 = 6!$, per tant, amb $x=6, y=4$:
 
 $$7!6! = 10! = (6+4)!$$
 
-En total, hem trobat $3$ solucions per a l'equació. Vegem ara que no poden haver-hi infinites.
+En total, hem trobat $3$ solucions per a l'equació, falta veure si poden haver-hi infinites.
 
-Però això és evident, perquè amb $x>7!$, $x!·7!$ mai pot ser un factorial, i per tant
-el nombre de solucions ha de ser per força finit.
+Però no poden haver infintes solucions perquè amb $x>7!$, $x!·7!$ mai pot ser
+un factorial, i per tant el nombre de solucions ha de ser per força finit.
 
 Així, la solució és la **E**.
 
@@ -377,9 +377,71 @@ Així, la solució és la **E**.
 
 ![Enunciat 21, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
 
+Els costats dels triangles han de mesurar: $1,2,3,4,5\text{ o }6$. Per tal de
+poder formar un triangle, tres segments han de complir el que s'anomena
+*desigualtat triangular*, que no és altra cosa que un costat no pot ser tan
+o més llarg que la suma dels altres dos. Per exemple, els segments $(6,3,3)$ no
+poden formar un triangle.
+
+Comptarem el nombre de triangles buscant terns $(a,b,c)$ amb $a\geq b\geq c$.
+Com $a,b,c$ estan ordenats de major a menor, la *desigualtat triangular* es complirà
+si $b+c > a$, o dit d'una altra manera, $c > a-b$.
+
+Per cada parella de valors $(a,b)$, comptarem quants valors pot prendre $c$ de
+manera que es compleixi la desigualtat anterior $(c > a-b)$, i també que
+sigui menor o igual que $b$, és a dir:
+
+$$b \geq c > a-b$$
+
+Per exemple
+
+* Si tenim $(6,6)$, s'ha de complir $c > 6-6=0$, i per tant $c$ pot prendre $6$ valors: $1,\ldots,6$.
+* Si tenim $(4,3)$, s'ha de complir $3 \geq c > 4-3=1$, i per tant $c$ pot prendre $2$ valors: $2,3$.
+
+I així calculem el nombre de possibilitats:
+
+$$
+\begin{array}[cccccc]
+(6,6)\rightarrow6 & (5,5)\rightarrow5 & (4,4)\rightarrow4 & (3,3)\rightarrow3 & (2,2)\rightarrow2 & (1,1)\rightarrow1 \\
+(6,5)\rightarrow4 & (5,4)\rightarrow3 & (4,3)\rightarrow2 & (3,2)\rightarrow1 \\
+(6,4)\rightarrow2 & (5,3)\rightarrow1
+\end{array}
+$$
+
+En total:
+
+6+4+5+3+1+2+4+2+3+1+2+1 = 34
+
+En total hi ha $34$ triangles diferents que es poden fer i la solució és la **B**.
+
 ![Enunciat 22, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
 
+En primer lloc, comptem de quantes maneres diferents podem triar $3$ punts
+entre els $12$ punts que hi ha, sense importar l'ordre. La resposta és:
+
+$$
+\begin{pmatrix}
+3 \\ 12
+\end{pmatrix} = \frac{12·11·10}{3·2} = 220
+$$
+
+Però no totes aquestes combinacions formes triangles, perquè pot ser que els tres
+punts estiguen alineats. Comptem les maneres que tenim de triar $3$ punts sobre un mateix
+costat:
+
+$$
+\begin{pmatrix}
+3 \\ 5
+\end{pmatrix} = \frac{5·4·3}{3·2} = 10
+$$
+
+Com hi ha $3$ costats, en total hi ha $3·10=30$ formes diferents de triar $3$ punts alineats.
+
+En total es poden dibuixar $220-30=190$ triangles diferents i la solució és la **E**.
+
 ![Enunciat 23, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
+
+
 
 ![Enunciat 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
 
