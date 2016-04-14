@@ -2,6 +2,7 @@ Title: Solucions del Cangur 2016 a Catalunya: Nivell 4t d'ESO
 Date: 2016-4-21 12:00
 Tags: cangur, matemàtiques
 Category: cangur
+Status: draft
 Slug: solucions-cangur-2016-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2016 a Catalunya
 

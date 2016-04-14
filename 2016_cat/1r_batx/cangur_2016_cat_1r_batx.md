@@ -2,6 +2,7 @@ Title: Solucions del Cangur 2016 a Catalunya: Nivell 1r de batxillerat
 Date: 2016-4-21 12:00
 Tags: cangur, matemàtiques
 Category: cangur
+Status: draft
 Slug: solucions-cangur-2016-catalunya-1r-batx
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2016 a Catalunya
 

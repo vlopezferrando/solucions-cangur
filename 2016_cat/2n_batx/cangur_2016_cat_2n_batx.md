@@ -40,7 +40,7 @@ La segona $U$ va a la segona fila, però només pot anar a
 una de dues caselles (no pot estar a la mateixa columna que la primera
 lletra $U$). Per tant, hi ha:
 
-$$3·2=6$$
+$$3\cdot2=6$$
 
 formes de col·locar les lletres $U$.
 
@@ -48,7 +48,7 @@ La resta de lletres de $SUDOKU$, és a dir, $S,D,K,O$ són diferents. Les haurem
 de situar a les quatre caselles lliures. Hi ha tantes maneres diferents de fer-ho com permutations de les lletres $SDKO$, és a dir, $4!$. En total,
 hi ha:
 
-$$6·4!=6·24=144$$
+$$6\cdot 4!=6\cdot 24=144$$
 
 formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**.
 
@@ -62,7 +62,7 @@ Anomenem els dos costats diferents del rectangle *base* i *altura* $(b, h)$, seg
 troben a les bases del cilindre o no. La base del rectangle coincideix amb el perímetre dels cercles, és a dir, $b=2\pi$. Sabem que l'àrea del rectangle
 és $\pi$, per tant:
 
-$$A_{rectangle}=b·h \quad \Rightarrow \quad \pi = 2\pi·h \quad \Rightarrow \quad h = \frac12$$
+$$A_{rectangle}=b\cdot h \quad \Rightarrow \quad \pi = 2\pi\cdot h \quad \Rightarrow \quad h = \frac12$$
 
 I la solució és la **E**.
 
@@ -71,12 +71,12 @@ I la solució és la **E**.
 Per ser un quadrat perfecte, en la descomposició en factors primers tot els
 factors han d'estar elevats a un exponent parell. La descomposició de $2016$ és:
 
-$$2016=2^5·3^2·7$$
+$$2016=2^5\cdot 3^2\cdot 7$$
 
 Per tal que el producte siga un quadrat perfecte, hem de multiplicar com a mínim per
-$2·7=14$, de manera que:
+$2\cdot 7=14$, de manera que:
 
-$$2016·14=2^6·3^2·7^2=(2^3·3·7)^2$$
+$$2016\cdot 14=2^6\cdot 3^2\cdot 7^2=(2^3\cdot 3\cdot 7)^2$$
 
 I la solució és la **D**.
 
@@ -97,10 +97,10 @@ i per tant el resultat és parell. La solució és la **E**.
 
 ![Enunciat 5, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
 
-Com que no sabem quina proporció dels $200€$ és deguda al gas i a l'electricitat,
+Com que no sabem quina proporció dels $200$ € és deguda al gas i a l'electricitat,
 no podrem deduir el preu de la propera factura.
 
-Per exemple, si tota la factura fós deguda al gas, hauria de pagar $204€$, i si fós tota deguda
+Per exemple, si tota la factura fós deguda al gas, hauria de pagar $204$ €, i si fós tota deguda
 a l'electricitat, n'hauria de pagar $208$. Com l'enunciat no ens dóna més
 informació, no ho podem saber i la solució és la **C**.
 
@@ -124,7 +124,7 @@ $$xy = 3y-3x = 3(y-x) = 3$$
 
 Llavors, com volíem saber:
 
-$$(x+y)^2 = 1 + 4xy = 1 + 4·3 = 13$$
+$$(x+y)^2 = 1 + 4xy = 1 + 4\cdot 3 = 13$$
 
 I la solució és la **C**.
 
@@ -141,7 +141,7 @@ Dilluns, dimarts i dimecres, el bodeguer ven $6$ dels $30$ litres de la bóta
 i la reompli d'aigua, és a dir, multiplica per $1-\frac{6}{30}=\frac{4}{5}$
 la quantitat de vi que conté la bóta. Com ho fa $3$ cops, al final de vi en queda:
 
-$$30·\left(\frac45\right)^3 = 30·\frac{64}{125} = 15,36$$
+$$30\cdot \left(\frac45\right)^3 = 30\cdot \frac{64}{125} = 15,36$$
 
 La quantitat d'aigua que hi ha és la diferència: $30-15,36=14,64$, i la solució és la **B**.
 
@@ -156,7 +156,7 @@ i per tant el sector circular ombrejat mesura $60^\circ$.
 Així doncs, es tracta d'una sisena part del cercle, $60^\circ$ de $360^\circ$,
 i per tant l'àrea és:
 
-$$A=\frac16·\pi·1^2 = \frac{\pi}{6}$$
+$$A=\frac16\cdot \pi\cdot 1^2 = \frac{\pi}{6}$$
 
 I la solució és la **B**.
 
@@ -179,12 +179,12 @@ $$(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
 
 La suma és:
 
-$$(a+b)^3 + (a-b)^3 = 2a^3 + 2·3ab^2$$
+$$(a+b)^3 + (a-b)^3 = 2a^3 + 2\cdot 3ab^2$$
 
 Per tant:
 
-$$a^3 + b^3 = \frac{2·3^3 + 2·3·3·\sqrt{5}^2}{8} =$$
-$$= \frac{54 + 18·5}{8} = \frac{144}{8} = 18$$
+$$a^3 + b^3 = \frac{2\cdot 3^3 + 2\cdot 3\cdot 3\cdot \sqrt{5}^2}{8} =$$
+$$= \frac{54 + 18\cdot 5}{8} = \frac{144}{8} = 18$$
 
 I la solució és la **D**.
 
@@ -196,10 +196,10 @@ Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
 de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
 ser un $1$:
 
-* Si un número és $1$, qualsevol que sigui l'altre, es complirà que $x+1 > 1·x=x$.
+* Si un número és $1$, qualsevol que sigui l'altre, es complirà que $x+1 > 1\cdot x=x$.
 * Si cap dels dos números és $1$, no es complirà mai. El cas que més s'apropa és
-quan surten dos $2$: $2+2 \ngtr 2·2$, i a partir d'aquí la diferència s'eixampla:
-$2+3 \ngtr 2·3$, $3+3 \ngtr 3·3$.
+quan surten dos $2$: $2+2 \ngtr 2\cdot 2$, i a partir d'aquí la diferència s'eixampla:
+$2+3 \ngtr 2\cdot 3$, $3+3 \ngtr 3\cdot 3$.
 
 Així doncs, podem reformular l'enunciat com: quina és la probabilitat que surti
 algun número $1$ quan llancem els dos daus?
@@ -208,7 +208,7 @@ Per saber la probabilitat que surti *algun* $1$ hem de sumar la probabilitat que
 en el primer dau, més la probabilitat que surti en el segon, menys la probabilitat
 que surti en els dos (perquè és una possibilitat que hem comptat dos cops). El resultat és:
 
-$$\frac16 + \frac16 - \frac16·\frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36}$$
+$$\frac16 + \frac16 - \frac16\cdot \frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36}$$
 
 I la solució és la **D**.
 
@@ -219,20 +219,20 @@ són parells, i serà un cub perfecte si tots els exponents són múltiples de $
 
 Pel que ens diu l'enunciat:
 
-* $10A=2·5·A$ és un quadrat perfecte. Llavors sabem que en la descomposició
+* $10A=2\cdot 5\cdot A$ és un quadrat perfecte. Llavors sabem que en la descomposició
 en factors primers d'$A$, el $2$ i el $5$ estan elevats a un exponent senar i
 qualsevol altre factor està elevat a un exponent parell.
-* $6A=2·3·A$ és un cub perfecte. Llavors sabem que en sumar $1$ als exponents
+* $6A=2\cdot 3\cdot A$ és un cub perfecte. Llavors sabem que en sumar $1$ als exponents
 de $2$ i $3$ en la descomposició d'$A$, els exponents són múltiples de $3$ i
 qualsevol altre factor està elevat a un exponent múltiple de $3$.
 
 El nombre més petit que compleix aquestes propietats és:
 
-$$A=2^5·3^2·5^3$$
+$$A=2^5\cdot 3^2\cdot 5^3$$
 
 El nombre de divisors d'un nombre és el producte dels exponents més $1$ de cada factor primer:
 
-$$\text{n. divisors} = (5+1)·(2+1)·(3+1)= 6·3·4  = 72$$
+$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (3+1)= 6\cdot 3\cdot 4  = 72$$
 
 La solució és la **A**.
 
@@ -260,29 +260,29 @@ Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
 Els divisors de $2016$ són els productes de totes les diferents combinacions dels factors primers:
 
-$$2016=2^5·3^2·7$$
+$$2016=2^5\cdot 3^2\cdot 7$$
 
 És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos cops...
 fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
 
-$$\text{n. divisors} = (5+1)·(2+1)·(1+1) = 6·3·2 = 36$$
+$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (1+1) = 6\cdot 3\cdot 2 = 36$$
 
 Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
 El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant la única solució
 que pot ser correcta és $2016^{18}$ i la solució és la **A**.
 
 Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
-veurem també que apareixen $18·5$ i $18·2$ vegades respectivament.
+veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades respectivament.
 
 ![Enunciat 15, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
 
 En multiplicar l'alçada per un factor $x$, la proporció passa de $\frac23$ a $\frac{12}{5}$:
 
-$$\frac23·x = \frac{5}{12} \quad \Rightarrow \quad x = \frac{5}{12}\frac32 = \frac{15}{24} = \frac58$$
+$$\frac23\cdot x = \frac{5}{12} \quad \Rightarrow \quad x = \frac{5}{12}\frac32 = \frac{15}{24} = \frac58$$
 
 Per tant, hem retallat $1-\frac58 = \frac38$ de la fotografia. En tant per cent, és:
 
-$$100·\frac38 = 37,5\text{ \%}$$
+$$100\cdot \frac38 = 37,5\text{ \%}$$
 
 I la solució és la **C**.
 
@@ -304,11 +304,11 @@ $$r_1 = 15, \quad h_1 = 40, \quad r_2 = 20, \quad h_2 = 60$$
 
 El volum total dels dos cilindres (el volum d'un cilindre és l'àrea del cercle de la base per l'altura) és:
 
-$$V = V_1 + V_2 = \pi·15^2·40 + \pi·20^2·60 = 33.000\pi \text{ cm}^3$$
+$$V = V_1 + V_2 = \pi\cdot 15^2\cdot 40 + \pi\cdot 20^2\cdot 60 = 33.000\pi \text{ cm}^3$$
 
 Sabem que en $3$ minuts el nivell ha pujat $5\text{ cm}$ (del cilindre petit), per tant, s'ompli al ritme:
 
-$$\text{flux} = \frac{\pi·15^2·5}{3} = 375\pi \text{ cm}^3/\text{min}$$
+$$\text{flux} = \frac{\pi\cdot 15^2\cdot 5}{3} = 375\pi \text{ cm}^3/\text{min}$$
 
 Per omplir els dos dipòsits trigarà:
 
@@ -324,19 +324,19 @@ En aquest cas, el divisor és la suma de les xifres d'un número més petit que 
 
 El divisor més gran possible és $27$, amb el número $999$, però en aquest cas el residu és $0$:
 
-$$999=27·37 + 0$$
+$$999=27\cdot 37 + 0$$
 
 El segon divisor més gran possible és $26$, amb els números $998, 989, 899$. Els residus són:
 
-$$998 = 38·26 + 10$$
-$$989 = 38·26 + 1$$
-$$899 = 34·26 + 15$$
+$$998 = 38\cdot 26 + 10$$
+$$989 = 38\cdot 26 + 1$$
+$$899 = 34\cdot 26 + 15$$
 
 El tercer divisor més gran és $25$, que es correspon amb combinacions de $997$ i $988$. Quan dividim
 per $25$ és fàcil veure si el residu serà $24$: només cal fixar-se en les últimes dues xifres i veure
 si acaben en $24,49,74,99$. Per tant, podem veure que $799$ serà el nombre que ens donarà la resposta:
 
-$$799 = 31·25 + 24$$
+$$799 = 31\cdot 25 + 24$$
 
 I la solució és la **D**.
 
@@ -359,7 +359,7 @@ $$x_1^2 = \frac45, \quad x_2^2 = 2$$
 
 Com la primera placa quadrada pesa $2$ grams, la segona pesa:
 
-$$\frac2{\frac45}·2 = 5\text{ grams}$$
+$$\frac2{\frac45}\cdot 2 = 5\text{ grams}$$
 
 I la solució és la **D**.
 
@@ -367,20 +367,20 @@ I la solució és la **D**.
 
 En primer lloc, podem trobar una solució trivial amb $x=1, y=6$:
 
-$$1!·7! = (1+6)!$$
+$$1!\cdot 7! = (1+6)!$$
 
-Per tal que $x·7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
+Per tal que $x\cdot 7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
 
-$$(7!-1)·7! = (7!)! = ((7!-1) + 1)$$
+$$(7!-1)\cdot 7! = (7!)! = ((7!-1) + 1)$$
 
-Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8·9·10\cdots$.
-No cal provar molt per adonar-nos que: $8·9·10 = 720 = 6!$, per tant, amb $x=6, y=4$:
+Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8\cdot 9\cdot 10\cdots$.
+No cal provar molt per adonar-nos que: $8\cdot 9\cdot 10 = 720 = 6!$, per tant, amb $x=6, y=4$:
 
-$$7!·6! = 10! = (6+4)!$$
+$$7!\cdot 6! = 10! = (6+4)!$$
 
 En total, hem trobat $3$ solucions per a l'equació, falta veure si poden haver-hi infinites.
 
-Però no poden haver infintes solucions perquè amb $x>7!$, $x!·7!$ mai pot ser
+Però no poden haver infintes solucions perquè amb $x>7!$, $x!\cdot 7!$ mai pot ser
 un factorial, i per tant el nombre de solucions ha de ser per força finit.
 
 Així, la solució és la **E**.
@@ -434,7 +434,7 @@ entre els $12$ punts que hi ha, sense importar l'ordre. La resposta és:
 $$
 \begin{pmatrix}
 3 \\ 12
-\end{pmatrix} = \frac{12·11·10}{3·2} = 220
+\end{pmatrix} = \frac{12\cdot 11\cdot 10}{3\cdot 2} = 220
 $$
 
 Però no totes aquestes combinacions formen triangles, perquè pot ser que els tres
@@ -444,10 +444,10 @@ costat:
 $$
 \begin{pmatrix}
 3 \\ 5
-\end{pmatrix} = \frac{5·4·3}{3·2} = 10
+\end{pmatrix} = \frac{5\cdot 4\cdot 3}{3\cdot 2} = 10
 $$
 
-Com hi ha $3$ costats, en total hi ha $3·10=30$ formes diferents de triar $3$ punts alineats.
+Com hi ha $3$ costats, en total hi ha $3\cdot 10=30$ formes diferents de triar $3$ punts alineats.
 
 En total es poden dibuixar $220-30=190$ triangles diferents i la solució és la **E**.
 
@@ -493,14 +493,14 @@ són:
 Per la banda positiva, la recta talla el sinus dos cops per cada *turó*, i els *turons*
 estan situats als intervals $(n, n+0.5)$.
 Concretament, les gràfiques es tallaran $2$ cops a cada interval
-$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2·2016=$ interseccions.
+$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2\cdot 2016=$ interseccions.
 
-Per la banda negativa, el raonament és el mateix, de manera que hi ha també $2·2016$ interseccions.
+Per la banda negativa, el raonament és el mateix, de manera que hi ha també $2\cdot 2016$ interseccions.
 
 Ara bé, hem comptat dos cops una mateixa intersecció: la de l'origen de coordenades ($x=0$).
 Així doncs, el nombre total de solucions és:
 
-$$2·2016+2·2016-1=8063$$
+$$2\cdot 2016+2\cdot 2016-1=8063$$
 
 I la solució és la **D**.
 
@@ -538,11 +538,11 @@ $$f(xy) = \frac{f(x)}y$$
 
 Llavors, podem buscar $f(24)$ amb:
 
-$$f(24) = f(8·3) = \frac{f(8)}3$$
+$$f(24) = f(8\cdot 3) = \frac{f(8)}3$$
 
 I podem esbrinar el valor de $f(8)$ amb:
 
-$$f(32) = f(8·4) = \frac{f(8)}4 = 63 \quad \Rightarrow \quad f(8) = 63·4 = 252$$
+$$f(32) = f(8\cdot 4) = \frac{f(8)}4 = 63 \quad \Rightarrow \quad f(8) = 63\cdot 4 = 252$$
 
 Finalment:
 
@@ -597,21 +597,30 @@ $$\sum^{\infty}_{n=0}xr^n = 50x$$
 Es tracta d'una progressió geomètrica infinita la suma de la qual és $\frac{x}{1-r}$.
 Podem plantejar l'equació:
 
-$$\frac{x}{1-r} = 50x \quad \Rightarrow \quad 1= 50·(1-r) = 50 - 50r \quad \Rightarrow \quad r = \frac{49}{50}$$
+$$\frac{x}{1-r} = 50x \quad \Rightarrow \quad 1= 50\cdot (1-r) = 50 - 50r \quad \Rightarrow \quad r = \frac{49}{50}$$
 
-Una proporció de $\frac{49}{50}$ en tant per cent és $100·\frac{49}{50}=98\%$.
+Una proporció de $\frac{49}{50}$ en tant per cent és $100\cdot \frac{49}{50}=98\%$.
 Si s'utilitza un $98\%$ del petroli de l'any anterior, significa que s'ha reduit
 el consum en un $2\%$ i per tant la solució és la **D**.
 
 ![Enunciat 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
 
-Solucionarem aquest problema de manera senzilla dibuixant una circumferència
-circumscrita al quadrat:
+Anomenem $\beta$ l'angle que volem esbrinar, i anomenem $\alpha, \alpha'$ els
+dos angles aguts del triangle rectangle $AFG$. Com és un triangle rectangle,
+aquests dos angles són complementaris, és a dir, $\alpha+\alpha'=90^\circ$.
+
+Ara projectem el punt $D$ als dos altres costats, i anomenem $D_1, D_2$
+els nous punts. Tal com es veu a la figura, tenim dos triangles rectangles ($ADD_1, DD_2C$, en vermell clar)
+que tenen els mateixos angles, i a més, la seua hipotenusa mesura el mateix
+(les hipotenuses són costats del quadrat). Per tant, els triangles vermells són iguals.
 
 ![Solució 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/29.png)
 
-Veiem que l'angle $\alpha$ que volem esbrinar abarca un arc de $90^\circ$, i
-per això mesura la meitat, $45^\circ$, i la solució és la **B**.
+Com els triangles $ADD_1$ i $DD_2C$ són iguals, el quadrilàter $DD_2FD_1$ és un
+quadrat, i el segment $FD$ és una diagonal del quadrat. Llavors, l'angle $\beta$
+que volíem esbrinar és la meitat de l'angle recte i per tant mesura $45^\circ$.
+
+La solució és la **C**.
 
 ![Enunciat 30, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
 
