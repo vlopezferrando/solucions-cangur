@@ -268,7 +268,7 @@ fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
 $$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (1+1) = 6\cdot 3\cdot 2 = 36$$
 
 Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
-El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant la única solució
+El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant l'única solució
 que pot ser correcta és $2016^{18}$ i la solució és la **A**.
 
 Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
@@ -638,7 +638,7 @@ Per tant, tenim:
 
 $$10+X+Y = 55 - 10X - Y \quad \Rightarrow \quad 11X + 2Y = 45$$
 
-La única solució entera amb $X,Y<10$ d'aquesta equació és $X=3, Y=6$. Per tant
+L'única solució entera amb $X,Y<10$ d'aquesta equació és $X=3, Y=6$. Per tant
 el matemàtic va nàixer l'any $1936$, va fer $50$ anys el $1986$ i la suma
 de les xifres d'aquest any és $1+9+8+6=24$.
 
