@@ -54,58 +54,6 @@ formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**
 
 ![Enunciat 2, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
 
-L'àrea dels cercles és $\pi$, i per la fórmula de l'àrea d'un cercle $(\pi r^2)$
-podem deduir que el radi és $r=1$. La longitud de la circumferència serà doncs
-$2\pi$ (per la fórmula $2\pi r$).
-
-Anomenem els dos costats diferents del rectangle *base* i *altura* $(b, h)$, segons si es
-troben a les bases del cilindre o no. La base del rectangle coincideix amb el perímetre dels cercles, és a dir, $b=2\pi$. Sabem que l'àrea del rectangle
-és $\pi$, per tant:
-
-$$A_{rectangle}=b\cdot h \quad \Rightarrow \quad \pi = 2\pi\cdot h \quad \Rightarrow \quad h = \frac12$$
-
-I la solució és la **E**.
-
-![Enunciat 3, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
-
-Per ser un quadrat perfecte, en la descomposició en factors primers tot els
-factors han d'estar elevats a un exponent parell. La descomposició de $2016$ és:
-
-$$2016=2^5\cdot 3^2\cdot 7$$
-
-Per tal que el producte siga un quadrat perfecte, hem de multiplicar com a mínim per
-$2\cdot 7=14$, de manera que:
-
-$$2016\cdot 14=2^6\cdot 3^2\cdot 7^2=(2^3\cdot 3\cdot 7)^2$$
-
-I la solució és la **D**.
-
-![Enunciat 4, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
-
-En primer lloc fixem-nos que tots els nombres primers són senars excepte un: el $2$.
-
-Albert escriu una quantitat parella de nombres primers, i la suma és senar. Si tots els
-nombres primers que ha escrit fóssin senars, la suma seria parella, de manera que entre
-els nombres que ha escrit hi és el $2$.
-
-Blanca ha escrit una quantitat senar de nombres primers, i la suma és parella. Si
-només hagués escrit nombres primers senars, la suma seria senar, de manera que ha d'haver
-escrit el número $2$.
-
-De manera que tant per l'Albert com per la Blanca, els productes de nombres contenen el $2$
-i per tant el resultat és parell. La solució és la **E**.
-
-![Enunciat 5, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
-
-Com que no sabem quina proporció dels $200$ € és deguda al gas i a l'electricitat,
-no podrem deduir el preu de la propera factura.
-
-Per exemple, si tota la factura fós deguda al gas, hauria de pagar $204$ €, i si fós tota deguda
-a l'electricitat, n'hauria de pagar $208$. Com l'enunciat no ens dóna més
-informació, no ho podem saber i la solució és la **C**.
-
-![Enunciat 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
-
 En primer lloc operem amb  $(x+y)^2$:
 
 $$(x+y)^2 = x^2 + 2xy + y^2 = x^2 - 2xy + y^2 + 4xy = (y-x)^2 + 4xy$$
@@ -126,16 +74,38 @@ Llavors, com volíem saber:
 
 $$(x+y)^2 = 1 + 4xy = 1 + 4\cdot 3 = 13$$
 
-I la solució és la **C**.
+I la solució és la **E**.
 
-![Enunciat 7, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 3, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
 
-En total hi ha $12$ quadrats diferents, com podem veure a la figura següent,
-i la solució és la **E**.
+En primer lloc fixem-nos que tots els nombres primers són senars excepte un: el $2$.
 
-![Solució 7, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/07.png)
+Albert escriu una quantitat parella de nombres primers, i la suma és senar. Si tots els
+nombres primers que ha escrit fóssin senars, la suma seria parella, de manera que entre
+els nombres que ha escrit hi és el $2$.
 
-![Enunciat 8, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+Blanca ha escrit una quantitat senar de nombres primers, i la suma és parella. Si
+només hagués escrit nombres primers senars, la suma seria senar, de manera que ha d'haver
+escrit el número $2$.
+
+De manera que tant per l'Albert com per la Blanca, els productes de nombres contenen el $2$
+i per tant el resultat és parell. La solució és la **D**.
+
+![Enunciat 4, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+
+Per ser un quadrat perfecte, en la descomposició en factors primers tot els
+factors han d'estar elevats a un exponent parell. La descomposició de $2016$ és:
+
+$$2016=2^5\cdot 3^2\cdot 7$$
+
+Per tal que el producte siga un quadrat perfecte, hem de multiplicar com a mínim per
+$2\cdot 7=14$, de manera que:
+
+$$2016\cdot 14=2^6\cdot 3^2\cdot 7^2=(2^3\cdot 3\cdot 7)^2$$
+
+I la solució és la **E**.
+
+![Enunciat 5, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
 
 Dilluns, dimarts i dimecres, el bodeguer ven $6$ dels $30$ litres de la bóta
 i la reompli d'aigua, és a dir, multiplica per $1-\frac{6}{30}=\frac{4}{5}$
@@ -143,7 +113,37 @@ la quantitat de vi que conté la bóta. Com ho fa $3$ cops, al final de vi en qu
 
 $$30\cdot \left(\frac45\right)^3 = 30\cdot \frac{64}{125} = 15,36$$
 
-La quantitat d'aigua que hi ha és la diferència: $30-15,36=14,64$, i la solució és la **B**.
+La quantitat d'aigua que hi ha és la diferència: $30-15,36=14,64$, i la solució és la **C**.
+
+![Enunciat 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
+
+En total hi ha $12$ quadrats diferents, com podem veure a la figura següent,
+i la solució és la **C**.
+
+![Solució 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/06.png)
+
+![Enunciat 7, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+
+Com que no sabem quina proporció dels $200$ € és deguda al gas i a l'electricitat,
+no podrem deduir el preu de la propera factura.
+
+Per exemple, si tota la factura fós deguda al gas, hauria de pagar $204$ €, i si fós tota deguda
+a l'electricitat, n'hauria de pagar $208$. Com l'enunciat no ens dóna més
+informació, no ho podem saber i la solució és la **E**.
+
+![Enunciat 8, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+
+L'àrea dels cercles és $\pi$, i per la fórmula de l'àrea d'un cercle $(\pi r^2)$
+podem deduir que el radi és $r=1$. La longitud de la circumferència serà doncs
+$2\pi$ (per la fórmula $2\pi r$).
+
+Anomenem els dos costats diferents del rectangle *base* i *altura* $(b, h)$, segons si es
+troben a les bases del cilindre o no. La base del rectangle coincideix amb el perímetre dels cercles, és a dir, $b=2\pi$. Sabem que l'àrea del rectangle
+és $\pi$, per tant:
+
+$$A_{rectangle}=b\cdot h \quad \Rightarrow \quad \pi = 2\pi\cdot h \quad \Rightarrow \quad h = \frac12$$
+
+I la solució és la **B**.
 
 ![Enunciat 9, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
 
@@ -192,49 +192,45 @@ I la solució és la **D**.
 
 ![Enunciat 11, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
-Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
-de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
-ser un $1$:
+Els divisors de $2016$ són els productes de totes les diferents combinacions dels factors primers:
 
-* Si un número és $1$, qualsevol que sigui l'altre, es complirà que $x+1 > 1\cdot x=x$.
-* Si cap dels dos números és $1$, no es complirà mai. El cas que més s'apropa és
-quan surten dos $2$: $2+2 \ngtr 2\cdot 2$, i a partir d'aquí la diferència s'eixampla:
-$2+3 \ngtr 2\cdot 3$, $3+3 \ngtr 3\cdot 3$.
+$$2016=2^5\cdot 3^2\cdot 7$$
 
-Així doncs, podem reformular l'enunciat com: quina és la probabilitat que surti
-algun número $1$ quan llancem els dos daus?
+És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos cops...
+fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
 
-Per saber la probabilitat que surti *algun* $1$ hem de sumar la probabilitat que surti
-en el primer dau, més la probabilitat que surti en el segon, menys la probabilitat
-que surti en els dos (perquè és una possibilitat que hem comptat dos cops). El resultat és:
+$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (1+1) = 6\cdot 3\cdot 2 = 36$$
 
-$$\frac16 + \frac16 - \frac16\cdot \frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36}$$
+Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
+El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant l'única solució
+que pot ser correcta és $2016^{18}$ i la solució és la **D**.
 
-I la solució és la **D**.
+Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
+veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades respectivament.
 
 ![Enunciat 12, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
 
-Si descomposem un nombre en factors primers, aquest serà un quadrat perfecte si tots els exponents
-són parells, i serà un cub perfecte si tots els exponents són múltiples de $3$.
+El residu sempre és més petit que el divisor, de manera que per obtindre els
+residus més grans possibles, hauríem de dividir pels divisors més grans possibles.
+En aquest cas, el divisor és la suma de les xifres d'un número més petit que $1000$.
 
-Pel que ens diu l'enunciat:
+El divisor més gran possible és $27$, amb el número $999$, però en aquest cas el residu és $0$:
 
-* $10A=2\cdot 5\cdot A$ és un quadrat perfecte. Llavors sabem que en la descomposició
-en factors primers d'$A$, el $2$ i el $5$ estan elevats a un exponent senar i
-qualsevol altre factor està elevat a un exponent parell.
-* $6A=2\cdot 3\cdot A$ és un cub perfecte. Llavors sabem que en sumar $1$ als exponents
-de $2$ i $3$ en la descomposició d'$A$, els exponents són múltiples de $3$ i
-qualsevol altre factor està elevat a un exponent múltiple de $3$.
+$$999=27\cdot 37 + 0$$
 
-El nombre més petit que compleix aquestes propietats és:
+El segon divisor més gran possible és $26$, amb els números $998, 989, 899$. Els residus són:
 
-$$A=2^5\cdot 3^2\cdot 5^3$$
+$$998 = 38\cdot 26 + 10$$
+$$989 = 38\cdot 26 + 1$$
+$$899 = 34\cdot 26 + 15$$
 
-El nombre de divisors d'un nombre és el producte dels exponents més $1$ de cada factor primer:
+El tercer divisor més gran és $25$, que es correspon amb combinacions de $997$ i $988$. Quan dividim
+per $25$ és fàcil veure si el residu serà $24$: només cal fixar-se en les últimes dues xifres i veure
+si acaben en $24,49,74,99$. Per tant, podem veure que $799$ serà el nombre que ens donarà la resposta:
 
-$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (3+1)= 6\cdot 3\cdot 4  = 72$$
+$$799 = 31\cdot 25 + 24$$
 
-La solució és la **A**.
+I la solució és la **A**.
 
 ![Enunciat 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
 
@@ -258,21 +254,25 @@ Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
 ![Enunciat 14, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
 
-Els divisors de $2016$ són els productes de totes les diferents combinacions dels factors primers:
+Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
+de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
+ser un $1$:
 
-$$2016=2^5\cdot 3^2\cdot 7$$
+* Si un número és $1$, qualsevol que sigui l'altre, es complirà que $x+1 > 1\cdot x=x$.
+* Si cap dels dos números és $1$, no es complirà mai. El cas que més s'apropa és
+quan surten dos $2$: $2+2 \ngtr 2\cdot 2$, i a partir d'aquí la diferència s'eixampla:
+$2+3 \ngtr 2\cdot 3$, $3+3 \ngtr 3\cdot 3$.
 
-És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos cops...
-fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
+Així doncs, podem reformular l'enunciat com: quina és la probabilitat que surti
+algun número $1$ quan llancem els dos daus?
 
-$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (1+1) = 6\cdot 3\cdot 2 = 36$$
+Per saber la probabilitat que surti *algun* $1$ hem de sumar la probabilitat que surti
+en el primer dau, més la probabilitat que surti en el segon, menys la probabilitat
+que surti en els dos (perquè és una possibilitat que hem comptat dos cops). El resultat és:
 
-Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
-El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant l'única solució
-que pot ser correcta és $2016^{18}$ i la solució és la **A**.
+$$\frac16 + \frac16 - \frac16\cdot \frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36}$$
 
-Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
-veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades respectivament.
+I la solució és la **A**.
 
 ![Enunciat 15, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
 
@@ -294,7 +294,7 @@ d'elevar un nombre negatiu al cub és negatiu, però és positiu si elevem el no
 
 Per aquesta raó mai pot haver cap punt al quadrant $\text{III}$, ja que en aquest
 quadrant $x$ i $y$ són negatives, i per tant a l'esquerra de l'equació el valor és negatiu
-i a la dreta és positiu. Així doncs, la solució és la **B**.
+i a la dreta és positiu. Així doncs, la solució és la **C**.
 
 ![Enunciat 17, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
 
@@ -318,27 +318,27 @@ I la solució és la **A**.
 
 ![Enunciat 18, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
 
-El residu sempre és més petit que el divisor, de manera que per obtindre els
-residus més grans possibles, hauríem de dividir pels divisors més grans possibles.
-En aquest cas, el divisor és la suma de les xifres d'un número més petit que $1000$.
+Si descomposem un nombre en factors primers, aquest serà un quadrat perfecte si tots els exponents
+són parells, i serà un cub perfecte si tots els exponents són múltiples de $3$.
 
-El divisor més gran possible és $27$, amb el número $999$, però en aquest cas el residu és $0$:
+Pel que ens diu l'enunciat:
 
-$$999=27\cdot 37 + 0$$
+* $10A=2\cdot 5\cdot A$ és un quadrat perfecte. Llavors sabem que en la descomposició
+en factors primers d'$A$, el $2$ i el $5$ estan elevats a un exponent senar i
+qualsevol altre factor està elevat a un exponent parell.
+* $6A=2\cdot 3\cdot A$ és un cub perfecte. Llavors sabem que en sumar $1$ als exponents
+de $2$ i $3$ en la descomposició d'$A$, els exponents són múltiples de $3$ i
+qualsevol altre factor està elevat a un exponent múltiple de $3$.
 
-El segon divisor més gran possible és $26$, amb els números $998, 989, 899$. Els residus són:
+El nombre més petit que compleix aquestes propietats és:
 
-$$998 = 38\cdot 26 + 10$$
-$$989 = 38\cdot 26 + 1$$
-$$899 = 34\cdot 26 + 15$$
+$$A=2^5\cdot 3^2\cdot 5^3$$
 
-El tercer divisor més gran és $25$, que es correspon amb combinacions de $997$ i $988$. Quan dividim
-per $25$ és fàcil veure si el residu serà $24$: només cal fixar-se en les últimes dues xifres i veure
-si acaben en $24,49,74,99$. Per tant, podem veure que $799$ serà el nombre que ens donarà la resposta:
+El nombre de divisors d'un nombre és el producte dels exponents més $1$ de cada factor primer:
 
-$$799 = 31\cdot 25 + 24$$
+$$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (3+1)= 6\cdot 3\cdot 4  = 72$$
 
-I la solució és la **D**.
+La solució és la **D**.
 
 ![Enunciat 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
 
@@ -346,7 +346,7 @@ Anomenem $x_1, x_2$ els costats del primer i el segon quadrat respectivament, i 
 arbitràriament el radi del cercle com a $1$. Llavors, podem fer la següent figura,
 observant els dos triangles rectangles que podem construir:
 
-![Solució 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/13.png)
+![Solució 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/19.png)
 
 Pel Teorema de Pitàgores podem deduir:
 
@@ -389,42 +389,29 @@ Així, la solució és la **E**.
 
 ![Enunciat 21, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
 
-Els costats dels triangles han de mesurar: $1,2,3,4,5\text{ o }6$. Per tal de
-poder formar un triangle, tres segments han de complir el que s'anomena
-*desigualtat triangular*, que diu que un segment no pot ser tant
-o més llarg que la suma dels altres dos. Per exemple, els segments $(6,3,3)$ no
-poden formar un triangle.
+Resoldrem aquest problema usant el
+[Petit teorema de Fermat](https://ca.wikipedia.org/wiki/Petit_teorema_de_Fermat){:target="_blank"}, que diu:
 
-Comptarem el nombre de triangles buscant terns $(a,b,c)$ amb $a\geq b\geq c$.
-Com $a,b,c$ estan ordenats de major a menor, la *desigualtat triangular* es complirà
-si $b+c > a$, o dit d'una altra manera, $c > a-b$.
+«Si $p$ és un nombre primer, aleshores, per cada nombre natural $a$ coprimer
+amb $p$, $a^{p-1} \equiv 1 (\text{mod } p)$»
 
-Per cada parella de valors $(a,b)$, comptarem quants valors pot prendre $c$ de
-manera que es compleixi la desigualtat anterior $(c > a-b)$, i també que
-sigui menor o igual que $b$, és a dir:
+L'equació $a^{p-1} \equiv 1 (\text{mod } p)$ es llegeix
+«$a$ elevat a $p$ menys $1$ és congruent amb $1$ mòdul $p$», i vol
+dir que en dividir $a^{p-1}$ per $p$, el residu de la divisió és $1$.
 
-$$b \geq c > a-b$$
+Podem aplicar aquest teorema al nostre problema amb $p=3$ (la $p$ del teorema), llavors tenim que:
 
-Per exemple
+$$p^2 \equiv 1 (\text{mod } 3) \quad \Rightarrow \quad p^2 + 2 \equiv 3 (\text{mod } 3) \equiv 0 (\text{mod } 3)$$
 
-* Si tenim $(6,6)$, s'ha de complir $6 \geq c > 6-6=0$, i per tant $c$ pot prendre $6$ valors: $1,\ldots,6$.
-* Si tenim $(4,3)$, s'ha de complir $3 \geq c > 4-3=1$, i per tant $c$ pot prendre $2$ valors: $2,3$.
+Així hem vist que per qualsevol $p$ que siga coprimer amb $3$, $p^2 + 2$ serà
+un múltiple de $3$, i per tant no pot ser primer.
 
-I així calculem el nombre de possibilitats:
+Tots els nombres primers són coprimers amb $3$ excepte el $3$ mateix. Per $3$:
 
-$$
-\begin{array}[cccccc] \\
-(6,6)\rightarrow6 & (5,5)\rightarrow5 & (4,4)\rightarrow4 & (3,3)\rightarrow3 & (2,2)\rightarrow2 & (1,1)\rightarrow1 \\
-(6,5)\rightarrow4 & (5,4)\rightarrow3 & (4,3)\rightarrow2 & (3,2)\rightarrow1 \\
-(6,4)\rightarrow2 & (5,3)\rightarrow1
-\end{array}
-$$
+$$3^2+2=11 \text(primer)$$
 
-En total:
-
-$$6+4+5+3+1+2+4+2+3+1+2+1 = 34$$
-
-Hi ha $34$ triangles diferents que es poden fer i la solució és la **B**.
+De manera que només pot haver un nombre $p$ que compleixi que $p^2+2$ és també primer,
+i la solució és la **B**.
 
 ![Enunciat 22, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
 
@@ -480,78 +467,6 @@ I per tant la solució és la **C**.
 
 ![Enunciat 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
 
-En primer lloc, adonem-nos que a l'esquerra de l'equació tenim un sinus, de manera
-que el seu valor estarà a l'interval $[-1, 1]$. Per tal de no sobrepassar aquest
-límit a la dreta de l'equació, la $x$ haurà d'estar a l'interval $[-2016, 2016]$.
-
-Per comptar el nombre de solucions dibuixarem la gràfica de les dues funcions,
-i comptant el nombre d'interseccions sabrem el nombre de solucions. Les gràfiques
-són:
-
-![Solució 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/24.png)
-
-Per la banda positiva, la recta talla el sinus dos cops per cada *turó*, i els *turons*
-estan situats als intervals $(n, n+0.5)$.
-Concretament, les gràfiques es tallaran $2$ cops a cada interval
-$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2\cdot 2016=$ interseccions.
-
-Per la banda negativa, el raonament és el mateix, de manera que hi ha també $2\cdot 2016$ interseccions.
-
-Ara bé, hem comptat dos cops una mateixa intersecció: la de l'origen de coordenades ($x=0$).
-Així doncs, el nombre total de solucions és:
-
-$$2\cdot 2016+2\cdot 2016-1=8063$$
-
-I la solució és la **D**.
-
-![Enunciat 25, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
-
-Resoldrem aquest problema usant el
-[Petit teorema de Fermat](https://ca.wikipedia.org/wiki/Petit_teorema_de_Fermat){:target="_blank"}, que diu:
-
-«Si $p$ és un nombre primer, aleshores, per cada nombre natural $a$ coprimer
-amb $p$, $a^{p-1} \equiv 1 (\text{mod } p)$»
-
-L'equació $a^{p-1} \equiv 1 (\text{mod } p)$ es llegeix
-«$a$ elevat a $p$ menys $1$ és congruent amb $1$ mòdul $p$», i vol
-dir que en dividir $a^{p-1}$ per $p$, el residu de la divisió és $1$.
-
-Podem aplicar aquest teorema al nostre problema amb $p=3$ (la $p$ del teorema), llavors tenim que:
-
-$$p^2 \equiv 1 (\text{mod } 3) \quad \Rightarrow \quad p^2 + 2 \equiv 3 (\text{mod } 3) \equiv 0 (\text{mod } 3)$$
-
-Així hem vist que per qualsevol $p$ que siga coprimer amb $3$, $p^2 + 2$ serà
-un múltiple de $3$, i per tant no pot ser primer.
-
-Tots els nombres primers són coprimers amb $3$ excepte el $3$ mateix. Per $3$:
-
-$$3^2+2=11 \text(primer)$$
-
-De manera que només pot haver un nombre $p$ que compleixi que $p^2+2$ és també primer,
-i la solució és la **E**.
-
-![Enunciat 26, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
-
-Podem expressar la primera equació com:
-
-$$f(xy) = \frac{f(x)}y$$
-
-Llavors, podem buscar $f(24)$ amb:
-
-$$f(24) = f(8\cdot 3) = \frac{f(8)}3$$
-
-I podem esbrinar el valor de $f(8)$ amb:
-
-$$f(32) = f(8\cdot 4) = \frac{f(8)}4 = 63 \quad \Rightarrow \quad f(8) = 63\cdot 4 = 252$$
-
-Finalment:
-
-$$f(24) = \frac{f(8)}3 = \frac{252}3 = 84$$
-
-I la solució és la **B**.
-
-![Enunciat 27, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
-
 Si volem pintar un edifici de $10$ plantes, per començar tenim dues opcions:
 pintar la primera planta de blau o pintar-la de groc:
 
@@ -582,9 +497,48 @@ $$N_4=8, \quad N_5=13, \quad N_6=21,$$
 $$N_7=34, \quad N_8=55, \quad N_9=89,$$
 $$N_{10}=144$$
 
-I la solució és la **E**.
+I la solució és la **D**.
 
-![Enunciat 28, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 25, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
+
+Els costats dels triangles han de mesurar: $1,2,3,4,5\text{ o }6$. Per tal de
+poder formar un triangle, tres segments han de complir el que s'anomena
+*desigualtat triangular*, que diu que un segment no pot ser tant
+o més llarg que la suma dels altres dos. Per exemple, els segments $(6,3,3)$ no
+poden formar un triangle.
+
+Comptarem el nombre de triangles buscant terns $(a,b,c)$ amb $a\geq b\geq c$.
+Com $a,b,c$ estan ordenats de major a menor, la *desigualtat triangular* es complirà
+si $b+c > a$, o dit d'una altra manera, $c > a-b$.
+
+Per cada parella de valors $(a,b)$, comptarem quants valors pot prendre $c$ de
+manera que es compleixi la desigualtat anterior $(c > a-b)$, i també que
+sigui menor o igual que $b$, és a dir:
+
+$$b \geq c > a-b$$
+
+Per exemple
+
+* Si tenim $(6,6)$, s'ha de complir $6 \geq c > 6-6=0$, i per tant $c$ pot prendre $6$ valors: $1,\ldots,6$.
+* Si tenim $(4,3)$, s'ha de complir $3 \geq c > 4-3=1$, i per tant $c$ pot prendre $2$ valors: $2,3$.
+
+I així calculem el nombre de possibilitats:
+
+$$
+\begin{array}[cccccc] \\
+(6,6)\rightarrow6 & (5,5)\rightarrow5 & (4,4)\rightarrow4 & (3,3)\rightarrow3 & (2,2)\rightarrow2 & (1,1)\rightarrow1 \\
+(6,5)\rightarrow4 & (5,4)\rightarrow3 & (4,3)\rightarrow2 & (3,2)\rightarrow1 \\
+(6,4)\rightarrow2 & (5,3)\rightarrow1
+\end{array}
+$$
+
+En total:
+
+$$6+4+5+3+1+2+4+2+3+1+2+1 = 34$$
+
+Hi ha $34$ triangles diferents que es poden fer i la solució és la **E**.
+
+![Enunciat 26, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
 
 Anomenem $x$ la despesa anual que es fa de petroli, de manera que hi ha una reserva total de $50x$.
 Cada any es reduirà la despesa de manera proporcional i anomenem $r$ aquesta proporció. Llavors,
@@ -601,7 +555,53 @@ $$\frac{x}{1-r} = 50x \quad \Rightarrow \quad 1= 50\cdot (1-r) = 50 - 50r \quad 
 
 Una proporció de $\frac{49}{50}$ en tant per cent és $100\cdot \frac{49}{50}=98\%$.
 Si s'utilitza un $98\%$ del petroli de l'any anterior, significa que s'ha reduit
-el consum en un $2\%$ i per tant la solució és la **D**.
+el consum en un $2\%$ i per tant la solució és la **B**.
+
+![Enunciat 27, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
+
+En primer lloc, adonem-nos que a l'esquerra de l'equació tenim un sinus, de manera
+que el seu valor estarà a l'interval $[-1, 1]$. Per tal de no sobrepassar aquest
+límit a la dreta de l'equació, la $x$ haurà d'estar a l'interval $[-2016, 2016]$.
+
+Per comptar el nombre de solucions dibuixarem la gràfica de les dues funcions,
+i comptant el nombre d'interseccions sabrem el nombre de solucions. Les gràfiques
+són:
+
+![Solució 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/24.png)
+
+Per la banda positiva, la recta talla el sinus dos cops per cada *turó*, i els *turons*
+estan situats als intervals $(n, n+0.5)$.
+Concretament, les gràfiques es tallaran $2$ cops a cada interval
+$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2\cdot 2016=$ interseccions.
+
+Per la banda negativa, el raonament és el mateix, de manera que hi ha també $2\cdot 2016$ interseccions.
+
+Ara bé, hem comptat dos cops una mateixa intersecció: la de l'origen de coordenades ($x=0$).
+Així doncs, el nombre total de solucions és:
+
+$$2\cdot 2016+2\cdot 2016-1=8063$$
+
+I la solució és la **E**.
+
+![Enunciat 28, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+
+Podem expressar la primera equació com:
+
+$$f(xy) = \frac{f(x)}y$$
+
+Llavors, podem buscar $f(24)$ amb:
+
+$$f(24) = f(8\cdot 3) = \frac{f(8)}3$$
+
+I podem esbrinar el valor de $f(8)$ amb:
+
+$$f(32) = f(8\cdot 4) = \frac{f(8)}4 = 63 \quad \Rightarrow \quad f(8) = 63\cdot 4 = 252$$
+
+Finalment:
+
+$$f(24) = \frac{f(8)}3 = \frac{252}3 = 84$$
+
+I la solució és la **D**.
 
 ![Enunciat 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
 
