@@ -1,17 +1,20 @@
 Title: Solucions del Cangur 2016 a Catalunya: Nivell 2n de batxillerat
-Date: 2016-4-14 12:00
+Date: 2016-5-19 12:00
 Tags: cangur, matemàtiques
 Category: cangur
 Slug: solucions-cangur-2016-catalunya-2n-batx
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2016 a Catalunya
 
-Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
+Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del
+Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model
+d'examen del [pdf
+d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
-Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
-
-Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Les solucions estan amagades (cal fer clic per mostrar-les) perquè és
+recomanable pensar detingudament cada problema abans de mirar la solució que jo
+proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -28,7 +31,8 @@ Podeu accedir a les qüestions directament:
   [25](#questio-25), [26](#questio-26), [27](#questio-27), [28](#questio-28),
   [29](#questio-29), [30](#questio-30)
 
-Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques i *Le Kangourou sans Frontières*.
+Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
+i *Le Kangourou sans Frontières*.
 
 ### Qüestions de 3 punts
 
@@ -172,19 +176,22 @@ LLavors, tenim que:
 $$a^3+b^3 = \left(\frac{3 + \sqrt5}{2}\right)^3 + \left(\frac{3 - \sqrt5}{2}\right)^3 =$$
 $$= \frac{(3+\sqrt5)^3 + (3-\sqrt5)^3}{8}$$
 
-Tenint en compte que:
+Per fer la suma $(3+\sqrt5)^3 + (3-\sqrt5)^3$, tinguem en compte que:
 
 $$(a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$
 $$(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$$
 
-La suma és:
+I la suma és:
 
-$$(a+b)^3 + (a-b)^3 = 2a^3 + 2\cdot 3ab^2$$
+$$(a+b)^3 + (a-b)^3 = 2a^3 + 6ab^2$$
 
 Per tant:
 
-$$a^3 + b^3 = \frac{2\cdot 3^3 + 2\cdot 3\cdot 3\cdot \sqrt{5}^2}{8} =$$
-$$= \frac{54 + 18\cdot 5}{8} = \frac{144}{8} = 18$$
+$$(3+\sqrt5)^3 + (3-\sqrt5)^3 = 2\cdot 3^3 + 6\cdot 3\cdot \sqrt{5}^2 = 54 + 18\cdot 5 = 144$$
+
+En definitiva, tenim que:
+
+$$a^3 + b^3 = \frac{144}{8} = 18$$
 
 I la solució és la **D**.
 
@@ -192,21 +199,25 @@ I la solució és la **D**.
 
 ![Enunciat 11, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
-Els divisors de $2016$ són els productes de totes les diferents combinacions dels factors primers:
+Els divisors de $2016$ són els productes de totes les diferents combinacions
+dels seus factors primers. Aquests factors primers són:
 
 $$2016=2^5\cdot 3^2\cdot 7$$
 
-És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos cops...
-fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total hi ha:
+És a dir, per construir un divisor, podem posar el $2$ multiplicant un cop, dos
+cops... fins a $5$ cops, i de manera equivalent amb el $3$ i el $7$. En total
+hi ha:
 
 $$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (1+1) = 6\cdot 3\cdot 2 = 36$$
 
-Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no en tindran cap.
-El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets, i per tant l'única solució
-que pot ser correcta és $2016^{18}$ i la solució és la **D**.
+Dels $36$ divisors, la meitat tindran un $7$ com a factor, i l'altra meitat no
+en tindran cap. El producte de tots els divisors tindrà $\frac{36}{2}=18$ sets,
+i per tant l'única solució que pot ser correcta és $2016^{18}$ i la solució és
+la **D**.
 
-Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de tots els divisors,
-veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades respectivament.
+Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de
+tots els divisors, veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades
+respectivament.
 
 ![Enunciat 12, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
 
@@ -282,7 +293,7 @@ $$\frac23\cdot x = \frac{5}{12} \quad \Rightarrow \quad x = \frac{5}{12}\frac32 
 
 Per tant, hem retallat $1-\frac58 = \frac38$ de la fotografia. En tant per cent, és:
 
-$$100\cdot \frac38 = 37,5\text{ \%}$$
+$$100\cdot \frac38 = 37,5\text{ %}$$
 
 I la solució és la **C**.
 
@@ -371,7 +382,7 @@ $$1!\cdot 7! = (1+6)!$$
 
 Per tal que $x\cdot 7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
 
-$$(7!-1)\cdot 7! = (7!)! = ((7!-1) + 1)$$
+$$(7!-1)\cdot 7! = (7!)! = ((7!-1) + 1)!$$
 
 Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8\cdot 9\cdot 10\cdots$.
 No cal provar molt per adonar-nos que: $8\cdot 9\cdot 10 = 720 = 6!$, per tant, amb $x=6, y=4$:
@@ -408,7 +419,7 @@ un múltiple de $3$, i per tant no pot ser primer.
 
 Tots els nombres primers són coprimers amb $3$ excepte el $3$ mateix. Per $3$:
 
-$$3^2+2=11 \text(primer)$$
+$$3^2+2=11 \text{( primer)}$$
 
 De manera que només pot haver un nombre $p$ que compleixi que $p^2+2$ és també primer,
 i la solució és la **B**.
@@ -456,7 +467,7 @@ rectes secants amb una circumferència ($45^\circ$ en el nostre cas), és
 la meitat de l'arc gran menys el petit:
 
 $$
-45 = \frac{\stackrel{\textstyle\frown}{\mathrm{AB}} + \stackrel{\textstyle\frown}{\mathrm{CD}}}{2}
+45 = \frac{\stackrel{\textstyle\frown}{\mathrm{CD}} - \stackrel{\textstyle\frown}{\mathrm{AB}}}{2}
 \quad \Rightarrow \quad
 45 = \frac{2\alpha - 60}{2}
 \quad \Rightarrow \quad
@@ -572,11 +583,11 @@ són:
 Per la banda positiva, la recta talla el sinus dos cops per cada *turó*, i els *turons*
 estan situats als intervals $(n, n+0.5)$.
 Concretament, les gràfiques es tallaran $2$ cops a cada interval
-$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2\cdot 2016=$ interseccions.
+$(0,0.5), (1, 1.5), \ldots, (2015, 2015.5)$. En total, es tracta de $2\cdot 2016$ interseccions.
 
 Per la banda negativa, el raonament és el mateix, de manera que hi ha també $2\cdot 2016$ interseccions.
 
-Ara bé, hem comptat dos cops una mateixa intersecció: la de l'origen de coordenades ($x=0$).
+Ara bé, hem comptat dos cops una mateixa intersecció: la de l'origen de coordenades $(x=0)$.
 Així doncs, el nombre total de solucions és:
 
 $$2\cdot 2016+2\cdot 2016-1=8063$$
