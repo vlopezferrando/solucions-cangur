@@ -6,7 +6,7 @@ Status: draft
 Slug: solucions-cangur-2016-catalunya-1r-batx
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2016 a Catalunya
 
-Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
+Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -33,66 +33,120 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/01.png)
 
-![Enunciat 2, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
+Intentarem simplificar la divisió eliminant els termes que siguen múltiples de
+$21$, ja que per aquests el residu serà zero. Com que $21=3·7$, els múltiples
+de $21$ tindran $3$ i $7$ entre els seus factors primers. Fixem-nos en cada
+terme de la resta:
 
-![Enunciat 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
+* $6\times2014\times7\times2015$ conté el factor $7$ i també el $3$ (perquè
+  $6=2·3$), per tant és múltiple de $21$.
+* Podem expressar $8·2016$ com $8·2^5·3^2·7$ si factoritzem $2016$, i per tant
+  veiem que també és un múltiple de $21$.
 
-![Enunciat 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+La resta de dos múltiples de $21$ serà múltiple de $21$ i per tant el residu
+és $0$. La solució és la **A**.
 
-![Enunciat 5, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 2, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/02.png)
 
-![Enunciat 6, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
+Anomenem $h$ l'altura del triangle i donem el valor arbitrari de $b=10$ a la base.
+Hem triat aquest valor perquè ens ajudarà a simplificar les operacions.
+Llavors l'àrea total és:
 
-![Enunciat 7, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+$$A_{total}=\frac12·10·h = 5h$$
 
-![Enunciat 8, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+Pel [Teorema de Tales](https://ca.wikipedia.org/wiki/Teorema_de_Tales), sabem
+que els segments horitzontals tenen longituds $10, 8, 6, 4, 2$.
 
-![Enunciat 9, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
+Llavors, l'àrea grisa és la suma de l'àrea de dos trapezis i un triangle, tots
+amb una altura de $\frac15h$. Recordant que l'àrea d'un trapezi és la meitat de
+l'altura per la suma de les dues bases, tenim que l'àrea grisa mesura:
 
-![Enunciat 10, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
+$$A_{gris} = \frac15h\frac12\left(2 + (10+8) + (6+4)\right)=3h$$
+
+Llavors, el percentatge d'àrea blanca és:
+
+$$\frac{3h}{5h} = \frac{3}{5} = \frac{60}{100} = 60\%$$
+
+I la solució és la **A**.
+
+![Enunciat 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/03.png)
+
+La única figura que no cap és la **E**. Per tal de tenir una àrea igual a la
+del quadrat, un triangle equilàter haurà de sobresortir, com veiem a la figura:
+
+![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/03.png)
+
+![Enunciat 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/04.png)
+
+Els costats del quadrat i del triangle mesuren el mateix, ja que comparteixen
+el costat $CD$. Així, el triangle $ADF$ és isòsceles. Centrant-nos en aquest
+triangle, podem dibuixar la figura:
+
+![Solució 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/04.png)
+
+Com coneixem els angles del quadrat i del triangle, podem esbrinar l'angle $\alpha$:
+
+$$\alpha = \frac{180 - (90+60)}2 = \frac{30}2=15$$
+
+Per tant, l'angle $BAF$ serà l'angle recte menys l'angle $\alpha$: $90-15=75$;
+i la solució és la **C**.
+
+![Enunciat 5, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/05.png)
+
+
+
+![Enunciat 6, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/06.png)
+
+![Enunciat 7, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/07.png)
+
+![Enunciat 8, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/08.png)
+
+![Enunciat 9, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/09.png)
+
+![Enunciat 10, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/10.png)
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/11.png)
 
-![Enunciat 12, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/12.png)
 
-![Enunciat 13, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/13.png)
 
-![Enunciat 14, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/14.png)
 
-![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/15.png)
 
-![Enunciat 16, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/16.png)
 
-![Enunciat 17, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/17.png)
 
-![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/18.png)
 
-![Enunciat 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/19.png)
 
-![Enunciat 20, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/20.png)
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/21.png)
 
-![Enunciat 22, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/22.png)
 
-![Enunciat 23, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/23.png)
 
-![Enunciat 24, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/24.png)
 
-![Enunciat 25, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/25.png)
 
-![Enunciat 26, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/26.png)
 
-![Enunciat 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/27.png)
 
-![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/28.png)
 
-![Enunciat 29, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/29.png)
 
-![Enunciat 30, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/30.png)
