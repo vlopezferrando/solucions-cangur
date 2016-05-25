@@ -242,14 +242,74 @@ que el residu no és $2$). La solució és la **E**.
 
 ![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/15.png)
 
+Girem la figura i anomenem $x$ el segment del qual volem
+saber la longitud, i $y$ el segment que completa $a$ per
+formar un triangle a sota.
 
+![Solució 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/solucions/15.png)
+
+Pel [Teorema de Tales](https://ca.wikipedia.org/wiki/Teorema_de_Tales)
+sabem que:
+
+$$\frac{y}{a} = \frac{a}{x} \quad \Rightarrow \quad
+x=\frac{a^2}y$$
+
+Mitjançant el triangle rectangle que hem dibuixat i que té
+un angle de trenta graus, podem esbrinar el valor de $y$:
+
+$$\cos30 = \frac{\sqrt3}2 = \frac{\frac{a}2}y \quad \Rightarrow \quad y = \frac{a}{\sqrt3}$$
+
+I llavors podem trobar $x$:
+
+$$x = \frac{a^2}{\frac{a}{\sqrt3}} = a\sqrt3$$
+
+I la solució és la **D**.
 
 ![Enunciat 16, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/16.png)
 
+Els tres segments han de complir la *desigualtat triangular*,
+que diu que la longitud d'un segment no pot ser major que la
+suma dels altres dos.
+
+Per una banda, comprovem que els costats $k$ i $2k$ sumen una
+longitud major que $1$:
+
+$$1 <k + 2k \quad \Rightarrow \quad \frac13 < k$$
+
+Per una altra banda, els segments $1$ i $k$ han de sumar
+una longitud major que $2k$:
+
+$$1+k > 2k\quad \Rightarrow \quad 1 > k$$
+
+En resum, tenim que:
+
+$$\frac13 < k < 1$$
+
+I la solució és la **B**.
+
 ![Enunciat 17, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/17.png)
 
-![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/18.png)
+A la figura veiem que la gràfica passa pels punts:
 
+$$(-1,0), (0,3), (1, 0)$$
+
+Usant aquesta informació, busquem el paràmetre $b$:
+
+Pel segon punt sabem que:
+
+$$3=a·0^3+b·0^2+c·0+d \quad \Rightarrow \quad d = 3$$
+
+Pel primer i tercer punts tenim el sistema:
+
+$$0 = -a + b - c + d \\ 0 = a + b + c + d$$
+
+Sumant les dues equacions tenim:
+
+$$2b+2d =0 \quad \Rightarrow \quad b = -d = -3$$
+
+I la solució és la **B**.
+
+![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/18.png)
 
 Comencem resolent el sistema:
 
@@ -315,6 +375,25 @@ quadrant $x$ i $y$ són negatives, i per tant a l'esquerra de l'equació el valo
 i a la dreta és positiu. Així doncs, la solució és la **D**.
 
 ![Enunciat 22, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/22.png)
+
+Si anomenem $x$ la llargada de les espelmes, aquestes cremen
+al ritme:
+
+$$\frac{x}{5},\quad \frac{x}{4}$$
+
+Després d'un temps $t$, queda la següent llargada per cada
+espelma:
+
+$$x-t\frac{x}{5} = x(1-\frac{t}5),\quad x-t\frac{x}{4} = x(1-\frac{t}4)$$
+
+Com una és quatre vegades més llarga que l'altra, tenim que:
+
+$$\frac{x(1-\frac{t}5)}{x(1-\frac{t}4)} = 4 \quad \Rightarrow$$
+$$\frac{\frac{5-t}5}{\frac{4-t}4} = \frac{20 - 4t}{20 -5t}=4 \quad \Rightarrow$$
+$$20-4t = 80-20t \quad \Rightarrow \quad 16t=60\quad t=3+\frac34$$
+
+És a dir, han passat $3$ hores i $3$ quarts, i per tant són
+les 22.45. La solució és la **B**.
 
 ![Enunciat 23, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/23.png)
 
