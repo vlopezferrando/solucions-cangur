@@ -170,6 +170,12 @@ La solució és la **C**.
 
 ![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/11.png)
 
+L'àrea del rectangle és $16·9=144$, de manera que si formem un quadrat
+d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
+serà $4·12=48$, l'opció **C**. Comprovem que podem formar aquest quadrat:
+
+![Solució 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/solucions/11.png)
+
 ![Enunciat 12, nivell de 1r de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/1r_batx/enunciats/12.png)
 
 En primer lloc operem amb  $(x+y)^2$:
