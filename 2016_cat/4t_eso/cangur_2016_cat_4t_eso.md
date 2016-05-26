@@ -6,7 +6,7 @@ Status: draft
 Slug: solucions-cangur-2016-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2016 a Catalunya
 
-Ja he preparat el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_4t_eso.pdf){:target="_blank"}.
+Ja he preparat el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciat_2016_cat_4t_eso.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -33,66 +33,80 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/01.png)
 
-![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
+Si traiem els parèntesis ens queda:
 
-![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
+$$2016-2015+2014-2013+\cdots+2006-2005=$$
+$$=(2016-2015) + (2014-2013) + \cdots + (2006-2005) =$$
+$$=1+1+\cdots+1$$
 
-![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+Veiem que cada parella suma $1$, i en total hi ha $6$ parelles, per tant
+el resultat és $6$: la solució **A**.
 
-![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/02.png)
 
-![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
+Al quadrat hi ha $5·5=25$ quadradets, de manera que com a molt podrem
+posar $6$ figures ($6·4=24$ quadradets). Vegem que podem fer-ho:
 
-![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+![Solució 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/02.png)
 
-![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/03.png)
 
-![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/04.png)
 
-![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/05.png)
+
+![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/06.png)
+
+![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/07.png)
+
+![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/08.png)
+
+![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/09.png)
+
+![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/10.png)
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/11.png)
 
-![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/12.png)
 
-![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/13.png)
 
-![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/14.png)
 
-![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/15.png)
 
-![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/16.png)
 
-![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/17.png)
 
-![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/18.png)
 
-![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/19.png)
 
-![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/20.png)
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/21.png)
 
-![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/22.png)
 
-![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/23.png)
 
-![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/24.png)
 
-![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/25.png)
 
-![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/26.png)
 
-![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/27.png)
 
-![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/28.png)
 
-![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/29.png)
 
-![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/30.png)
