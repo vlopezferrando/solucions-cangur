@@ -2,13 +2,14 @@ Title: Solucions del Cangur 2016 a Catalunya: Nivell 2n de batxillerat
 Date: 2016-5-19 12:00
 Tags: cangur, matemàtiques
 Category: cangur
+Keywords: 2016
 Slug: solucions-cangur-2016-catalunya-2n-batx
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2016 a Catalunya
 
 Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del
 Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model
 d'examen del [pdf
-d'enunciats](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
+d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -36,7 +37,7 @@ i *Le Kangourou sans Frontières*.
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/01.png)
+![Enunciat 1, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
 
 En primer lloc comptem de quantes maneres podem col·locar les lletres $U$.
 A la primera fila va una lletra $U$, a una de les $3$ caselles.
@@ -56,7 +57,7 @@ $$6\cdot 4!=6\cdot 24=144$$
 
 formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**.
 
-![Enunciat 2, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/02.png)
+![Enunciat 2, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
 
 En primer lloc operem amb  $(x+y)^2$:
 
@@ -80,7 +81,7 @@ $$(x+y)^2 = 1 + 4xy = 1 + 4\cdot 3 = 13$$
 
 I la solució és la **E**.
 
-![Enunciat 3, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/03.png)
+![Enunciat 3, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
 
 En primer lloc fixem-nos que tots els nombres primers són senars excepte un: el $2$.
 
@@ -95,7 +96,7 @@ escrit el número $2$.
 De manera que tant per l'Albert com per la Blanca, els productes de nombres contenen el $2$
 i per tant el resultat és parell. La solució és la **D**.
 
-![Enunciat 4, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/04.png)
+![Enunciat 4, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
 
 Per ser un quadrat perfecte, en la descomposició en factors primers tot els
 factors han d'estar elevats a un exponent parell. La descomposició de $2016$ és:
@@ -109,7 +110,7 @@ $$2016\cdot 14=2^6\cdot 3^2\cdot 7^2=(2^3\cdot 3\cdot 7)^2$$
 
 I la solució és la **E**.
 
-![Enunciat 5, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/05.png)
+![Enunciat 5, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
 
 Dilluns, dimarts i dimecres, el bodeguer ven $6$ dels $30$ litres de la bóta
 i la reompli d'aigua, és a dir, multiplica per $1-\frac{6}{30}=\frac{4}{5}$
@@ -119,14 +120,14 @@ $$30\cdot \left(\frac45\right)^3 = 30\cdot \frac{64}{125} = 15,36$$
 
 La quantitat d'aigua que hi ha és la diferència: $30-15,36=14,64$, i la solució és la **C**.
 
-![Enunciat 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/06.png)
+![Enunciat 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
 
 En total hi ha $12$ quadrats diferents, com podem veure a la figura següent,
 i la solució és la **C**.
 
-![Solució 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/06.png)
+![Solució 6, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/06.png)
 
-![Enunciat 7, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/07.png)
+![Enunciat 7, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
 
 Com que no sabem quina proporció dels $200$ € és deguda al gas i a l'electricitat,
 no podrem deduir el preu de la propera factura.
@@ -135,7 +136,7 @@ Per exemple, si tota la factura fós deguda al gas, hauria de pagar $204$ €, i
 a l'electricitat, n'hauria de pagar $208$. Com l'enunciat no ens dóna més
 informació, no ho podem saber i la solució és la **E**.
 
-![Enunciat 8, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/08.png)
+![Enunciat 8, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
 
 L'àrea dels cercles és $\pi$, i per la fórmula de l'àrea d'un cercle $(\pi r^2)$
 podem deduir que el radi és $r=1$. La longitud de la circumferència serà doncs
@@ -149,13 +150,13 @@ $$A_{rectangle}=b\cdot h \quad \Rightarrow \quad \pi = 2\pi\cdot h \quad \Righta
 
 I la solució és la **B**.
 
-![Enunciat 9, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/09.png)
+![Enunciat 9, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
 
 Els dos semicercles tenen radi $1$, i com es pot veure a la figura, els tres
 segments marcats mesuren $1$, de manera que formen un triangle equilàter
 i per tant el sector circular ombrejat mesura $60^\circ$.
 
-![Solució 9, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/09.png)
+![Solució 9, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/09.png)
 
 Així doncs, es tracta d'una sisena part del cercle, $60^\circ$ de $360^\circ$,
 i per tant l'àrea és:
@@ -164,7 +165,7 @@ $$A=\frac16\cdot \pi\cdot 1^2 = \frac{\pi}{6}$$
 
 I la solució és la **B**.
 
-![Enunciat 10, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/10.png)
+![Enunciat 10, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
 
 Comencem resolent el sistema:
 
@@ -197,7 +198,7 @@ I la solució és la **D**.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/11.png)
+![Enunciat 11, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
 Els divisors de $2016$ són els productes de totes les diferents combinacions
 dels seus factors primers. Aquests factors primers són:
@@ -219,7 +220,7 @@ Si comptem el nombre de vegades que apareixen el $2$ i el $3$ en el producte de
 tots els divisors, veurem també que apareixen $18\cdot 5$ i $18\cdot 2$ vegades
 respectivament.
 
-![Enunciat 12, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/12.png)
+![Enunciat 12, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
 
 El residu sempre és més petit que el divisor, de manera que per obtindre els
 residus més grans possibles, hauríem de dividir pels divisors més grans possibles.
@@ -243,11 +244,11 @@ $$799 = 31\cdot 25 + 24$$
 
 I la solució és la **A**.
 
-![Enunciat 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/13.png)
+![Enunciat 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
 
 Podem fer un dibuix com el següent, que mostra una secció vertical de l'esfera:
 
-![Solució 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/13.png)
+![Solució 13, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/13.png)
 
 Veiem que tenim un triangle rectangle amb catets $12$ i $r-8$, i amb una hipotenusa $r$.
 Pel teorema de Pitàgores, tenim l'equació:
@@ -263,7 +264,7 @@ $$
 
 Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
-![Enunciat 14, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/14.png)
+![Enunciat 14, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
 
 Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
 de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
@@ -285,7 +286,7 @@ $$\frac16 + \frac16 - \frac16\cdot \frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36
 
 I la solució és la **A**.
 
-![Enunciat 15, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/15.png)
+![Enunciat 15, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
 
 En multiplicar l'alçada per un factor $x$, la proporció passa de $\frac23$ a $\frac{12}{5}$:
 
@@ -297,7 +298,7 @@ $$100\cdot \frac38 = 37,5\text{ %}$$
 
 I la solució és la **C**.
 
-![Enunciat 16, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/16.png)
+![Enunciat 16, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
 
 A l'equació $x^3+y^3 = x^2y^2$, crida l'atenció que a l'esquerra la $x$ i la $y$ estan
 elevades a $3$ i a la dreta estan elevades a $2$. Açò és significatiu perquè el resultat
@@ -307,7 +308,7 @@ Per aquesta raó mai pot haver cap punt al quadrant $\text{III}$, ja que en aque
 quadrant $x$ i $y$ són negatives, i per tant a l'esquerra de l'equació el valor és negatiu
 i a la dreta és positiu. Així doncs, la solució és la **C**.
 
-![Enunciat 17, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/17.png)
+![Enunciat 17, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
 
 Els radis i altures del cilindre petit i gran respectivament són:
 
@@ -327,7 +328,7 @@ $$t=\frac{33000}{375} = 88\text{ min}$$
 
 I la solució és la **A**.
 
-![Enunciat 18, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/18.png)
+![Enunciat 18, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
 
 Si descomposem un nombre en factors primers, aquest serà un quadrat perfecte si tots els exponents
 són parells, i serà un cub perfecte si tots els exponents són múltiples de $3$.
@@ -351,13 +352,13 @@ $$\text{n. divisors} = (5+1)\cdot (2+1)\cdot (3+1)= 6\cdot 3\cdot 4  = 72$$
 
 La solució és la **D**.
 
-![Enunciat 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/19.png)
+![Enunciat 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
 
 Anomenem $x_1, x_2$ els costats del primer i el segon quadrat respectivament, i fixem
 arbitràriament el radi del cercle com a $1$. Llavors, podem fer la següent figura,
 observant els dos triangles rectangles que podem construir:
 
-![Solució 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/19.png)
+![Solució 19, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/19.png)
 
 Pel Teorema de Pitàgores podem deduir:
 
@@ -374,7 +375,7 @@ $$\frac2{\frac45}\cdot 2 = 5\text{ grams}$$
 
 I la solució és la **D**.
 
-![Enunciat 20, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/20.png)
+![Enunciat 20, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
 
 En primer lloc, podem trobar una solució trivial amb $x=1, y=6$:
 
@@ -398,7 +399,7 @@ Així, la solució és la **E**.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/21.png)
+![Enunciat 21, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
 
 Resoldrem aquest problema usant el
 [Petit teorema de Fermat](https://ca.wikipedia.org/wiki/Petit_teorema_de_Fermat){:target="_blank"}, que diu:
@@ -424,7 +425,7 @@ $$3^2+2=11 \text{( primer)}$$
 De manera que només pot haver un nombre $p$ que compleixi que $p^2+2$ és també primer,
 i la solució és la **B**.
 
-![Enunciat 22, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/22.png)
+![Enunciat 22, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
 
 En primer lloc, comptem de quantes maneres diferents podem triar $3$ punts
 entre els $12$ punts que hi ha, sense importar l'ordre. La resposta és:
@@ -449,11 +450,11 @@ Com hi ha $3$ costats, en total hi ha $3\cdot 10=30$ formes diferents de triar $
 
 En total es poden dibuixar $220-30=190$ triangles diferents i la solució és la **E**.
 
-![Enunciat 23, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/23.png)
+![Enunciat 23, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
 
 A continuació fem un dibuix sobre el que raonarem:
 
-![Solució 23, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/23.png)
+![Solució 23, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/23.png)
 
 L'angle que volem esbrinar, $\alpha$ (verd), és un angle inscrit a la circumferència,
 i per tant abarca un arc que mesura el doble, $\stackrel{\textstyle\frown}{\mathrm{CD}} = 2\alpha$ (vermell).
@@ -476,7 +477,7 @@ $$
 
 I per tant la solució és la **C**.
 
-![Enunciat 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/24.png)
+![Enunciat 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
 
 Si volem pintar un edifici de $10$ plantes, per començar tenim dues opcions:
 pintar la primera planta de blau o pintar-la de groc:
@@ -510,7 +511,7 @@ $$N_{10}=144$$
 
 I la solució és la **D**.
 
-![Enunciat 25, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/25.png)
+![Enunciat 25, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
 
 Els costats dels triangles han de mesurar: $1,2,3,4,5\text{ o }6$. Per tal de
 poder formar un triangle, tres segments han de complir el que s'anomena
@@ -549,7 +550,7 @@ $$6+4+5+3+1+2+4+2+3+1+2+1 = 34$$
 
 Hi ha $34$ triangles diferents que es poden fer i la solució és la **E**.
 
-![Enunciat 26, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/26.png)
+![Enunciat 26, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
 
 Anomenem $x$ la despesa anual que es fa de petroli, de manera que hi ha una reserva total de $50x$.
 Cada any es reduirà la despesa de manera proporcional i anomenem $r$ aquesta proporció. Llavors,
@@ -568,7 +569,7 @@ Una proporció de $\frac{49}{50}$ en tant per cent és $100\cdot \frac{49}{50}=9
 Si s'utilitza un $98\%$ del petroli de l'any anterior, significa que s'ha reduit
 el consum en un $2\%$ i per tant la solució és la **B**.
 
-![Enunciat 27, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/27.png)
+![Enunciat 27, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
 
 En primer lloc, adonem-nos que a l'esquerra de l'equació tenim un sinus, de manera
 que el seu valor estarà a l'interval $[-1, 1]$. Per tal de no sobrepassar aquest
@@ -578,7 +579,7 @@ Per comptar el nombre de solucions dibuixarem la gràfica de les dues funcions,
 i comptant el nombre d'interseccions sabrem el nombre de solucions. Les gràfiques
 són:
 
-![Solució 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/24.png)
+![Solució 24, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/24.png)
 
 Per la banda positiva, la recta talla el sinus dos cops per cada *turó*, i els *turons*
 estan situats als intervals $(n, n+0.5)$.
@@ -594,7 +595,7 @@ $$2\cdot 2016+2\cdot 2016-1=8063$$
 
 I la solució és la **E**.
 
-![Enunciat 28, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/28.png)
+![Enunciat 28, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
 
 Podem expressar la primera equació com:
 
@@ -614,7 +615,7 @@ $$f(24) = \frac{f(8)}3 = \frac{252}3 = 84$$
 
 I la solució és la **D**.
 
-![Enunciat 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/29.png)
+![Enunciat 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
 
 Anomenem $\beta$ l'angle que volem esbrinar, i anomenem $\alpha, \alpha'$ els
 dos angles aguts del triangle rectangle $AFG$. Com és un triangle rectangle,
@@ -625,7 +626,7 @@ els nous punts. Tal com es veu a la figura, tenim dos triangles rectangles ($ADD
 que tenen els mateixos angles, i a més, la seua hipotenusa mesura el mateix
 (les hipotenuses són costats del quadrat). Per tant, els triangles vermells són iguals.
 
-![Solució 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/solucions/29.png)
+![Solució 29, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/29.png)
 
 Com els triangles $ADD_1$ i $DD_2C$ són iguals, el quadrilàter $DD_2FD_1$ és un
 quadrat, i el segment $FD$ és una diagonal del quadrat. Llavors, l'angle $\beta$
@@ -633,7 +634,7 @@ que volíem esbrinar és la meitat de l'angle recte i per tant mesura $45^\circ$
 
 La solució és la **C**.
 
-![Enunciat 30, nivell de 2n de batxillerat del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/2n_batx/enunciats/30.png)
+![Enunciat 30, nivell de 2n de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
 
 Descartem en primer lloc que aquest matemàtic nasqués abans de $1900$. Si fós així,
 el $1955$ tindria més de $55$ anys, però de cap manera podem obtindre $55$ com a suma de $4$ xifres.
