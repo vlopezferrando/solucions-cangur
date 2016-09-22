@@ -53,9 +53,72 @@ posar $6$ figures ($6·4=24$ quadradets). Vegem que podem fer-ho:
 
 ![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/03.png)
 
+Com ha pagat $95$ €, per tal que la xifra de les unitat siga $5$, ha
+d'haver pagat la meitat per uns pantalons amb una xifra de les desenes
+senar, és a dir: $50, 70$ o $90$ €. Però el descompte es fa sobre la
+peça més barata, així que podem descartar el $90$.
+
+Si ha pagat els pantalons de $50$ € a meitat de preu, n'ha pagat $25$
+per aquests pantalons, i per tant, ha comprat també els pantalons
+de $95 - 25 = 70$ euros. Així, s'ha estalviat $25$ €: l'opció **D**.
+
+Per una altra banda, si hagués pagat a meitat de preu els pantalons de
+$70$ €, hauria d'haver comprat també els pantalons de $95-35=60$ €, però
+llavors no se li hauria aplicat el descompte als pantalons que valen $70$ €,
+sinó als de $60$ €.
+
 ![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/04.png)
 
+Tenim les següents xifres disponibles:
+
+$$1,2,\ldots,8,9, 10,11,\ldots,18,19$$
+
+Si comptem els cops que tenim cada xifra, tenim:
+
+$$\begin{array}{ccl}
+\{0\} & \rightarrow & \text{1 cop} \\
+\{1\} & \rightarrow & \text{12 cops} \\
+\{2,3,\ldots,9\} & \rightarrow & \text{2 cops}
+\end{array}$$
+
+El nombre més gran que podem fer és:
+
+$$99887766554433\;2\;21111111111110$$
+
+Tenim $1+12+2\cdot8=29$ xifres, la d'enmig està en la possició $15$, i és
+el $2$. La solució és la **C**.
+
 ![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/05.png)
+
+Denotem la posició inicial com $\text{SJC}$ (Sara, Joana, Clara). A més,
+subratllarem les lletres quan ja hagen realitzat un adelantament.
+El primer adelantament el poden fer Joana o Clara:
+
+$$\text{SJC} \rightarrow
+\{\underline{\text{J}}\text{SC},\; \text{S}\underline{\text{C}}\text{J} \}$$
+
+Ara, en el primer cas poden adelantar tant Sara com Carla, però en el
+segon només pot adelantar Joana:
+
+$$\underline{\text{J}}\text{SC} \rightarrow \{
+  \underline{\text{S}}\underline{\text{J}}\text{C},\;
+  \underline{\text{J}}\underline{\text{C}}\text{S} \}$$
+
+$$\text{S}\underline{\text{C}}\text{J} \rightarrow
+\{ \text{S}\underline{\text{J}}\underline{\text{C}} \}$$
+
+De les tres configuracions que ens queden, la tercera la podem descartar,
+perquè li toca adelantar a la Sara, però va la primera. Amb les altres
+dues, obtenim:
+
+$$\underline{\text{S}}\underline{\text{J}}\text{C} \rightarrow
+\underline{\text{S}}\underline{\text{C}}\underline{\text{J}}$$
+$$\underline{\text{J}}\underline{\text{C}}\text{S} \rightarrow
+\underline{\text{J}}\underline{\text{S}}\underline{\text{C}}$$
+
+Així hem vist que només hi ha dues possibles configuracions finals:
+$\underline{\text{SCJ}}$ i $\underline{\text{JSC}}$, i per tant
+la solució és la **B**.
 
 ![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/06.png)
 
