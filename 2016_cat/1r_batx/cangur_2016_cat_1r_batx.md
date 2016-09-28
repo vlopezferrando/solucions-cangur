@@ -81,7 +81,7 @@ I la solució és la **A**.
 ![Enunciat 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
 
 La única figura que no cap és la **E**. Per tal de tenir una àrea igual a la
-del quadrat, un triangle equilàter haurà de sobresortir, com veiem a la figura:
+del quadrat, el triangle equilàter haurà de sobresortir, com veiem a la figura:
 
 ![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/03.png)
 
