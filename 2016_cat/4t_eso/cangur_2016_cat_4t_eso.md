@@ -332,20 +332,227 @@ I la solució és la **A**.
 
 ![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/21.png)
 
+La Sara reparteix quatre caramels i en dóna a tothom, així que per
+començar en dona un a Rosa, un a Núria i un a Carles. Per tal que
+Núria tinga un nombre de caramels diferent a Rosa i igual a Carles,
+l'últim caramel de la Sara ha de ser per la Núria. Llavors, sabem
+que Carles només tenia inicialment un caramel més que les altres.
+
+Si anomenem $x$ el nombre de caramels inicial de Núria i Sara,
+en Carles en tenia $x+1$ i la Sara $4$. En total, hi ha:
+
+$\text{total} = x + x + (x+1) + 4 = 3x + 5$$
+
+Hem de trobar una opció que en restar-li $5$, siga múltiple de $3$.
+La única opció que ho compleix és el $20$, ja que $20 = 3\cdot5 + 5$, i
+la solució és la **D**.
+
 ![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/22.png)
+
+L'àrea del rectangle és $16·9=144$, de manera que si formem un quadrat
+d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
+serà $4·12=48$, l'opció **B**. Comprovem que podem formar aquest quadrat:
+
+![Solució 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/22.png)
 
 ![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/23.png)
 
+En primer lloc comptem de quantes maneres podem col·locar les lletres $U$.
+A la primera fila va una lletra $U$, a una de les $3$ caselles.
+La segona $U$ va a la segona fila, però només pot anar a
+una de dues caselles (no pot estar a la mateixa columna que la primera
+lletra $U$). Per tant, hi ha:
+
+$$3\cdot2=6$$
+
+formes de col·locar les lletres $U$.
+
+La resta de lletres de $SUDOKU$, és a dir, $S,D,K,O$ són diferents. Les haurem
+de situar a les quatre caselles lliures. Hi ha tantes maneres diferents de fer-ho com permutations de les lletres $SDKO$, és a dir, $4!$. En total,
+hi ha:
+
+$$6\cdot 4!=6\cdot 24=144$$
+
+formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**.
+
 ![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/24.png)
+
+Quatre nombre consecutius són:
+
+$$x, x+1, x+2, x+3 = 4x + 6$$
+
+Aviat podem trobar algun valor de $x$ que ho compleix, com $x=6$, amb
+$4\cdot6 + 6 = 30$. El següent que trobem és $x=11$,
+amb $4\cdot11 + 6 = 50$
+
+* A: la suma no cal que acabe en $5$. Amb $x=6$, la suma serà $30$.
+* B: igual que abans, amb $x=6$, el més gran dels nombres no acaba en $4$.
+* C: amb $x=11$, no tenim cap nombre que acabe en $8$.
+* D: no cal que sigui senar, $x=6$ n'és un contraexemple.
+* E: amb els dos valors que $x$ que hem provat, no podem refutar
+aquesta opció.
+
+Hem vist que la solució ha de ser la **E**, ara intentem raonar-ho d'una
+altra manera. Si anomenem $x_1, x_2, x_3, x_4$ els quatre nombres
+consecutius, podem expressar la suma de diverses formes:
+
+$$\begin{array}{ccccccccc}
+x_1 &+& x_1+1 &+& x_1+2 &+& x_1+3 &=& 4x_1 + 6 \\
+x_2 - 1 &+& x_2 &+& x_2+1 &+& x_2+2 &=& 4x_2 + 2 \\
+x_3 - 2 &+& x_3 - 1 &+& x_3 &+& x_3 + 1 &=& 4x_3 - 2 \\
+x_4 - 3 &+& x_4 - 2 &+& x_4 - 1 &+& x_4 &=& 4x_4 - 6 \\
+\end{array}$$
+
+Veient aquestes quatre expressions, podem deduir que si alguna dels quatre
+nombres és múltiple de $5$, no podrà ser-ho la suma, ja que $4x_1 + 6,\;
+4x_2+2,\; 4x_3-2,\; 4x_4-6$ no seran múltiples de $5$.
 
 ![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/25.png)
 
+Els tres segments han de complir la *desigualtat triangular*,
+que diu que la longitud d'un segment no pot ser major que la
+suma dels altres dos.
+
+Per una banda, comprovem que els costats $k$ i $2k$ sumen una
+longitud major que $1$:
+
+$$1 <k + 2k \quad \Rightarrow \quad \frac13 < k$$
+
+Per una altra banda, els segments $1$ i $k$ han de sumar
+una longitud major que $2k$:
+
+$$2k < 1+k\quad \Rightarrow \quad k < 1$$
+
+En resum, tenim que:
+
+$$\frac13 < k < 1$$
+
+I la solució és la **C**.
+
 ![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/26.png)
+
+Expressem l'enunciat amb equacions. Anomenem $a, b, c$ les edats
+d'Andreu, Berta i Cesc. La suma és $22$:
+
+$$a+b+c=22$$
+
+Quan l'Andreu tingui l'edat que ara té la Berta, és a dir, d'aquí a
+$b-a$ anys, els tres sumaran $28$, és a dir:
+
+$$a+b+c + 3\cdot(b-a) = -2a + 4b + c = 28$$
+
+I quan Andreu tingui l'edat d'ara de Cesc, és a dir, d'aquí a $c-a$ anys,
+els tres sumaran $37$:
+
+$$a+b+c + 3\cdot(c-a) = -2a + b + 4c = 37$$
+
+Si sumem les dues últimes equacions, tenim:
+
+$$-4a + 5b + 5c = 28 + 37 = 65$$
+
+I podem aïllar $b+c$:
+
+$$b+c = \frac{65 + 4a}{5}$$
+
+Substituint a la primera equació, tenim:
+
+$$a + \frac{65 + 4a}{5} = 22 \quad \Rightarrow \quad
+\frac{65 + 9a}{5} = 22 \quad \Rightarrow$$
+$$65 + 9a = 22\cdot5 = 110 \quad \Rightarrow \quad
+9a = 45 \quad \Rightarrow \quad a=5$$
+
+Per tant, $a=5$ i la solució és la **B**.
 
 ![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/27.png)
 
+$p$ i $q$ són primers entre ells, per tant tenen factors primers
+diferents.
+
+Vegem les diferències entre $\frac{N}{p}$ i $\frac{N}{q}$:
+
+* $\frac{N}{p}$ té un $2$, un $3$, un $5$ de més.
+* $\frac{N}{q}$ té un $7$ i un $11$ de més.
+
+Cada factor de més que apareix al quocient, significa un factor que no
+conté aquest divisor però si l'altre.
+
+Per això $p=7\cdot11= 77$ i $q=2\cdot3\cdot5 = 30$. Com són primers entre ells,
+no poden tenir els dos algun altre factor igual que no haja
+quedat evidenciat als quocients.
+
+Per tant, la suma és $77+30=107$ i la solució és la **A**.
+
 ![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/28.png)
+
+Descomposant $12$ en els seus factors primers, tenim: $12=2^2\cdot3$, en
+total hi ha tres factors: $2,2,3$.
+En una hora haurem fet $60$ operacions en què augmentarem o disminuirem
+en un terme algun dels dos factors primers. Com partim d'un nombre
+senar de factors, en una hora haurem de tenir també un nombre senar
+de factors. Si ens fixem en les
+descomposicions de nombres primers de les opcions, veiem que hi ha una
+que no ho compleix:
+
+* A: $12=2^2\cdot3 \; \rightarrow \; 3: senar$
+* B: $18=2\cdot3^2 \; \rightarrow \; 3: senar$
+* C: $36=2^2\cdot3^2 \; \rightarrow \; 4: parell$
+* D: $72=2^3\cdot3^2 \; \rightarrow \; 5: senar$
+* E: $108=2^2\cdot3^3 \; \rightarrow \; 5: senar$
+
+Així, la solució és la **C**.
 
 ![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/29.png)
 
+Si anomenem $a, b$ les xifres de les desenes i de les unitats del nombre
+més gran, els dos nombres són:
+
+$$10a + b -1,\quad 10a + b$$
+
+La suma dels dos nombres és igual a l'intercanvi de les xifres del gran:
+
+$$10a + b - 1 + 10a +b = 10b + a$$
+
+Simplificant:
+
+$$20a +2b -1 = 10b +a \quad \Rightarrow \quad
+19a - 8b = 1$$
+
+Com que $a,b<10$, aquesta equació només té una solució: $a=3$, $b=7$, que
+trobem provant una mica: $19\cdot3 - 8\cdot7= 57-56=1$.
+
+Finalment, la suma de les xifres del resultat és $b+a=3+7=10$, i la solució
+és la **B**.
+
 ![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](https://www.lopezferrando.com/cangur/2016_cat/4t_eso/enunciats/30.png)
+
+Anomenem $h_T$ l'altura del triangle $PTS$ i $h_R$ l'altura del
+triangle $PRQ$.
+
+L'àrea de $PTS$ és:
+
+$$A_{PTS} = \frac12\overline{PS}\cdot h_T$$
+
+I l'àrea de $PQR$ és:
+
+$$A_{PQR} = \frac12\overline{PQ}\cdot h_R$$
+
+L'enunciat ens diu que que $A_{PQR} = 2\cdot A_{PTS}$, per tant:
+
+$$\overline{PS}\cdot h_T = \frac12\overline{PQ}\cdot h_R$$
+
+A més, sabem que $\overline{PS}=\frac23\overline{PQ}$,
+així que podem expressar:
+
+$$\frac23\overline{PQ}\cdot h_T = \frac12\overline{PQ}\cdot h_R$$
+
+Simplificant, queda:
+
+$$h_T = \frac34 h_R$$
+
+Pel Teorema de Tales, sabem que $\frac{PT}{TR}=\frac{h_T}{h_R-h_T}$.
+Així que calculem aquest valor:
+
+$$\frac{PT}{TR}=\frac{h_T}{h_R-h_T} = \frac{\frac34h_R}{h_R-\frac34h_R}=
+\frac{\frac34h_R}{\frac14h_R}=3$$
+
+Finalment hem esbrinat que la proporció és $3$ i la solució la **D**.
