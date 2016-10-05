@@ -184,7 +184,7 @@ I la solució és la **C**.
 
 Hi ha 12 persones que toquen un instrument, $8$ són homes i $4$ són dones.
 Com el $60\%$ de les dones no toca cap instrument, això vol dir que el
-$40\%$ sí que ho fan, i aquestes són les $4$ dones que hem nombrat abans.
+$40\%$ sí que ho fan, i aquestes són les $4$ dones que hem nomenat abans.
 Llavors, en total hi ha $10$ dones ($4$ que toquen i $6$ que no). Finalment,
 si hi ha $10$ dones, hi ha $32-10=22$ homes, i la solució és la **B**.
 
