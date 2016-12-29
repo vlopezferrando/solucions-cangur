@@ -497,6 +497,30 @@ Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
 ![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
 
+**Solució alternativa proposada per Gabriel**
+
+Cadascuna de les dues parelles de triangles de bases oposades té una àrea de mig
+quadrat. Si anomenem $h$ l'altura d'un dels triangles, l'altura del triangle oposat
+serà $x-h$, llavors la suma de les àrees és:
+
+$$x\cdot\frac{h}2 + x\cdot\frac{x-h}2 = x\cdot\frac{h+x-h}2 = \frac{x^2}2$$
+
+És a dir, la meitat de l'àrea del quadrat.
+
+Si anomenem $x$ l'àrea del triangle que no coneixem, hi ha tres opcions:
+
+$$
+\begin{array}[ccccc]
+20+2=16+x & \quad\Rightarrow\quad & x=6 & & \\
+16+2=20+x & \quad\Rightarrow\quad & x=-2 & \rightarrow & \text{No pot ser} \\
+20+16=2+x & \quad\Rightarrow\quad & x=34 & \rightarrow & \text{No està a les opcions}
+\end{array}
+$$
+
+Llavors la solució ha de ser $x=6$, l'opció **B**.
+
+**Solució original**
+
 Anomenem $x$ el costat del quadrat, i $a,b$ la distància del punt de
 dins del quadrat al costat inferior i esquerre respectivament. Llavors,
 els quatre triangles tenen una base $x$ i unes altures $a, b, x-a, x-b$,
