@@ -497,7 +497,7 @@ Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
 ![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
 
-**Solució alternativa proposada per Gabriel**
+**Solució alternativa proposada per Gabriel als comentaris**
 
 Cadascuna de les dues parelles de triangles de bases oposades té una àrea de mig
 quadrat. Si anomenem $h$ l'altura d'un dels triangles, l'altura del triangle oposat
