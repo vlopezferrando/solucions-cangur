@@ -384,7 +384,7 @@ $$1!\cdot 7! = (1+6)!$$
 
 Per tal que $x\cdot 7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
 
-$$(7!-1)\cdot 7! = (7!)! = ((7!-1) + 1)!$$
+$$(7!-1)!\cdot 7! = (7!)! = ((7!-1) + 1)!$$
 
 Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8\cdot 9\cdot 10\cdots$.
 No cal provar molt per adonar-nos que: $8\cdot 9\cdot 10 = 720 = 6!$, per tant, amb $x=6, y=4$:
