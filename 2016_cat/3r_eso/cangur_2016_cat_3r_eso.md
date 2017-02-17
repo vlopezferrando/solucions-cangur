@@ -46,7 +46,7 @@ $01:26$
 <br>$12:06$
 <br>$12:60\rightarrow \text{NO}$
 <br>$16:02$
-<br>$16:20\rightarrow \text{NO}$
+<br>$16:20$
 <br>$20:16$
 <br>$20:61\rightarrow \text{NO}$
 <br>$21:06$
