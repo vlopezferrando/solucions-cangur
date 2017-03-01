@@ -224,20 +224,20 @@ En aquest cas, l'única opció vàlida és la **E**.
 ![Enunciat 10, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/10.png)
 
 
-Si anomenem $x$ i $y$ els catets, i $z$ la hipotenusa, les àrees $X$, $Y$ i $Z$ valen:
+Si anomenem $x$ i $y$ els catets, i $z$ la hipotenusa, les àrees $X$, $Y$ i $Z$ (semicercles) valen:
 
-$$X=\pi\left(\frac{x}{2}\right)^2=\frac{\pi}{4}x^2$$
-$$Y=\pi\left(\frac{y}{2}\right)^2=\frac{\pi}{4}y^2$$
-$$Z=\pi\left(\frac{z}{2}\right)^2=\frac{\pi}{4}z^2$$
+$$X=\frac{\pi\left(\frac{x}{2}\right)^2}2 = \frac{\pi}{8}x^2$$
+$$Y=\frac{\pi\left(\frac{y}{2}\right)^2}2 = \frac{\pi}{8}y^2$$
+$$Z=\frac{\pi\left(\frac{z}{2}\right)^2}2 = \frac{\pi}{8}z^2$$
 
 Provem ara les expressions que tenim com possibles solucions. Comencem
 amb $X+Y$:
 
-$$X+Y = \frac{\pi}{4}x^2 + \frac{\pi}{4}y^2 = \frac{\pi}{4}(x^2+y^2)$$
+$$X+Y = \frac{\pi}{8}x^2 + \frac{\pi}{8}y^2 = \frac{\pi}{8}(x^2+y^2)$$
 
 Pel teorema de Pitàgores, sabem que $x^2+y^2=z^2$, i per tant:
 
-$$X+Y = \frac{\pi}{4}(x^2+y^2) = \frac{\pi}{4}z^2 = Z$$
+$$X+Y = \frac{\pi}{8}(x^2+y^2) = \frac{\pi}{8}z^2 = Z$$
 
 És a dir, $X+Y=Z$, i la solució correcta és la **C**.
 
