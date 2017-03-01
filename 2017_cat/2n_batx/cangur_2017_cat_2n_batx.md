@@ -1,16 +1,17 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 2n de batxillerat
-Date: 2016-5-19 12:00
+Title: Solucions del Cangur 2017 a Catalunya: Nivell 2n de batxillerat
+Date: 2017-5-19 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
-Keywords: 2016
-Slug: solucions-cangur-2016-catalunya-2n-batx
-Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2016 a Catalunya
+Keywords: 2017
+Slug: solucions-cangur-2017-catalunya-2n-batx
+Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2017 a Catalunya
+Status: draft
 
 Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del
-Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model
+Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model
 d'examen del [pdf
-d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
+d'enunciats]({filename}enunciat_2017_cat_2n_batx.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -384,7 +385,7 @@ $$1!\cdot 7! = (1+6)!$$
 
 Per tal que $x\cdot 7!$ sigui en si un factorial, podem fer que $x=7!-1$, i llavors, amb $y=1$:
 
-$$(7!-1)!\cdot 7! = (7!)! = ((7!-1) + 1)!$$
+$$(7!-1)\cdot 7! = (7!)! = ((7!-1) + 1)!$$
 
 Una altra manera de resoldre l'equació seria si poguéssim trobar una $x$ de la forma $x=8\cdot 9\cdot 10\cdots$.
 No cal provar molt per adonar-nos que: $8\cdot 9\cdot 10 = 720 = 6!$, per tant, amb $x=6, y=4$:

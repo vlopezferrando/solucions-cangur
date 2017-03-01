@@ -1,13 +1,14 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 1r de batxillerat
-Date: 2016-5-26 12:00
+Title: Solucions del Cangur 2017 a Catalunya: Nivell 1r de batxillerat
+Date: 2017-3-20 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
-Keywords: 2016
-Slug: solucions-cangur-2016-catalunya-1r-batx
-Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2016 a Catalunya
+Keywords: 2017
+Slug: solucions-cangur-2017-catalunya-1r-batx
+Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2017 a Catalunya
+Status: draft
 
-Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
+Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}.
 
 <!-- PELICAN_END_SUMMARY -->
 
@@ -496,30 +497,6 @@ $$
 Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
 ![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
-
-**Solució alternativa proposada per Gabriel als comentaris**
-
-Cadascuna de les dues parelles de triangles de bases oposades té una àrea de mig
-quadrat. Si anomenem $h$ l'altura d'un dels triangles, l'altura del triangle oposat
-serà $x-h$, llavors la suma de les àrees és:
-
-$$x\cdot\frac{h}2 + x\cdot\frac{x-h}2 = x\cdot\frac{h+x-h}2 = \frac{x^2}2$$
-
-És a dir, la meitat de l'àrea del quadrat.
-
-Si anomenem $x$ l'àrea del triangle que no coneixem, hi ha tres opcions:
-
-$$
-\begin{array}[ccccc]
-20+2=16+x & \quad\Rightarrow\quad & x=6 & & \\
-16+2=20+x & \quad\Rightarrow\quad & x=-2 & \rightarrow & \text{No pot ser} \\
-20+16=2+x & \quad\Rightarrow\quad & x=34 & \rightarrow & \text{No està a les opcions}
-\end{array}
-$$
-
-Llavors la solució ha de ser $x=6$, l'opció **B**.
-
-**Solució original**
 
 Anomenem $x$ el costat del quadrat, i $a,b$ la distància del punt de
 dins del quadrat al costat inferior i esquerre respectivament. Llavors,

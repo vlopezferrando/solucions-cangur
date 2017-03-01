@@ -1,12 +1,13 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 3r d'ESO
-Date: 2016-10-5 12:00
+Title: Solucions del Cangur 2017 a Catalunya: Nivell 3r d'ESO
+Date: 2017-3-20 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
-Slug: solucions-cangur-2016-catalunya-3r-eso
-Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2016 a Catalunya
+Slug: solucions-cangur-2017-catalunya-3r-eso
+Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2017 a Catalunya
+Status: draft
 
-Aquest és el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_3r_eso.pdf){:target="_blank"}.
+Aquest és el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_3r_eso.pdf){:target="_blank"}.
 Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
@@ -46,7 +47,7 @@ $01:26$
 <br>$12:06$
 <br>$12:60\rightarrow \text{NO}$
 <br>$16:02$
-<br>$16:20$
+<br>$16:20\rightarrow \text{NO}$
 <br>$20:16$
 <br>$20:61\rightarrow \text{NO}$
 <br>$21:06$
