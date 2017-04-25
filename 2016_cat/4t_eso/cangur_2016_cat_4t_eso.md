@@ -92,32 +92,30 @@ el $2$. La solució és la **C**.
 
 Denotem la posició inicial com $\text{SJC}$ (Sara, Joana, Clara). A més,
 subratllarem les lletres quan ja hagen realitzat un adelantament.
-El primer adelantament el poden fer Joana o Clara:
+El primer adelantament el poden fer Sara o Joana:
 
 $$\text{SJC} \rightarrow
-\{\underline{\text{J}}\text{SC},\; \text{S}\underline{\text{C}}\text{J} \}$$
+\{\text{J}\underline{\text{S}}\text{C},\; \text{SC}\underline{\text{J}} \}$$
 
-Ara, en el primer cas poden adelantar tant Sara com Carla, però en el
-segon només pot adelantar Joana (perquè Sara va primera i Carla ja ha adelantat):
+Ara, en el primer cas només pot adelantar Joana, i en sel segon
+poden adelantar tant Clara com Sara:
 
-$$\underline{\text{J}}\text{SC} \rightarrow \{
-  \underline{\text{S}}\underline{\text{J}}\text{C},\;
-  \underline{\text{J}}\underline{\text{C}}\text{S} \}$$
+$$\text{J}\underline{\text{S}}\text{C} \rightarrow
+\{ \underline{\text{SJ}}\text{C} \}$$
 
-$$\text{S}\underline{\text{C}}\text{J} \rightarrow
-\{ \text{S}\underline{\text{J}}\underline{\text{C}} \}$$
+$$\text{SC}\underline{\text{J}} \rightarrow
+\{ \text{S}\underline{\text{JC}},\; \text{C}\underline{\text{SJ}} \}$$
 
-De les tres configuracions que ens queden, la tercera la podem descartar,
-perquè li toca adelantar a la Sara, però va la primera. Amb les altres
-dues, obtenim:
+De les tres configuracions que hem trobat, la primera la podem descartar,
+perquè li toca adelantar a Clara, però va la primera. Amb les altres dues
+obtenim:
 
-$$\underline{\text{S}}\underline{\text{J}}\text{C} \rightarrow
-\underline{\text{S}}\underline{\text{C}}\underline{\text{J}}$$
-$$\underline{\text{J}}\underline{\text{C}}\text{S} \rightarrow
-\underline{\text{J}}\underline{\text{S}}\underline{\text{C}}$$
+$$\text{S}\underline{\text{JC}} \;\rightarrow\; \underline{\text{JSC}}$$
+
+$$\text{C}\underline{\text{SJ}} \;\rightarrow\; \underline{\text{SCJ}}$$
 
 Així hem vist que només hi ha dues possibles configuracions finals:
-$\underline{\text{SCJ}}$ i $\underline{\text{JSC}}$, i per tant
+$\underline{\text{JSC}}$ i $\underline{\text{SCJ}}$, i per tant
 la solució és la **B**.
 
 ![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/06.png)

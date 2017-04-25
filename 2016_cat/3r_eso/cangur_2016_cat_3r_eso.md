@@ -440,18 +440,18 @@ si podem omplir la resta de la figura.
 
 Si posem un $0$, aviat podem trobar una configuració que funciona:
 
-![Solució 26, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/26.png)
+![Solució 26, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/26_1.png)
 
-Si posem un $1$, no trobem cap configuració a simple vista, així que intentem
-esbrinar si és impossible. Les possibles sumes múltiples de $3$ que contenen un
-$1$ són: $1+1+1=3$ i $1+0+2=3$. El triangle blanc de la dreta, però, no el
-podem completar ni amb $(1,1)$ ni amb $(0,2)$, ja que ambdós farien que el triangle
-gris de la dreta sumés $3$.
+Anomenem $x$ el nombre de l'interrogant, i $a,b,c,d$ la resta de nombres:
 
-Si posem un $2$, podem sumar un múltiple de $3$ amb $2+0+1=3$ i $2+2+2=6$.
-Però no podem fer-ho amb el triangle blanc de l'esquerra, perquè qualsevol
-de les dues configuracions faria que el triangle gris de l'esquerra sumara
-també un múltiple de $3$.
+![Solució 26, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/26_2.png)
+
+No serà possible triar $x=1$, perquè els dos triangles de la dreta tindran la
+mateixa suma $(c+d+1)$, i no pot ser que un siga múltiple de $3$ i l'altre no.
+
+Tampoc serà possible fer $x=2$, perquè llavors els dos triangles de l'esquerra
+tindran la mateixa suma $(a+b+2)$, i no podrà ser que un sigui múltiple de $3$
+i l'altre no.
 
 Llavors, la única opció és el $0$, i la solució la **A**.
 
