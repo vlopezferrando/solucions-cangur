@@ -6,7 +6,6 @@ Category: cangur
 Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-2n-batx
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2017 a Catalunya
-Status: draft
 
 Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del
 Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model
