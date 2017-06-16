@@ -64,11 +64,18 @@ Veiem que el numerador és igual que el denominador, i per tant la fracció és 
 
 ![Enunciat 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/05.png)
 
+Analitzem el moviment de la roda als cims i les valls:
+
+![Solució 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](solucions/05.png)
+
+I veiem que la **D** és la solució correcta.
+
 
 ![Enunciat 6, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/06.png)
 
-
 ![Enunciat 7, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/07.png)
+
+El cercle pega una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà pegat $5$ voltes completes (es trobarà en la posició inicial), i després pegarà mitja volta. Llavors, la posició final serà la **B**.
 
 
 ![Enunciat 8, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/08.png)
@@ -157,8 +164,18 @@ Finalment, el més gran dels tres nombres és $x+1=17$.
 
 ![Enunciat 15, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/15.png)
 
-
-
+Si la politja $B$ fa $4$ voltes mentre la $A$ en fa $5$, la relació dels seus perímetres és:
+$$
+5P_A=4P_B
+$$
+De la mateixa manera, segons l'enunciat:
+$$
+7P_C=6P_B
+$$
+Si $P_C=30$, llavors $P_A$ és:
+$$
+P_A=\frac45P_B=\frac45\cdot\frac76P_C=\frac{28}{30}\cdot30=28\text{ cm}
+$$
 ![Enunciat 16, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/16.png)
 
 Podem comptar totes les opcions:
@@ -192,7 +209,34 @@ Així, calen $9$ dies com a mínim.
 
 ![Enunciat 18, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/18.png)
 
+Anomenem $t,v,p,o$ les alçades dels germans Toni, Víctor, Pere i Òscar. Anem resumint l'enunciat pas per pas.
 
+Sabem que Toni és més baix que Víctor $(t<v)$ i que Toni és més alt que Pere $(p<t)$. A més, les diferències són iguals (l'anomenem $d$). A més, Òscar és més baix que Pere, amb $d$ de diferència. Per tant:
+$$
+o\quad<\quad p\quad < \quad t \quad <\quad v
+$$
+Però de fet, respecte a l'alçada de l'Òscar, la resta són:
+$$
+p=o+d,\quad t=o+2d,\quad v=o+3d
+$$
+Sabem que Toni fa $184$:
+$$
+o+2d=184 \quad\Rightarrow\quad d=92-\frac{o}2
+$$
+I la mitjana és $178$:
+$$
+\frac{o+o+d+o+2d+o+3d}{4}=o+\frac32d=178
+$$
+Substituint amb la $d$ anterior:
+$$
+o+\frac32\left(92-\frac{o}2\right)=178\quad\Rightarrow\quad 4o + 552-3o=712\quad\Rightarrow
+$$
+
+$$
+o=160\text{ cm}
+$$
+
+Per tant, l'alçada de l'Òscar és de $160\text{ cm}$.
 
 ![Enunciat 19, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/19.png)
 
@@ -251,7 +295,27 @@ $$
 $$
 ![Enunciat 22, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/22.png)
 
+En primer lloc, observem que els nombres contigus tindran paritat diferent (tenen diferència $1$). Per tal que la suma sigui senar, cal que hi hagi un nombre senar de sumands senars. Dels $7$ nombres, per tant, $3$ han de ser senars: hauran de ser $b, d, f$.
 
+Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, també ho podrà ser $g$ per simetria; si $c$ pot ser $286$, també ho podrà ser $e$ per simetria. Provarem si és possible.
+
+Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
+$$
+\begin{array}{ccccccccc}
+a&b&c&d&e&f&g&&\Sigma\\
+0&1&2&3&4&3&2&&15
+\end{array}
+$$
+Provem ara amb $c=286$:
+$$
+\begin{array}{ccccccccc}
+a&b&c&d&e&f&g&&\Sigma\\
+2&1&0&1&2&3&4&&13
+\end{array}
+$$
+Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
+
+Per tant, només poden ser $286$ la $a$ i la $g$.
 
 ![Enunciat 23, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/23.png)
 
@@ -269,19 +333,90 @@ Per tant, $ababab$ segur que serà un múliple de $7$.
 
 ![Enunciat 24, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/24.png)
 
+Anem comptant per ordre:
 
+* Si tenim un $7$, només hi ha $1$ contrasenya possible: $7777777$.
+* Si tenim un $6$, només ens quedarà un espai que haurà d'omplir-se amb un $1$, i tindrem $2$ contrasenyes possibles: $1666666,6666661$.
+* Si tenim un $5$, tindrem les contrasenyes: $2255555,5555522$.
+* Amb un $4$, tenim més opcions. Si emplenem amb tresos, tenim dos ordres: $3334444,4444333$, però podem omplir amb uns i dosos, i tindrem $3!=3\cdot2=6$ ordres: $1224444,1444422, 2214444,2244441,4444122,4444221$.
 
+En total hi ha:
+$$
+N_{\text{contrasenyes}}=1+2+2+2+6=13
+$$
 ![Enunciat 25, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/25.png)
 
-
+Fixem-nos que si dues persones contigües miren cap a la mateixa banda, no s'estarà donant la mà ni ara ni quan donim mitja volta:
+$$
+\cdots\rightarrow\rightarrow\rightarrow\cdots \quad\Rightarrow\quad \cdots\leftarrow\leftarrow\leftarrow\cdots
+$$
+Podem simplificar el cercle i treure totes aquestes persones, deixant les 10 persones que es donen la mà:
+$$
+\cdots\rightarrow\leftarrow\rightarrow\leftarrow\rightarrow\leftarrow\cdots
+$$
+Quan es donen la volta, tots ells es donaran la mà una altra vegada:
+$$
+\cdots\leftarrow\rightarrow\leftarrow\rightarrow\leftarrow\rightarrow\cdots
+$$
+En definitiva, $10$ persones acabaran donant-se la mà.
 
 ![Enunciat 26, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/26.png)
 
+Centrem-nos en un quart de la figura per simplificar:
 
+![Solució 26, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](solucions/29.png)
 
+Aquest quart de la figura és un quadrat de costat $h$. Aquesta $h$ és l'altura del triangle equilàter, i la podem esbrinar per Teorema de Pitàgores:
+$$
+h=\sqrt{10^2-5^2}=\sqrt{75}=5\sqrt3
+$$
+Per tant, l'àrea total del quadrat és:
+$$
+A_{\text{quadrat}}=h^2=75
+$$
+A aquesta àrea, però, li hem de restar el triangle rectangle isòsceles de catet $x​$ de la cantonada. Però $x​$ és $h-5​$, i per tant, l'àrea d'aquest triangle és:
+$$
+A_{\text{triangle cantonada}}=\frac12x^2=\frac12(h-5)^2=\frac12(5\sqrt3-5)^2=
+$$
+
+$$
+=\frac{25}2(\sqrt3-1)^2=\frac{25}2(3-2\sqrt3+1)=50-25\sqrt3
+$$
+
+Per tant, l'àrea que busquem és:
+$$
+A=A_{\text{quadrat}} -A_{\text{triangle cantonada}} = 75-\left(50-25\sqrt3\right)=25(1+\sqrt3)
+$$
+Recordem que només hem calculat un quart de la figura total. L'àrea total serà:
+$$
+A_{\text{figura}}=4\cdot A=100(1+\sqrt3)
+$$
 ![Enunciat 28, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/28.png)
 
+Anomenem $r$ el radi de la circumferència $(AM=BM=r)$.
 
+El triangle $\triangle BMP$ és rectangle pel fet que la recta sigui tangent a la circumferència, i per tant es compleix el Teorema de Pitàgores:
+$$
+PB^2+r^2=PM^2
+$$
+Com segons l'enunciat, $PB=PA+6$, tenim:
+$$
+(PA+6)^2 + r^2 = PM^2
+$$
+De fet, $PM=PA+r$, per tant:
+$$
+(PA+6)^2 + r^2 = (PA+r)^2
+$$
+Desenvolupant:
+$$
+PA^2+12PA+36+r^2=PA^2+2\cdot r\cdot PA+r^2
+$$
+
+$$
+r = \frac{12PA+36}{2PA} = 6+\frac{18}{PA}
+$$
+
+Per tal que el radi sigui enter, $PA$ ha de ser un divisor de $36$. Com $36=2\cdot3^2$, té $(1+1)\cdot(2+1)=6$ divisors, i la solució és $6$.
 
 ![Enunciat 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/29.png)
 
