@@ -3,544 +3,408 @@ Date: 2017-3-20 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-3r-eso
 Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2017 a Catalunya
-Status: draft
 
-Aquest és el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_3r_eso.pdf){:target="_blank"}.
+Aquest és el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats](enunciat_2017_cat_3r_eso.pdf){:target="_blank"}.
+
 Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
-* Qüestions de 3 punts:
-  [1](#questio-1), [2](#questio-2), [3](#questio-3), [4](#questio-4),
-  [5](#questio-5), [6](#questio-6), [7](#questio-7), [8](#questio-8),
-  [9](#questio-9), [10](#questio-10)
-* Qüestions de 4 punts:
-  [11](#questio-11), [12](#questio-12), [13](#questio-13), [14](#questio-14),
-  [15](#questio-15), [16](#questio-16), [17](#questio-17), [18](#questio-18),
-  [19](#questio-19), [20](#questio-20)
-* Qüestions de 5 punts:
-  [21](#questio-21), [22](#questio-22), [23](#questio-23), [24](#questio-24),
-  [25](#questio-25), [26](#questio-26), [27](#questio-27), [28](#questio-28),
-  [29](#questio-29), [30](#questio-30)
+* Qüestions de 3 punts: [1](#questio-1), [2](#questio-2), [3](#questio-3), [4](#questio-4), [5](#questio-5), [6](#questio-6), [7](#questio-7), [8](#questio-8), [9](#questio-9), [10](#questio-10).
+* Qüestions de 4 punts: [11](#questio-11), [12](#questio-12), [13](#questio-13), [14](#questio-14), [15](#questio-15), [16](#questio-16), [17](#questio-17), [18](#questio-18), [19](#questio-19), [20](#questio-20).
+* Qüestions de 5 punts: [21](#questio-21), [22](#questio-22), [23](#questio-23), [24](#questio-24), [25](#questio-25), [26](#questio-26), [27](#questio-27), [28](#questio-28), [29](#questio-29), [30](#questio-30).
 
 Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques i *Le Kangourou sans Frontières*.
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/01.png)
 
-Com $2016$ té quatre xifres, aquestes es poden ordenar de $4!=24$ formes. Com
-que no són tantes, les escriurem totes i descartarem les que no són hores possibles:
+Fem la multiplicació:
+$$
+\begin{array}{cccccccccc}
+ & & & & 2 & 2 & 2 & 2 \\
+ & & & \times & 2 & 2 & 2 & 2 \\
+ \hline
+ & & & & 4 & 4 & 4 & 4 \\
+ & & & 4 & 4 & 4 & 4 & \\
+ & & 4 & 4 & 4 & 4 &   & \\
+ + & 4 & 4 & 4 & 4 &  &   & \\
+ \hline
+ & 4 & 9 & 3 & 7 & 2 &  8 & 4 \\
+\end{array}
+$$
+Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions. 
 
-$01:26$
-<br>$01:62\rightarrow \text{NO}$
-<br>$02:16$
-<br>$02:61\rightarrow \text{NO}$
-<br>$06:12$
-<br>$06:21$
-<br>$10:26$
-<br>$10:62\rightarrow \text{NO}$
-<br>$12:06$
-<br>$12:60\rightarrow \text{NO}$
-<br>$16:02$
-<br>$16:20\rightarrow \text{NO}$
-<br>$20:16$
-<br>$20:61\rightarrow \text{NO}$
-<br>$21:06$
-<br>$21:60\rightarrow \text{NO}$
-<br>$26:01\rightarrow \text{NO}$
-<br>$26:10\rightarrow \text{NO}$
-<br>$60:12\rightarrow \text{NO}$
-<br>$60:21\rightarrow \text{NO}$
-<br>$61:02\rightarrow \text{NO}$
-<br>$62:01\rightarrow \text{NO}$
-<br>$61:20\rightarrow \text{NO}$
-<br>$62:10\rightarrow \text{NO}$
+![Enunciat 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/02.png)
 
-Les xifres de $2016$ apareixen un total de $10$ cops al rellotge, i la solució
-és la **E**.
+Si desplacem tot el perímetre cap a fora, veiem que es correspon amb el d'un quadrat de costat $4$. Per tant, el perímetre és $4\cdot4=16$.
 
-![Enunciat 2, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 3, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/03.png)
 
-Si comencem emplenant la fila de dalt, tenim dues opcions: posar-hi $123$ o $132$.
-A partir d'aquí, la resta està determinada unívocament.
-Si triem posar-hi $123$, la segona fila haurà de ser
-$312$, i la última, $231$. De la mateixa forma, si posem $132$ a la primera
-fila, les altres dues seran $213$ i $321$.
+Per l'enunciat sabem que Robert serà el més petit, Santi tindrà $2$ anys més que Robert, i Pilar en tindrà $2$ més que Santi. Com que les edats han d'estar entre $6$ i $10$ (inclosos), hauran de ser:
+$$
+\text{Robert}\rightarrow6,\quad \text{Pilar}\rightarrow8,\quad \text{Santi}\rightarrow10
+$$
+![Enunciat 4, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/04.png)
 
-Així, hi ha $2$ formes diferent d'emplenar la graella, i la solució és la **B**.
+Fixem-nos que cada porció grisa té al seu costat una porció blanca amb la mateixa àrea. Per tant, $\frac12$ de l'àrea serà blanca.
 
-![Enunciat 3, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 5, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/05.png)
 
-Després d'apagar $\frac34$ de les espelmes, en queden $\frac14$ d'enceses, i
-l'enunciat ens diu que aquestes són $3$. Llavors, la Rita té $3\cdot4=12$ anys,
-la **C**.
+En primer lloc, hem de conseguir que la primera xifra sigui un $9$:
+$$
+\enclose{horizontalstrike}{12345678}91011121314151617181920
+$$
+Hem esborrat $8$ xifres, i ens queden 16 xifres per esborrar, que ens permeten obtindre com a molt un $7$ com a segona xifra:
+$$
+\enclose{horizontalstrike}{12345678}9\enclose{horizontalstrike}{101112131415161}7181920
+$$
+Hem esborrat $15$ xifres més, per tant només ens queda una per esborrar:
+$$
+\enclose{horizontalstrike}{12345678}9\enclose{horizontalstrike}{101112131415161}7\enclose{horizontalstrike}{1}81920
+$$
+I el número final és:
+$$
+9781920
+$$
+![Enunciat 6, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/06.png)
 
-![Enunciat 4, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+Anomenem $b$ l'amplada del *braç* del sofà (gris), i $s$ l'amplada del seient (blanc). En un sofà de tres places, tenim dos braços i tres seients, per tant:
+$$
+2b+3s=220
+$$
+En el sofà de dues places, tenim dos braços i dos seients:
+$$
+2b+2s=160
+$$
+Si a la primera equació li restem la segona, tenim que:
+$$
+s=220-160=60
+$$
+Finalment, la butaca individual mesura igual que un sofà de dues places menys un seient, per tant:
+$$
+\text{butaca}=160-60=100
+$$
+![Enunciat 7, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/07.png)
 
-Hem de buscar entre les opcions un nombre que es puga expressar de dues formes
-diferents com a producte de dos números menors de $10$. Busquem-lo:
+Tenim el sistema d'equacions de $4$ equacions i $4$ incògnites següent:
+$$
+\begin{cases}
+a+b=2 \quad(1)\\
+c+d=3 \quad(2)\\
+a+c=1 \quad(3) \\
+b+d=4 \quad(4)
+\end{cases}
+$$
+Valorem ara les possibles opcions:
 
-* $16=4\cdot4$
-* $20=4\cdot5$
-* $24=3\cdot8 = 4\cdot6$
-* $28=4\cdot7$
-* $30=5\cdot6$
+* $b$ és igual a $c$: no pot ser, perquè llavors no s'explicat que les equacions $(1)$ i $(2)$ tinguen resultats diferents.
+* $a$ és més gran que $d$: no pot ser, perquè llavors l'equació $(1)$ seria més gran que la $(4)$.
+* $a$ és igual a $d$: no pot ser, perquè $(1)$ i $(4)$ són diferents.
+* $a$ és més petit que $d$: efectivament, si restem les equacions $(1$) i $(4)$, tenim que $a-d=-2$, és a dir, $a=d-2$, i per tant $a$ és més petit que $d$.
+* $c$ és més gran que $b$: impossible perquè llavors l'equació $(2)$ hauria de ser més gran que la $(4)$.
 
-Hem vist que el $24$ es pot expressar de dues formes diferents i per tant la solució és
-la **C**.
+Per tant, la solució és que «$a$ és més petit que $d$».
 
-![Enunciat 5, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/08.png)
 
-Hem de comptar quantes vegades canviarà de color cada casella a mesura que
-prenem les caselles. Després de prémer la de dalt a l'esquerra, tenim:
+Entre els quatre han marcat $20$ gols, per tant la mitjana serà de $5$ gols per jugador. Com han marcat un nombre diferent de gols, una opció serà:
+$$
+3, 4, 6, 7
+$$
+I per tant, en Miquel n'hauria marcat $3$.
 
-$$\begin{array}{ccc}
-1 &1 &1 \\
-1 &0 &0 \\
-1 &0 &0
-\end{array}$$
+Fixem-nos que és impossible que en Miquel en marqui $4$, perquè llavors els altres, com a mínim, en marcarien $5,6,7$, i llavors la suma seria: $4+5+6+7=22$.
 
-Quan prenem la d'enmig queda:
+![Enunciat 9, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/09.png)
 
-$$\begin{array}{ccc}
-1 &2 &1 \\
-2 &1 &1 \\
-1 &1 &0
-\end{array}$$
+L'angle amb l'interrogant és la suma dels altres dos angles que hi ha dibuixats: $60+90=150^\circ$.
 
-I en prémer la de dalt a la dreta:
+![Enunciat 10, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/10.png)
 
-$$\begin{array}{ccc}
-2 &3 &2 \\
-2 &1 &2 \\
-1 &1 &1
-\end{array}$$
+Usar la vareta $V3$ doblarà l'efecte del que haja fet abans, així que el millor és afegir un euro abans de doblar i restar l'euro després de doblar. Per tant, la solució és:
+$$
+V1, V3, V2
+$$
 
-Els números parells impliquen que una casella no canvia de color, de manera
-que només canvien de color les següents:
-
-$$\begin{array}{ccc}
-- &X &- \\
-- &X &- \\
-X &X &X
-\end{array}$$
-
-Fixant-nos en els colors inicials, al final queda:
-
-$$\begin{array}{ccc}
-gris & gris & gris \\
-blanc & blanc & blanc \\
-gris & gris & gris
-\end{array}$$
-
-En total queden $6$ caselles grises: la **C**.
-
-![Enunciat 6, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
-
-Si els quatre costats són múltiples de $3$, podem escriure els seus costats com
-$3x$ i $3y$. El perímetre és $2\cdot3x + 2\cdot3y$, i també el podem escriure
-com $2\cdot3(x+y)=6(x+y)$. Veiem doncs que el perímetre ha de ser múltiple
-de $6$. De les cinc opcions, només la **D**, $36$, compleix aquesta condició.
-
-![Enunciat 7, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
-
-La primera vegada els ocells han piulat, en ordre:
-
-$$5 + 1 + 3 + 3 + 4 + 0 = 16$$
-
-Quan un ocell es gire, només canviarà el sumand corresponent a aquest ocell,
-que veurà els ocells de l'altre costat. Cap ocell té el mateix nombre d'ocells
-a un costat i a l'altre, per tant, si només es gira un ocell, canviarà el resultat
-de la suma.
-
-Si es giren dos ocells, és fàcil veure que és possible mantindre el resultat,
-si es giren els ocells dels dos extrems. El primer passarà de veure'n $5$ a no
-veure'n cap, i l'últim passarà de $0$ a $5$:
-
-$$0 + 1 + 3 + 3 + 4 + 5 = 16$$
-
-En definitiva, la solució és la **B**.
-
-![Enunciat 8, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
-
-Respecte al costat d'unió, les peces tenen:
-
-* La peça esquerra té $3$ forats
-orientats cap a la dreta i $1$ orientat cap a l'esquerra.
-* La peça dreta té $3$ sortints orientats cap a la dreta i $1$ cap a l'esquerra.
-
-Per tant, cada sortint cap a la dreta ($3$) pot encaixar amb $3$ forats,
-i l'únic sortint cap a l'esquerra només pot encaixar amb un forat. En total:
-
-$$3\cdot3 + 1\cdot1=10$$
-
-Hi ha $10$ formes d'encaixar les peces: la **D**.
-
-![Enunciat 9, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
-
-Calculem la longitud total que ha de saltar el cangur. Tenim $6$ trams entre els
-$7$ arbres, i cadascun mesura el doble de l'anterior, éssent $1$ el primer:
-
-$$1 + 2 + 4 + 8 + 16 + 32 = 63$$
-
-El cangur, que recorre $1.5\text{ m}$ amb cada salt, haurà de saltar:
-$\frac{63}{1.5}=42$ cops. Un truc per fer la divisió és multiplicar per $2$ els dos
-nombres: $\frac{126}{3}=42$. La solució és la **C**.
-
-![Enunciat 10, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
-
-Calculem quantes rajoles calen de cada tipus per enrajolar el terra.
-
-Amb les de $30\text{ cm}$, en calen $10\times15=150$, ja que
-$0.3\cdot(10\times15)=3\times4.5$.
-
-Amb les de $50\text{ cm}$, en calen $6\times9=54$, ja que
-$0.5\cdot(6\times9)=3\times4.5$.
-
-Si cada rajola petita costa $x$, en total costarà $150x$ enrajolar el terra.
-Amb les grans, que valen el doble ($2x$), costarà $54\cdot2x=108x$, i per
-tant és més barat fer-ho amb pel rajoles grans, les de Pere. La solució
-és la **A**.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/11.png)
 
-Primer adonem-nos que el camí es divideix en dos "nusos" que són simètrics,
-i que per tant aporten el mateix nombre de camins diferents. Analitzarem només
-un d'aquests, i sabem que el nombre total de camins serà el doble.
+Si canviem l'orientació dels segments, podem construir un triangle equilàter gran amb la línia discontínua com a base. Llavors, la línia negra seran els altres dos costats del triangle equilàter. Com la base mesura $200\text{ m}$, el camí negre mesurarà $2\cdot200=400\text{ m}$.
 
-Començant a $A$ i prenent el camí de dalt, tenim dues opcions: anar per dalt
-o anar per baix. Si anem per baix podem seguir $4$ camins diferents (vermell):
+![Enunciat 12, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/12.png)
 
-<img src="{filename}solucions/11a.png" alt="Solució 11, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 350px;"/>
+Primer, ens adonem que a la casella de dalt a l'esquerra hem de posar l'$1$, ja que ha de ser menor que qualsevol altra casella. Llavors, centrant-nos en les dues caselles de dalt a la dreta, podem triar les següents opcions:
+$$
+23,\;24,\;25,\;34,\;35,\;45
+$$
+Per cadascuna d'aquestes opcions, les altres dues caselles les podem emplenar d'una sola manera (amb el nombre menor a dalt i el major a baix). Aquestes $6$ maneres són:
+$$
+\begin{array}{cccccccccc}
+1&2&3&&1&2&4&&1&2&5\\
+4&&&&3&&&&3&&\\
+5&&&&5&&&&4&&\\
+\\
+1&3&4&&1&3&5&&1&4&5\\
+2&&&&2&&&&2&&\\
+5&&&&4&&&&3&&\\
+\end{array}
+$$
+![Enunciat 13, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/13.png)
 
-Si anem per dalt, podem seguir $5$ camins diferents (blau i verd):
+Anomenem $c$ el costat del quadrat final. Reconstruirem el rectangle partint del quadrat, apuntant a cada passa la longitud dels dos costats del paral·lelogram:
+$$
+(c, c)\rightarrow(2c, c)\rightarrow(4c, c)\rightarrow(8c, c)
+$$
+Fixem-nos que no podem passar de $(2c, c)$ a $(2c, 2c)$ perquè l'enunciat ens diu que només al final tenim un quadrat.
 
-<img src="{filename}solucions/11b.png" alt="Solució 11, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 350px;"/>
+El perímetre del rectangle és:
+$$
+2\cdot(8c+c)=18c=252\quad \Rightarrow\quad c=14
+$$
+Finalment, el costat llarg del rectangle inicial és:
+$$
+\text{costat llarg}=8c=8\cdot14=112
+$$
+![Enunciat 14, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/14.png)
 
-En total, hi ha $2\cdot(4+5)=18$ maneres diferents d'anar d'$A$ a $B$, i la
-solució és la **D**.
+El producte de dos nombres diferents per $2$ o de dos nombres diferents per $3$, serà diferent. Com a molt, podrem fer que els productes de dos nombres per $2$ siguin iguals als productes de dos nombres per $3$. Per exemple, amb els números:
+$$
+\begin{array}{cccc}
+1 &\rightarrow & 2\cdot1 &=& 2\\
+2 &\rightarrow & 3\cdot2 &=& 6\\
+3 &\rightarrow & 2\cdot3 &=& 6\\
+4 &\rightarrow & 3\cdot4 &=& 12\\
+6 &\rightarrow & 2\cdot6 &=& 12\\
+\end{array}
+$$
+Com a mínim, podrem obtenir $3$ resultats diferents.
 
-![Enunciat 12, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/15.png)
 
-Al quadrat hi ha $5·5=25$ quadradets, de manera que com a molt podrem
-posar $6$ figures ($6·4=24$ quadradets). Vegem que podem fer-ho:
+Podem dividir la figura en petits triangles equilàters iguals:
 
-<img src="{filename}solucions/12.png" alt="Solució 12, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
+![Solució 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/15.png)
 
-Així que la solució és la **D**.
+La part que està ocupada pel color blanc és:
+$$
+\text{blanc}=\frac{12}{16}=\frac34
+$$
 
-![Enunciat 13, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 16, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/16.png)
 
-Anomenem $x$ la longitud dels dos costats iguals del triangle isòsceles, i $y$
-el tercer costat. Com el seu perímetre és $34$, sabem que:
+Primer, observem que hi ha $6$ sumes diferents, que ens poden donar valors distints. Per exemple, amb els nombres $0,1,2,$4:
+$$
+0+1=1 \\
+0+2=2 \\
+0+4=4 \\
+1+2=3 \\
+1+4=5 \\
+2+4=6
+$$
+Si anomenem $a,b,c,d$ els quatre nombres, les sis sumes diferents són:
+$$
+a+b\\
+a+c\\
+a+d\\
+b+c\\
+b+d\\
+c+d
+$$
+D'aquestes sis sumes diferents, és possible que dues siguen iguals. Per ser-ho, però, els sumands de cada costat de la igualtat han de ser totalment diferents (per exemple, no val $a+b=b+c$, perquè la $b$ està als dos costats i llavors $a=c$). Per exemple, podria ser que:
+$$
+a+b=c+d
+$$
+De fet, aquesta és la única igualtat possible, ja que qualsevol altra igualtat, com per exemple $a+c=b+d$, entraria en contradicció. En efecte, si sumem les dues equacions, tenim:
+$$
+(a+b)+(a+c)=(c+d)+(b+d) \quad\Rightarrow\quad 2a=2d\quad\Rightarrow\quad a=d
+$$
+I no pot ser perquè els quatre nombres han de ser diferents. En definitiva, la suma pot donar $5$ resultats diferents o $6$ resultats diferents, però cal altra quantitat.
 
-$$2x + y = 34$$
+Per acabar, un exemple de $5$ resultats diferents és $0,1,2,3$:
+$$
+0+1=1 \\
+0+2=2 \\
+0+3=3 \\
+1+2=3 \\
+1+3=4 \\
+2+3=5
+$$
+![Enunciat 17, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/17.png)
 
-El perímetre del trapezi de la figura conté $5$ costats $y$ i $2$ costats $x$
-del triangle. Com el seu perímetre mesura $74$ sabem que:
+Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
 
-$$2x + 5y = 74$$
+* $A=\{990, 991, 992, \ldots, 999\}$. Per qualsevol d'aquests $10$ valors de $A$, $A+10$ tindrà quatre xifres.
+* $A=\{90, 91, 92,\ldots,99\}$. Per aquests $10$ valors de $A$, $A+10$ tindrà tres xifres.
 
-Podem esbrinar $y$ restant-li a la segona equació la primera:
+En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
-$$4y = 40\quad\Rightarrow\quad y=10$$
+![Enunciat 18, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/18.png)
 
-La base major del trapezi està formada per $3$ costats $y$, i per tant mesura
-$3\cdot10=30\text{ cm}$: l'opció **B**.
+Si ens fixem en les rajoles quadrades, veiem que totes menys una es veuen igual des de cada costat (a la dreta). Per tant, només hem de moure una rajola quadrada perquè coincideixien tots els punts de vista. Només hi ha una opció que contempli l'intercanvi d'una sola parella de rajoles quadrades, i serà la solució (la **E** en este cas).
 
-![Enunciat 14, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 19, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/19.png)
 
-Tenim les següents xifres disponibles:
+Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
+$$
+\begin{array}{ccc}
+&S&\\
+S&&P\\
+\end{array}
+$$
+Com a molt, podrem posar dos nombres senars a sota:
+$$
+\begin{array}{ccccc}
+&&S&&\\
+&S&&P&\\
+P&&S&&S\\
+\end{array}
+$$
+I a sota del tot, podem posar $3$ senars com a molt:
+$$
+\begin{array}{ccccccc}
+&&&S&&&\\
+&&S&&P&&\\
+&P&&S&&S&\\
+S&&S&&P&&S\\
+\end{array}
+$$
+En total, hem posat $7$ nombres senars.
 
-$$1,2,\ldots,8,9, 10,11,\ldots,18,19$$
+Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
 
-Si comptem els cops que tenim cada xifra, tenim:
+![Enunciat 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/20.png)
 
-$$\begin{array}{ccl}
-\{0\} & \rightarrow & \text{1 cop} \\
-\{1\} & \rightarrow & \text{12 cops} \\
-\{2,3,\ldots,9\} & \rightarrow & \text{2 cops}
-\end{array}$$
+Només hi ha un cub que podem dividir en les nou peces:
 
-El nombre més gran que podem fer és:
+![Solució 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/20.png)
 
-$$99887766554433\;2\;21111111111110$$
-
-Tenim $1+12+2\cdot8=29$ xifres, la d'enmig està en la possició $15$, i és
-el $2$. La solució és la **B**.
-
-![Enunciat 15, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
-
-Fem el següent dibuix:
-
-<img src="{filename}solucions/15.png" alt="Solució 15, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 400px;"/>
-
-Hem construït un triangle rectangle de catets $3$ (la meitat de la distància
-$PQ=6$), hipotenusa $5$ (el radi de la circumferència) i catet $x$, que volem
-esbrinar. Pel Teorema de Pitàgores:
-
-$$3^2+x^2=5^2 \quad\Rightarrow\quad x^2=25-9=16 \quad\Rightarrow\quad
-x = \sqrt{16}=4$$
-
-Finalment, la distància entre els dos centres és $2x=2\cdot4=8$: la solució
-és l'opció **D**.
-
-![Enunciat 16, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
-
-Si dibuixem uns rectangles com a la figura següent:
-
-<img src="{filename}solucions/16.png" alt="Solució 16, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 350px;"/>
-
-Podem veure que cada costat del quadrilàter $EFGH$ és una diagonal d'un rectangle
-que deixa mig rectangle a dins de $EFGH$ i mig rectangle fora, completant
-$ABCD$. Per tant, l'àrea de $ABCD$ és el doble que la de $EFGH$ i per tant és
-$2\cdot27=54$: l'opció **A**.
-
-![Enunciat 17, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
-
-Hi ha 12 persones que toquen un instrument, $8$ són homes i $4$ són dones.
-Com el $60\%$ de les dones no toca cap instrument, això vol dir que el
-$40\%$ sí que ho fan, i aquestes són les $4$ dones que hem nomenat abans.
-Llavors, en total hi ha $10$ dones ($4$ que toquen i $6$ que no). Finalment,
-si hi ha $10$ dones, hi ha $32-10=22$ homes, i la solució és la **C**.
-
-![Enunciat 18, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
-
-Centrant-nos en el vèrtex $A$, podem observar que la longitud del perímetre
-exterior és igual a la suma del perímetre del rectangle gran més la meitat
-del perímetre del rectangle petit:
-
-![Solució 18, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/18.png)
-
-El mateix podem fer amb els altres dos rectangles petits. Llavors,
-el perímetre exterior és la suma del perímetre
-corresponent al rectangle gran més $\frac12$ del perímetre dels rectangles petits:
-
-$$30 + \frac12\cdot20 = 40$$
-
-La solució és la **B**.
-
-![Enunciat 19, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
-
-Llegim l'enunciat amb deteniment i comptem quants partits ha guanyat cadascuna:
-
-* Agnieska: $1$ (Simona)
-* Flavia: $1$ (Petra)
-* Garbiñe: $1$ (Venus) $+$ $1$ (Agnieska)
-* Serena: $1$ (Ana) $+$ $1$ (Garbiñe) $+$ $1$ (Flavia)
-* Ana, Petra, Simona i Venus: $0$
-
-A la final han arribat Garbiñe i Serena, que són les úniques que han guanyat
-$2$ partits com a mínim. La solució és la **B**.
-
-![Enunciat 20, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
-
-En primer lloc fixem-nos en els triangles equilàters "mitjans",
-que tenen els costats de $5+2+5=12$, que podem veure en nombres negres a la figura:
-
-![Solució 20, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/20.png)
-
-Coneixent la mesura d'aquest costat, veiem que la base del triangle gran conté dos
-costats (vermell i blau) que mesuren $12$. Però aquests costats se superposen,
-concretament la mesura del costat dels triangles puntejats ($5$ en verd), i per això
-el costat del triangle gran mesura $12+12-5=19$, la solució és la **B**.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
-
-Si el nombre de dues xifres és $ab$, el seu valor és $10a + b$. Si en sumar-li
-$36$ el resultat és $ba$, llavors es compleix l'equació:
-
-$$(10a + b) + 36 = 10b + a$$
-
-Si ho reordenem:
-
-$$9b - 9a = 36 \quad\Rightarrow\quad b-a = \frac{36}9 = 4$$
-
-Recordem que $a$ i $b$ són menors que $10$, i a més $a$ és major que $1$,
-per tal que el nombre tinga dues xifres. Les possibles solucions són:
-
-* $5-1 = 4$
-* $6-2 = 4$
-* $7-3 = 4$
-* $8-4 = 4$
-* $9-5 = 4$
-
-Hi ha $5$ nombres que compleixen aquesta propietat ($15, 26, 73, 48, 59)$
-i per tant la solució és la
-**E**.
-
-![Enunciat 22, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
-
-Si el Daniel se n'ha trobat quatre, això vol dir que se'ls ha trobat a tots,
-incloent l'Eugeni.
-
-Com l'Andreu només s'ha trobat un dels quatre, s'haurà trobat en Daniel, qui,
-com hem dit, se'ls ha trobat a tots.
-
-En Christian se n'ha trobat a $3$. Podem descartar que s'haja trobat l'Andreu,
-i per tant s'ha trobat els altres tres: Bernat, Daniel i Eugeni.
-
-En Bernat se n'ha trobat a dos, que ja hem esbrinat: Daniel i Christian.
-
-Per tant, l'Eugeni s'ha trobat $2$ dels seus amics: Daniel i Christian, i la
-solució és la **C**.
-
-![Enunciat 23, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
-
-En primer lloc, comptem el nombre de vasos, que anomenarem $v$.
-Sabem que la meitat, de la meitat de la meitat és $3$, per tant:
-
-$$\frac{\frac{\frac{v}2}2}2 = 3\quad\Rightarrow\quad\frac{v}8=3
-\quad\Rightarrow\quad v=24$$
-
-D'altra banda, si anomenem $p$ el nombre de persones de la festa, sabem que
-$\frac{p}2$ van usar un vas, i $\frac{p}2$ persones en van usar $2$, per tant:
-
-$$\frac{p}2 + 2\cdot\frac{p}2 = 24 \quad\Rightarrow\quad
-\frac32p=24 \quad\Rightarrow\quad p=16$$
-
-A la festa hi havia $16$ persones, és a dir, l'opció **B**.
-
-![Enunciat 24, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
-
-
-Anomenem $x$ el nombre de bales que tenen les deu noies al principi.
-Si la mitjana disminueix en una, això vol dir que:
-
-$$\frac{x}{10} = \frac{x+1}{11} + 1$$
-
-Si operem aquesta igualtat, tenim:
-
-$$\frac{x}{10} = \frac{x+12}{11} \quad \Rightarrow \quad
-11x = 10x+120 \quad \Rightarrow \quad x = 120$$
-
-Llavors, entre les onze tenen $120+1=121$ bales, i la solució és la **D**.
-
-![Enunciat 25, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
-
-Si seguim els moviment de les rodes dentades i les cordes, podem deduir
-tots els moviments:
-
-![Solució 25, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/25.png)
-
-I cap amunt van els pesos $1$ i $3$, la solució **E**.
-
-![Enunciat 26, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
-
-Provarem de posar un $0$, un $1$ o un $2$ al cercle amb l'interrogant i veurem
-si podem omplir la resta de la figura.
-
-Si posem un $0$, aviat podem trobar una configuració que funciona:
-
-![Solució 26, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}solucions/26.png)
-
-Si posem un $1$, no trobem cap configuració a simple vista, així que intentem
-esbrinar si és impossible. Les possibles sumes múltiples de $3$ que contenen un
-$1$ són: $1+1+1=3$ i $1+0+2=3$. El triangle blanc de la dreta, però, no el
-podem completar ni amb $(1,1)$ ni amb $(0,2)$, ja que ambdós farien que el triangle
-gris de la dreta sumés $3$.
-
-Si posem un $2$, podem sumar un múltiple de $3$ amb $2+0+1=3$ i $2+2+2=6$.
-Però no podem fer-ho amb el triangle blanc de l'esquerra, perquè qualsevol
-de les dues configuracions faria que el triangle gris de l'esquerra sumara
-també un múltiple de $3$.
-
-Llavors, la única opció és el $0$, i la solució la **A**.
-
-![Enunciat 27, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
-
-Anomenem $h$ l'altura de cada franja, de manera que l'altura del triangle
-és $5h$. De manera anàloga, anomenem $b$ la base del petit triangle
-superior, de manera que la resta de franges tenen una base de
-$2b, 3b, 4b$ i el triangle gran té una base $5b$ (pel
-[Teorema de Tales](https://ca.wikipedia.org/wiki/Teorema_de_Tales)).
-Podem calcular la proporció grisa amb:
-
-$$\frac{A_{gris}}{A_{total}} = \frac{A_{triangle\ petit} + A_{trapezi_1} + A_{trapezi_2}}{A_{triangle\ gran}}$$
-
-Calculem ara l'àrea de cadascuna d'aquestes figures, recordant que
-l'àrea d'un trapezi és la meitat de l'altura per la suma de les bases:
-
-$$A_{triangle\ gran}=\frac12·5b·5h = \frac{25}2bh$$
-
-$$A_{triangle\ petit} = \frac12bh$$
-
-$$A_{trapezi_1} = \frac12·(2+3)b·h = \frac52bh$$
-
-$$A_{trapezi_2} = \frac12·(5+4)b·h = \frac92bh$$
-
-I ara fem la divisió:
-
-$$\frac{A_{gris}}{A_{total}} = \frac{\frac12bh+\frac52bh+\frac92bh}{\frac{25}2bh}=
-\frac{1+5+9}{25}=\frac{15}{25}=\frac{60}{100} = 60\%$$
-
-I la solució és la **A**.
-
-![Enunciat 28, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
-
-Anomenem $x$ el preu de l'entrada, i $a$ el nombre de persones més grans de
-$65$ anys. Podem plantejar el problema amb l'equació:
-
-$$a\cdot(x-3) + (11-a)\cdot x = 61$$
-
-Operant tenim:
-
-$$11x = 61 + 3a$$
-
-Provem ara les opcions que ens plantegen:
-
-* $a=5 \quad\rightarrow\quad x=\frac{76}{11} \quad\rightarrow\quad \text{no enter}$
-* $a=6 \quad\rightarrow\quad x=\frac{79}{11} \quad\rightarrow\quad \text{no enter}$
-* $a=7 \quad\rightarrow\quad x=\frac{82}{11} \quad\rightarrow\quad \text{no enter}$
-* $a=8 \quad\rightarrow\quad x=\frac{85}{11} \quad\rightarrow\quad \text{no enter}$
-* $a=9 \quad\rightarrow\quad x=\frac{88}{11} = 8$
-
-Per tant hi ha $9$ persones majors de $65$ anys: l'opció **E**.
-
-![Enunciat 29, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
-
-Començant pel vèrtex de dalt a l'esquerra, podem triar qualsevol dels
-$3$ colors.
-
-Seguidament, triarem els dos vèrtexs adjacents al primer (dalt a la
-dreta i baix a l'esquerra). Per cadascun d'aquests $2$ podem triar
-qualsevol dels $2$ colors diferents al primer. En total hi ha $4$
-opcions: en $2$ els dos colors triats són els mateixos, i en les altres
-$2$ són diferents.
-
-Si els colors triats són diferents, l'últim vèrtex només pot tindre una
-opció. Si els colors són iguals, a l'últim vèrtex podem triar $2$ opcions
-de colors.
-
-En total, les opcions són:
-
-$$3\cdot(2\cdot1 + 2\cdot2) = 3\cdot6=18$$
-
-I la solució és la **B**.
-
-![Enunciat 30, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
-
-Comencem comptant les hores completes en què hi ha un $2$ al rellotge: a les
-$02, 12, 20, 21, 22, 23$. Durant $6$ hores hi ha un $2$ a la pantalla.
-
-De les $18$ hores restants, entre el minut $20$ i el minut $29$ hi haurà un
-$2$ també al rellotge. Això són $10$ minuts per cadascuna de les $18$ hores:
-$18\cdot 10\text{ min}=180\text{ min}=3\text{ h}$.
-
-Dels $50$ minuts restants de les $18$ hores, també apareixerà un $2$ als minuts
-$02, 12, 32, 42, 52$, és a dir, $5$ minuts per cadascuna de les $18$ hores:
-$18\cdot 5\text{ min}=90\text{ min}=1\text{ h i }30\text{ min}$.
-
-El temps total serà:
-$$6\text{ h} + 3\text{ h} + 1\text{ h i }30\text{ min} = 10\text{ h i } 30\text{ min}$$
-
-I l'opció **A** és la correcta.
+![Enunciat 21, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/21.png)
+
+Comencem per les dues regions centrals, que estan en contacte amb tota la resta. Aquestes s'han de pintar de dos colors diferents, i per tant tenim $3\cdot4=12$ opcions diferents.
+
+Les altres dues regions dels costats (esquerra i dreta), poden tenir qualsevol dels altres dos colors restants sense cap restricció, ja que no es toquen entre elles: $2\cdot2=4$ opcions.
+
+En total, hi ha $12\cdot4=48$ maneres diferents de pintar el mapa.
+
+![Enunciat 22, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/22.png)
+
+Observem que la marieta ha caminat $\frac34$ de la longitud del pal, però començava des del final. Per tant es troba a la posició $1-\frac34=\frac14$.
+
+La separació és:
+$$
+\text{separació} = \frac23-\frac14=\frac{8-3}{12}=\frac5{12}
+$$
+![Enunciat 23, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/23.png)
+
+Anomenem $x$ el nombre de participants. Llavors, hi ha $0.35x$ noies i $0.65x$ nois. La diferència és $252$:
+$$
+0.65x-0.35x=0.3x=252 \quad\Rightarrow\quad x=\frac{252}{0.3}=840
+$$
+![Enunciat 24, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/24.png)
+
+Només hi ha dues sumes que tenen un resultat múltiple de $5$:
+$$
+3+12=15,\quad8+12=20
+$$
+El sumand repetit a les dues sumes és $12$, i per tant aquestà serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
+
+![Enunciat 25, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/25.png)
+
+Anomenem $a, b, c$ els tres nombres amb què omplirà la graella, que han de complir:
+$$
+\begin{array}{rclcc}
+3+a+b+c+4&=&35 & \\
+3+a+b&=&22 &\Rightarrow & a=19-b\\
+b+c+4&=&25 &\Rightarrow & c=21-b\\
+\end{array}
+$$
+Substituim a la primera equació:
+$$
+3+(19-b)+b+(21-b)+4=\\
+=47-b=35\quad\Rightarrow \\
+b=12
+$$
+Per tant, $a$ i $c$ valen:
+$$
+a=19-12=7\\
+c=21-12=9
+$$
+I el seu producte és:
+$$
+a\cdot c=7\cdot9=63
+$$
+![Enunciat 26, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/26.png)
+
+Els punts que marca en Simó són:
+$$
+\frac{1}{12},\ \frac{2}{12},\ \frac{3}{12},\ \frac{4}{12},\ \frac{5}{12},\ \frac{6}{12},\ \frac{7}{12},\ \frac{8}{12},\ \frac{9}{12},\ \frac{10}{12},\ \frac{11}{12}
+$$
+Simplifiquem les fraccions:
+$$
+\frac{1}{12},\ \frac{1}{6},\ \frac{1}{4},\ \frac{1}{3},\ \frac{5}{12},\ \frac{1}{2},\ \frac{7}{12},\ \frac{2}{3},\ \frac{3}{4},\ \frac{5}{6},\ \frac{11}{12}
+$$
+Els punts que marca Bàrbara són:
+$$
+\frac18,\ \frac28,\ \frac38,\ \frac48,\ \frac58,\ \frac68,\ \frac78
+$$
+Que simplificant són:
+$$
+\frac18,\ \frac14,\ \frac38,\ \frac12,\ \frac58,\ \frac34,\ \frac78
+$$
+En total, Simó ha fet $11$ marques, i Bàrbara n'ha fet $7$. Però han coincidit en $3$: $\frac14, \frac12, \frac34$. Per tant, hi havia un total de $11+7-3=15$ marques, les quals divideixen el cordill en $15+1=16$ trossos.
+
+![Enunciat 27, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/27.png)
+
+La única forma d'omplir la graella és (després ho justifiquem):
+$$
+\begin{array}{ccc}
+2&3&2\\
+3&2&3\\
+2&3&2
+\end{array}
+$$
+Totes les parelles de caselles contigües sumen $5$, i en total, la suma de tots els nombres és: $5\cdot2+4\cdot3=10+12=22$.
+
+Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dreta del $2$ original, i $y$ el nombre a sota de $x$ (a l'esquerra del $3$). Llavors, sabem que $2+x=x+y=y+3$. De la igualtat esquerra deduïm que $y=2$, i de la igualtat dreta que $x=3$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
+
+![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/28.png)
+
+L'àrea ombrejada és la de dos triangles de base $1$ i altura $4$ (la meitat del costat del quadrat). Per tant, en total mesura:
+$$
+A=2\cdot\left(\frac12\cdot1\cdot4\right)=4
+$$
+![Enunciat 29, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/29.png)
+
+Dels $7$ dies de la setmana, pot triar:
+$$
+\begin{array}{cccc}
+(1, 3),& (1, 4),& (1, 5),& (1, 6), \\
+(2, 4),& (2, 5),& (2, 6),& (2, 7),\\
+(3, 5),& (3, 6),& (3, 7),\\
+(4, 6),& (4, 7),\\
+(5, 7)
+\end{array}
+$$
+En total, pot configurar $14$ calendaris diferents.
+
+![Enunciat 30, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/30.png)
+
+En total, el cub gros té $4^3=64$ cubs petits.
+
+De cubets grisos, tenim un nucli de $2\times2\times2$, més un quadrat de $2\times2\times1$ a cada cara del cub gros ($6$ cares en total). Per tant, hi ha:
+$$
+\text{cubets grisos}=2^3+6\cdot2^2=8+24=32
+$$
+Per tant, un $50\%$ del cub gros és de color gris.
