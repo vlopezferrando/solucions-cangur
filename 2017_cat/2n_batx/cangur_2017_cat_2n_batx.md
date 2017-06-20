@@ -17,8 +17,7 @@ Podeu accedir a les qüestions directament:
 * Qüestions de 4 punts: [11](#questio-11), [12](#questio-12), [13](#questio-13), [14](#questio-14), [15](#questio-15), [16](#questio-16), [17](#questio-17), [18](#questio-18), [19](#questio-19), [20](#questio-20).
 * Qüestions de 5 punts: [21](#questio-21), [22](#questio-22), [23](#questio-23), [24](#questio-24), [25](#questio-25), [26](#questio-26), [27](#questio-27), [28](#questio-28), [29](#questio-29), [30](#questio-30).
 
-Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
-i *Le Kangourou sans Frontières*.
+Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques i *Le Kangourou sans Frontières*.
 
 ### Qüestions de 3 punts
 
@@ -226,10 +225,34 @@ Per tant, només poden ser $286$ la $a$ i la $g$.
 ![Enunciat 21, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/21.png)
 
 
+
+
 ![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/22.png)
 
-
 ![Enunciat 23, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/23.png)
+
+Vegem com evoluciona la successió en els primers termes:
+$$
+a_1=2017
+$$
+
+$$
+a_2=\frac{a_1-1}{a_1}=\frac{2016}{2017}
+$$
+
+$$
+a_3=\frac{a_2-1}{a_2}=\frac{\frac{2016}{2017}-1}{\frac{2016}{2017}}=\frac{\frac{-1}{2017}}{\frac{2016}{2017}}=\frac{-1}{2016}
+$$
+
+$$
+a_4=\frac{a_3-1}{a_3}=\frac{\frac{-1}{2016}-1}{\frac{-1}{2016}}=\frac{\frac{-2017}{2016}}{\frac{-1}{2016}}=2017
+$$
+
+Hem vist que es repetirà el cicle $(2017, \frac{2016}{2017}, \frac{-1}{2016}, \ldots)$. Per saber quant valdrà $a_{2017}$, calculem el residu de dividir entre $3$:
+$$
+2017=672\cdot3+1
+$$
+Per tant, $a_{2017}=a_1=2017$.
 
 ![Enunciat 24, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/24.png)
 
@@ -242,12 +265,104 @@ Per tant, només poden ser $286$ la $a$ i la $g$.
 
 ![Enunciat 27, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/27.png)
 
-
 ![Enunciat 28, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/28.png)
 
+Provarem suposant que $x$ és negatiu, i després provarem suposant que és positiu si no trobem la solució.
 
+Si $x$ és negativa, $|x|=-x$. Per la primera equació, llavors, deduim que:
+$$
+-x+x+y=5\quad\Rightarrow\quad y=5
+$$
+Per la segona equació deduim que $x=10$, cosa que no pot ser perquè havíem suposat que $x$ seria negativa.
+
+Si $x$ és positiva, sabem que $|x|=x$, i les equacions queden:
+$$
+\begin{cases}
+2x+y&=&5\\
+x+|y|-y&=&10
+\end{cases}
+$$
+Suposem ara que $y$ és positiva. Llavors, $|y|=y$. De la segona equació deduim que:
+$$
+x+y-y=x=10\quad\Rightarrow\quad2\cdot10+y=5\quad\Rightarrow\quad y=-15\ !!
+$$
+Això no pot ser, perquè havíem suposat que la $y$ seria positiva.
+
+Finalment, suposem que la $y$ és negativa, i per tant $|y|=-y$. Les equacions queden:
+$$
+\begin{cases}
+2x+y&=&5\\
+x-2y&=&10
+\end{cases}
+$$
+I ja el podem resoldre:
+$$
+x=10+2y\quad\Rightarrow\\
+\Rightarrow\quad2\cdot(10+2y)+y=5\quad\Rightarrow\\
+\Rightarrow\quad20+5y=5\quad\Rightarrow\\
+\Rightarrow\quad y=-3
+$$
+Tenim doncs que:
+$$
+x=10+2y=10+2\cdot(-3)=4
+$$
+I la suma és:
+$$
+x+y=4-3=1
+$$
 ![Enunciat 29, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/29.png)
+
+Només hi ha tres potències de $2$ de tres xifres:
+$$
+\{2^7=128,\quad 2^8=256,\quad 2^9=512 \}
+$$
+Comptem per separat quantes formes tenim d'obtenir cadascun d'aquests nombres.
+
+Pel que fa a $2^7=128$, l'exponent $c$ haurà de ser $7$. Per tant, s'ha de complir que $a+b=2$. Per tal que $abc$ sigui de tres xifres, a més, cal que $a>0$. Per tant, les opcions que hi ha són:
+$$
+c=7\quad\Rightarrow\quad a+b=2 \quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}
+$$
+Pel que fa a $2^9=512$, ens trobem en un cas com l'anterior, en què $c=9$:
+$$
+c=9,\quad\Rightarrow\quad a+b=2\quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}
+$$
+Però també pot ser que $c=3$ i $a+b=2^3=8$:
+$$
+c=3,\quad\Rightarrow\quad a+b=8\quad\Rightarrow\quad (a,b)=\{(1, 7), (2, 6),\ldots, (7, 1),(8,0)\}
+$$
+En el cas de $2^8=256$, tenim més casos. $c$ pot ser $8$, però també pot ser $4$ o $2$, si la suma $a+b$ és $4$ o $16$. Per tant, les opcions són:
+$$
+c=8,\quad\Rightarrow\quad a+b=2\quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}\\
+c=4,\quad\Rightarrow\quad a+b=4\quad\Rightarrow\quad (a,b)=\{(1, 3), (2, 2), (3, 1), (4,0)\}\\
+c=2,\quad\Rightarrow\quad a+b=16\quad\Rightarrow\quad (a,b)=\{(7, 9), (8, 8),(9, 7)\}
+$$
+En total, hi ha:
+$$
+N=2+2+8+2+4+3=21
+$$
 
 
 ![Enunciat 30, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/30.png)
 
+Vegem què passa amb els habitants del banquet. Si un d'ells diu la veritat, llavors al seu voltant en tindrà un de cada mena:
+$$
+\cdots V\ V\ M\cdots
+$$
+Si continuem completant, hem de posar un mentindre a l'esquerra per tant que el que hi ha a l'esquerra digui la veritat. A la dreta, hem de posar algú que diu la veritat per tal que el que hi ha menteixi:
+$$
+\cdots M\ V\ V\ M\ V \cdots
+$$
+Podem continuar completant:
+$$
+\cdots V\ M\ V\ V\ M\ V \ V\cdots
+$$
+Veiem que es repeteix un patró: $\frac23$ dels membres del banquet diuen la veritat.
+
+Fem que el banquet siga tan petit com siga possible, és a dir, amb $1002$ habitants, dels quals $\frac23\cdot1002=668$ diuen la veritat.
+
+La resta d'habitants, en el millor dels casos, diran tots la veritat, i seran $2017-1002=1015$.
+
+Com a màxim, el nombre de no mentiders a l'illa serà:
+$$
+N_{\text{no mentiders}}=668+1015=1683
+$$
