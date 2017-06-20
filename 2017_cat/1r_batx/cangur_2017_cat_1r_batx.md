@@ -478,4 +478,27 @@ $$
 $$
 ![Enunciat 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/30.png)
 
+Fem un dibuix i anem pas per pas explicant com l'hem construit:
 
+![Solució 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](solucions/30.png)
+
+Hem fet una recta paral·lela a $AB$ que passa pel punt $N$, construint el triangle $\triangle PNC$ (vermell), que és semblant al $\triangle ABC$.  Concretament, l'angle $\widehat{NPC}$ és igual a l'angle $\widehat{BAC}$ que se'ns demana, i l'anomenem $\beta$.
+
+Com que $N$ és el punt mig de $BC$, el triangle $\triangle PNC$ (vermell) té els costats que són la meitat del triangle original. Concretament, fixem-nos que el costat $PN=\frac{AB}2$.
+
+Constrium ara el triangle blau $\triangle MNP$, i calculem el que mesura $MP$. Recordem que $AP=\frac{AC}2$, i per tant:
+$$
+MP=\frac{AC}2-AM
+$$
+D'altra banda, l'enunciat ens diu que $M$ és el punt mig de $AD$, i que $DC=AB$, per tant:
+$$
+AM=MD=\frac{AC-AB}2
+$$
+Ja podem esbrinar el que mesura $MP$:
+$$
+MP=\frac{AC}2-\left(\frac{AC-AB}{2}\right)=\frac{AB}2
+$$
+És a dir, que el triangle blau, $\triangle MNP$, és isòsceles $(MP=PN=\frac{AB}2)$, amb $\alpha$ com angle repetit. Per tant, el tercer angle mesura $180-2\alpha$, però resulta que aquest és suplementari de $\beta$, com veiem a la figura. En definitiva:
+$$
+\beta = 2\alpha
+$$
