@@ -70,8 +70,35 @@ Analitzem el moviment de la roda als cims i les valls:
 
 I veiem que la **D** és la solució correcta.
 
-
 ![Enunciat 6, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/06.png)
+
+Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
+$$
+\begin{array}{ccc}
+&S&\\
+S&&P\\
+\end{array}
+$$
+Com a molt, podrem posar dos nombres senars a sota:
+$$
+\begin{array}{ccccc}
+&&S&&\\
+&S&&P&\\
+P&&S&&S\\
+\end{array}
+$$
+I a sota del tot, podem posar $3$ senars com a molt:
+$$
+\begin{array}{ccccccc}
+&&&S&&&\\
+&&S&&P&&\\
+&P&&S&&S&\\
+S&&S&&P&&S\\
+\end{array}
+$$
+En total, hem posat $7$ nombres senars.
+
+Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
 
 ![Enunciat 7, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/07.png)
 

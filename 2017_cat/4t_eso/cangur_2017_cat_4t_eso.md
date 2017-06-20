@@ -96,31 +96,153 @@ N_{\text{nenes}}=\frac56\cdot\frac35=\frac{15}{30}=\frac12
 $$
 ![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/12.png)
 
-
+Només hi ha dues sumes que tenen un resultat múltiple de $5$:
+$$
+3+12=15,\quad8+12=20
+$$
+El sumand repetit a les dues sumes és $12$, i per tant aquestà serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
 
 ![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/13.png)
 
+Anomenem $x$ el nombre total de participants. Segons l'enunciat, hi ha $0.35x$ dones i $252 + 0.35x$ homes. En total:
+$$
+(252+0.35x) + 0.35x = x
+$$
+Resolem l'equació:
+$$
+252=0.3x\quad\Rightarrow\quad x=\frac{252}{0.3}=840
+$$
 ![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/14.png)
 
+Anomenem $a,b,c$ els tres nombres que faltes (d'esquerra a dreta). Llavors tenim les equacions:
+$$
+\begin{cases}
+3&+&a&+&b&+&c&+&4&=&35 \\
+3&+&a&+&b&&&&&=&22\\
+&&&&b&+&c&+&4&=&25
+\end{cases}
+$$
+Si a la primera equació li restem les altres dues, tenim:
+$$
+-b=35-22-25=-12\quad\Rightarrow\quad b=12
+$$
+Substituint a la segona i tercera equacions, deduim que:
+$$
+3+a+12=22\quad\Rightarrow\quad a=7\\
+12+c+4=25\quad\Rightarrow\quad c=9
+$$
+El producte dels nombres dels quadrats grisos $(a,c)$ és:
+$$
+a\cdot c=7\cdot9=63
+$$
 ![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/15.png)
+
+El cercle pega una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà pegat $5$ voltes completes (es trobarà en la posició inicial), i després pegarà mitja volta. Llavors, la posició final serà la **E**.
 
 ![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/16.png)
 
+Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
+$$
+\begin{array}{ccc}
+&S&\\
+S&&P\\
+\end{array}
+$$
+Com a molt, podrem posar dos nombres senars a sota:
+$$
+\begin{array}{ccccc}
+&&S&&\\
+&S&&P&\\
+P&&S&&S\\
+\end{array}
+$$
+I a sota del tot, podem posar $3$ senars com a molt:
+$$
+\begin{array}{ccccccc}
+&&&S&&&\\
+&&S&&P&&\\
+&P&&S&&S&\\
+S&&S&&P&&S\\
+\end{array}
+$$
+En total, hem posat $7$ nombres senars.
+
+Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
+
 ![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/17.png)
 
+L'àrea ombrejada és la de dos triangles de base $1$ i altura $4$ (la meitat del costat del quadrat). Per tant, en total mesura:
+$$
+A=2\cdot\left(\frac12\cdot1\cdot4\right)=4\text{ cm}^2
+$$
 ![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/18.png)
 
+Observem que la marieta ha caminat $\frac34$ de la longitud del pal, però començava des del final. Per tant es troba a la posició $1-\frac34=\frac14$.
+
+La separació és:
+$$
+\text{separació} = \frac23-\frac14=\frac{8-3}{12}=\frac5{12}
+$$
 ![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/19.png)
 
+Dels $7$ dies de la setmana, pot triar:
+$$
+\begin{array}{cccc}
+(1, 3),& (1, 4),& (1, 5),& (1, 6), \\
+(2, 4),& (2, 5),& (2, 6),& (2, 7),\\
+(3, 5),& (3, 6),& (3, 7),\\
+(4, 6),& (4, 7),\\
+(5, 7)
+\end{array}
+$$
+En total, pot configurar $14$ calendaris diferents.
+
 ![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/20.png)
+
+La única forma d'omplir la graella és (després ho justifiquem):
+$$
+\begin{array}{ccc}
+2&3&2\\
+3&2&3\\
+2&3&2
+\end{array}
+$$
+Totes les parelles de caselles contigües sumen $5$, i en total, la suma de tots els nombres és: $5\cdot2+4\cdot3=10+12=22$.
+
+Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dreta del $2$ original, i $y$ el nombre a sota de $x$ (a l'esquerra del $3$). Llavors, sabem que $2+x=x+y=y+3$. De la igualtat esquerra deduïm que $y=2$, i de la igualtat dreta que $x=3$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
 ### Qüestions de 5 punts
 
 ![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/21.png)
 
+Observem primer que com a mínim la suma haurà de valer $91^\circ$. Si fóra $90$ o menys, el tercer angle mesuraria $180-90=90^\circ$, i per tant seria el més gran dels tres, cosa que no pot ser.
+
+Finalment, comprovem que la suma sí que pot ser $91^\circ$, cosa que ocorreria amb un triangle d'angles $(1^\circ, 89^\circ, 90^\circ)$.
+
 ![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/22.png)
 
+Esquematitzem la figura posant fletxes enlloc de cangurs:
+$$
+\begin{array}
+\rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow
+\end{array}
+$$
+Cada fletxa avançarà totes les que tingui en la direcció contrària més enllà de la direcció on apunta:
+$$
+\begin{array}{ccccccccccc}
+\rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow \\
+4&4&4&3&3&2&2&2&6&6
+\end{array}
+$$
+La suma és:
+$$
+4+4+4+3+3+2+2+2+6+6=36
+$$
+Fixem-nos, però, que hem comptat cada salt dues vegades, i per tant en total s'han fet $36\div2=18$ intercanvis.
+
 ![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/23.png)
+
+
 
 ![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/24.png)
 

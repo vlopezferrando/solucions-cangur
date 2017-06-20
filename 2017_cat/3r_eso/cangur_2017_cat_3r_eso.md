@@ -314,7 +314,7 @@ $$
 $$
 ![Enunciat 24, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/24.png)
 
-Només hi ha dues sumes que tenen un resultat múltiple de $5$:
+Només hi ha dues sumes que tenen un resultat múltiple de $5​$:
 $$
 3+12=15,\quad8+12=20
 $$
@@ -383,7 +383,7 @@ Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dre
 
 L'àrea ombrejada és la de dos triangles de base $1$ i altura $4$ (la meitat del costat del quadrat). Per tant, en total mesura:
 $$
-A=2\cdot\left(\frac12\cdot1\cdot4\right)=4
+A=2\cdot\left(\frac12\cdot1\cdot4\right)=4\text{ cm}^2
 $$
 ![Enunciat 29, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/29.png)
 
