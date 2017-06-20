@@ -64,8 +64,18 @@ A_{\text{ombrejada}} = \frac16+\frac16=\frac13
 $$
 ![Enunciat 7, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/07.png)
 
-
-
+Els costats del triangle són les sumes dels costats dos a dos:
+$$
+\triangle = (3+2, 3+1, 2+1) = (5, 4, 3)
+$$
+De fet, es tracta d'un triangle rectangle, ja que es compleix el Teorema de Pitàgores:
+$$
+3^2+4^2=5^2
+$$
+L'àrea, per tant, és la meitat del producte dels dos catets:
+$$
+A=\frac12\cdot3\cdot4=6
+$$
 ![Enunciat 8, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/08.png)
 
 Calculem les solucions:
@@ -181,6 +191,28 @@ $$
 $$
 
 ![Enunciat 18, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/18.png)
+
+En primer lloc, observem que els nombres contigus tindran paritat diferent (tenen diferència $1$). Per tal que la suma sigui senar, cal que hi hagi un nombre senar de sumands senars. Dels $7$ nombres, per tant, $3$ han de ser senars: hauran de ser $b, d, f$.
+
+Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, també ho podrà ser $g$ per simetria; si $c$ pot ser $286$, també ho podrà ser $e$ per simetria. Provarem si és possible.
+
+Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
+$$
+\begin{array}{ccccccccc}
+a&b&c&d&e&f&g&&\Sigma\\
+0&1&2&3&4&3&2&&15
+\end{array}
+$$
+Provem ara amb $c=286$:
+$$
+\begin{array}{ccccccccc}
+a&b&c&d&e&f&g&&\Sigma\\
+2&1&0&1&2&3&4&&13
+\end{array}
+$$
+Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
+
+Per tant, només poden ser $286$ la $a$ i la $g$.
 
 
 ![Enunciat 19, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/19.png)
