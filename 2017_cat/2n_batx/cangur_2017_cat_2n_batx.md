@@ -213,11 +213,36 @@ Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$.
 
-
 ![Enunciat 19, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/19.png)
 
 
+
+Com els dos triangles $\triangle ABC$ i $\triangle CDE$ comparteixen l'angle $\angle ACB$, i també l'angle de la figura, coincidiran també en el tercer angle, és a dir, són triangle semblants.
+
+Concretament, el costat $CD=7$ es correspon al costat $BC=8$. Per tant, el perímetre serà $\frac78$ del perímetre original:
+
+$$\text{Perímetre}(\triangle CDE) = \frac78\cdot(8+9+10)=\frac78\cdot 27=\frac{189}8$$ 
+
 ![Enunciat 20, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/20.png)
+
+
+
+Anomenem $ab$ el nombre, llavors les frases que ha dit Tytti són:
+
+1. $a=2$ o $b=2$
+2. $ab > 50$
+3. $ab$ és parell
+4. $ab < 30$
+5. $ab \mid 3$  (és disible per $3$).
+6. $a=7$ o $b=7$
+
+Fixem-nos que les afirmacions 2 i 4 són contradictòries. Com de les afirmacions 2, 3, 4 només pot ser falsa una, haurà de ser-ho alguna de les dues. Provem amb aquestes dues opcions.
+
+Si la frase 2 és falsa, també ho serà la 5. Per tant, sabem que les dues xifres seran $2$ i $7$ (afirmacions 1 i 6). Sabem que serà parell (afirmació 3), i per tant ha de ser el $72$. Però això no pot ser perquè hem suposat falsa l'afirmació 2, que deia que seria major que $50$.
+
+Si la frase 4 és falsa, llavors també serà falsa la 1. Per tant, busquem un número major que $50$ (frase 2), parell (frase 3), que tingui un $7$ (frase 6), i divisible per $3$. Com ha de ser parell, el $7$ serà la primera xifra. Les possibles opcions són $70,74,76,78$ (el $72$ no pot ser perquè la frase 1 és falsa). D'aquests, l'únic que és múltiple de $3$ (frase 5) és el $78$.
+
+Finalment, la suma de les xifres de $78$ és $7+8=15$.
 
 
 ### Qüestions de 5 punts
@@ -297,10 +322,12 @@ x-2y&=&10
 $$
 I ja el podem resoldre:
 $$
-x=10+2y\quad\Rightarrow\\
-\Rightarrow\quad2\cdot(10+2y)+y=5\quad\Rightarrow\\
-\Rightarrow\quad20+5y=5\quad\Rightarrow\\
-\Rightarrow\quad y=-3
+\begin{array}{lll}
+& x=10+2y\quad\Rightarrow\\
+\Rightarrow&2\cdot(10+2y)+y=5\quad\Rightarrow\\
+\Rightarrow&20+5y=5\quad\Rightarrow\\
+\Rightarrow& y=-3
+\end{array}
 $$
 Tenim doncs que:
 $$
@@ -320,21 +347,23 @@ Comptem per separat quantes formes tenim d'obtenir cadascun d'aquests nombres.
 
 Pel que fa a $2^7=128$, l'exponent $c$ haurà de ser $7$. Per tant, s'ha de complir que $a+b=2$. Per tal que $abc$ sigui de tres xifres, a més, cal que $a>0$. Per tant, les opcions que hi ha són:
 $$
-c=7\quad\Rightarrow\quad a+b=2 \quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}
+c=7\quad\Rightarrow\quad a+b=2 \quad\Rightarrow\quad (a,b)=\{(1, 1),\ (2, 0)\}
 $$
 Pel que fa a $2^9=512$, ens trobem en un cas com l'anterior, en què $c=9$:
 $$
-c=9,\quad\Rightarrow\quad a+b=2\quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}
+c=9\quad\Rightarrow\quad a+b=2\quad\Rightarrow\quad (a,b)=\{(1, 1),\ (2, 0)\}
 $$
 Però també pot ser que $c=3$ i $a+b=2^3=8$:
 $$
-c=3,\quad\Rightarrow\quad a+b=8\quad\Rightarrow\quad (a,b)=\{(1, 7), (2, 6),\ldots, (7, 1),(8,0)\}
+c=3\quad\Rightarrow\quad a+b=8\quad\Rightarrow\quad (a,b)=\{(1, 7),\ (2, 6),\ \ldots,\ (7, 1),\ (8,0)\}
 $$
 En el cas de $2^8=256$, tenim més casos. $c$ pot ser $8$, però també pot ser $4$ o $2$, si la suma $a+b$ és $4$ o $16$. Per tant, les opcions són:
 $$
-c=8,\quad\Rightarrow\quad a+b=2\quad\Rightarrow\quad (a,b)=\{(1, 1), (2, 0)\}\\
-c=4,\quad\Rightarrow\quad a+b=4\quad\Rightarrow\quad (a,b)=\{(1, 3), (2, 2), (3, 1), (4,0)\}\\
-c=2,\quad\Rightarrow\quad a+b=16\quad\Rightarrow\quad (a,b)=\{(7, 9), (8, 8),(9, 7)\}
+\begin{array}{lllll}
+c=8 & \Rightarrow & a+b=2 & \Rightarrow & (a,b)=\{(1, 1),\ (2, 0)\}\\
+c=4 & \Rightarrow & a+b=4 & \Rightarrow & (a,b)=\{(1, 3),\ (2, 2),\ (3, 1),\ (4,0)\}\\
+c=2 & \Rightarrow & a+b=16 & \Rightarrow & (a,b)=\{(7, 9),\ (8, 8),\ (9, 7)\}
+\end{array}
 $$
 En total, hi ha:
 $$
