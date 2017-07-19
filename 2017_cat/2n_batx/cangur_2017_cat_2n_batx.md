@@ -221,8 +221,9 @@ Com els dos triangles $\triangle ABC$ i $\triangle CDE$ comparteixen l'angle $\a
 
 Concretament, el costat $CD=7$ es correspon al costat $BC=8$. Per tant, el perímetre serà $\frac78$ del perímetre original:
 
-$$\text{Perímetre}(\triangle CDE) = \frac78\cdot(8+9+10)=\frac78\cdot 27=\frac{189}8$$ 
-
+$$
+\text{Perímetre}(\triangle CDE) = \frac78\cdot(8+9+10)=\frac78\cdot 27=\frac{189}8 
+$$
 ![Enunciat 20, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/20.png)
 
 
@@ -249,10 +250,30 @@ Finalment, la suma de les xifres de $78$ és $7+8=15$.
 
 ![Enunciat 21, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/21.png)
 
-
-
-
+Anomenem $x$ un nombre que compleixi la condició anterior, i $u$ la seua xifra de les unitats. Llavors, ha de complir la següent condició:
+$$
+\frac{x-u}{10} = \frac{x}{14}
+$$
+Passant els denominadors a l'altra banda, tenim:
+$$
+14x-14u=10x\quad\Rightarrow\quad 4x=14u\quad\Rightarrow\quad x=\frac72u
+$$
+Com que $u$ és un número entre $0$ i $9$, i $x$ ha de ser múltiple de $14$, només hi ha $2$ possibles valors per $u$:
+$$
+u\in\{4,8\}
+$$
+Per tant, hi ha $2$  enters positius que ho compleixen. Són:
+$$
+x=14 \quad\rightarrow\quad 1 = 14\div14 \\
+x=28 \quad\rightarrow\quad 2 = 28\div14
+$$
 ![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/22.png)
+
+
+
+
+
+
 
 ![Enunciat 23, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/23.png)
 
@@ -281,15 +302,75 @@ Per tant, $a_{2017}=a_1=2017$.
 
 ![Enunciat 24, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/24.png)
 
+Adonem-nos que al tetraedre original li hem tres quatre tetraedres petits, un per cada vèrtex. Per resoldre el problema, calcularem el volum d'aquests tetraedres petit, per exemple, ens podem centrar en el superior.
+
+Pel Teorema de Tales, sabem que l'altura del tetraedre petit serà la meitat que la de l'original. Pel que fa a la base (que és un triangle equilàter), tindrà una base que també serà la meitat, i una altura que també serà la meitat. En resum, el volum serà $\frac12\cdot\frac12\cdot\frac12=\frac18$ de l'original.
+
+Com tenim $4$ d'aquests petits tetraedres, en total hem restat $4\cdot\frac18=\frac12$ del volum original, i per tant el sòlid resultat té un volum d'$\frac12$ del volum original.
 
 ![Enunciat 25, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/25.png)
 
+Si el nombre $A$ és múltiple de $7$, i $A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifre entre els dos nombres també serà múltiple de $7$.
+
+Vegem com canvia la suma de les xifres d'un nombre quan li sumem $1$, i si aquesta variació pot ser múltiple de $7$. Anomenarem $d$ aquesta variació en la suma de les xifres:
+
+* Si la xifra de les unitats és menor que $9$, a la suma de les xifres se li suma $d=1$, que no és múltiple de $7$.
+* Si el número acaba en $9$, la suma de les xifres varia així: $d=-9+1=-8$. Tampoc múltiple de $7$.
+* Si el número acaba en $99$: $d=-9-9+1=-17$. Tampoc múltiple de $7$.
+* Si el número acaba en $999$: $d=-9-9-9+1=-26$. Tampoc múltiple de $7$.
+* Si el número acaba en $9999$: $d=-9-9-9-9+1=-35$. Que és multiple de $7$!
+
+Per tant, sabem que com a mínim, $A$ acabarà en $9999$. Per tal que $A$ sigui múltiple de $7$ li haurem d'afegir una xifra al davant de tot, que haurà de ser un $6$:
+$$
+\begin{array}{rcl}
+A=69\,999&\rightarrow&8+9+9+9+9=42\mid7\\
+A+1=700\,000&\rightarrow&7+0+0+0+0+0=7\mid7\\
+\end{array}
+$$
+Per tant, l'$A$ més petit que compleix aquesta propietat té $5$ xifres.
 
 ![Enunciat 26, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/26.png)
 
-
+Si considerem els daus com a diferents, podem obtindre un total de $4^4=256$ resultats diferents. D'aquests, ens valdran tots aquelles que tinguin el resultat $2017$ en qualsevol ordre. En total, tenim $4!=4\cdot3\cdot2=24$ ordres diferents. Per tant, la probabilitat de poder formar el número $2017$ és:
+$$
+P=\frac{24}{256}=\frac3{32}
+$$
 ![Enunciat 27, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/27.png)
 
+Anomenem $x$ el nombre que va a la casella central. Llavors, podem omplir la graella, per exemple, amb els següents nombres:
+$$
+\begin{array}{ccc}
+x&x+1&x\\
+x+1&x&x+1\\
+x&x+1&x\\
+\end{array}
+$$
+Restem $x$ a cada casella, i ho podem denotar com:
+$$
+\begin{array}{ccc}
+0&1&0\\
+1&0&1\\
+0&1&0\\
+\end{array}
+$$
+Llavors, la suma del quadrat serà $9x+4$. Busquem quant hauria de sumar el quadrat si $x$ és cadascuna de les opcions:
+$$
+\begin{array}{ccl}
+x=56&\Rightarrow&500-9\cdot56=-4\\
+x=57&\Rightarrow&500-9\cdot57=-13\\
+x=54&\Rightarrow&500-9\cdot54=14\\
+x=50&\Rightarrow&500-9\cdot50=50\\
+x=55&\Rightarrow&500-9\cdot55=5\\
+\end{array}
+$$
+És fàcil comprovar que podem obtindre una solució per al primer cas, $x=56$, amb la matriu:
+$$
+\begin{array}{rrr}
+0&-1&0\\
+-1&0&-1\\
+0&-1&0\\
+\end{array}
+$$
 ![Enunciat 28, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/28.png)
 
 Provarem suposant que $x$ és negatiu, i després provarem suposant que és positiu si no trobem la solució.
