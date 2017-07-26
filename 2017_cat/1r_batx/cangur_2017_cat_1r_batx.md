@@ -25,8 +25,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ![Enunciat 1, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/01.png)
 
-Si Maria dóna $x$ euros a cadascun dels germans, ella es quedarà amb $24-3x$ euros, i els seus germans en tindran $12+x$. Per tal que tots acaben amb la
-mateixa quantitat:
+Si Maria dóna $x$ euros a cadascun dels germans, ella es quedarà amb $24-3x$ euros, i els seus germans en tindran $12+x$. Per tal que tots acaben amb la mateixa quantitat s'ha de complir que:
 
 $$
 24-3x=12+x \quad\Rightarrow\quad 12=4x \quad\Rightarrow\quad x=3
@@ -102,7 +101,7 @@ Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de 
 
 ![Enunciat 7, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/07.png)
 
-El cercle pega una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà pegat $5$ voltes completes (es trobarà en la posició inicial), i després pegarà mitja volta. Llavors, la posició final serà la **B**.
+El cercle dóna una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà donat $5$ voltes completes (es trobarà en la posició inicial), i després donarà mitja volta. Llavors, la posició final serà la **B**.
 
 
 ![Enunciat 8, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/08.png)
@@ -111,19 +110,20 @@ Si la mainada és la vuitena part dels assistents, $\frac78$ dels assistents
 són adults. Dels adults, si $\frac37$ són homes, llavors $\frac47$ són dones.
 En total, la proporció de dones és:
 
-$$\text{dones}=\frac78\cdot\frac47=\frac48=\frac12$$
-
+$$
+\text{dones}=\frac78\cdot\frac47=\frac48=\frac12
+$$
 ![Enunciat 9, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/09.png)
 
 Si guanya les $5$ partides que li queden, en total n'haurà guanyat
 $9+5=14$, d'un total de $15+5=20$. El percentatge de victòries és:
 
-$$\frac{14}{20}\cdot100=14\cdot5=70\%$$
-
+$$
+\text{victòries}=\frac{14}{20}\cdot100=14\cdot5=70\%
+$$
 ![Enunciat 10, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/10.png)
 
-Els estudiants poden traure $6$ botons i que no n'hi hagen tres del mateix color
-(si són $2$ vermells, $2$ blancs i $2$ blaus). Ara bé, en traure el $7\text{è}$
+Els estudiants poden traure $6$ botons i que no n'hi hagen tres del mateix color (si són $2$ vermells, $2$ blancs i $2$ blaus). Ara bé, en traure el $7\text{è}$
 botó, necessàriament hi haurà $3$ botons del mateix color. Per tant, la solució
 és $7$.
 
@@ -210,17 +210,14 @@ $$
 \begin{array}{rccccccc}
 1&\circ&\_&\circ&\_&\circ&\_&\_\\
 2&\circ&\_&\circ&\_&\_&\circ&\_\\
-3&\circ&\_&\circ&\_&\_&\_&\circ\\
-4&\circ&\_&\_&\circ&\_&\circ&\_\\
-5&\circ&\_&\_&\circ&\_&\_&\circ\\
-6&\circ&\_&\_&\_&\circ&\_&\circ\\
-7&\_&\circ&\_&\circ&\_&\circ&\_\\
-8&\_&\circ&\_&\circ&\_&\_&\circ\\
-9&\_&\circ&\_&\_&\circ&\_&\circ\\
-10&\_&\_&\circ&\_&\circ&\_&\circ\\
+3&\circ&\_&\_&\circ&\_&\circ&\_\\
+4&\_&\circ&\_&\circ&\_&\circ&\_\\
+5&\_&\circ&\_&\circ&\_&\_&\circ\\
+6&\_&\circ&\_&\_&\circ&\_&\circ\\
+7&\_&\_&\circ&\_&\circ&\_&\circ\\
 \end{array}
 $$
-En total, hi ha $10$ possibles calendaris per escollir.
+En total, hi ha $7$ possibles calendaris per escollir.
 
 ![Enunciat 17, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/17.png)
 
@@ -291,7 +288,7 @@ Per tant, s'ha de complir que $?=0$.
 
 Si continuéssim resolent el sistema, podriem trobar una solució (hi ha infinites):
 $$
-\begin{array}{ccc}
+\begin{array}{rcc}
 3 & 0 & 1\\
 -2 & 0 & 0\\
 2 & 1 & 0\\
@@ -318,7 +315,7 @@ $$
 $$
 Efectivament, el producte és $1\cdot7\cdot9\cdot14=882$, i la suma és:
 $$
-1+7+9+14=31
+\text{suma edats}=1+7+9+14=31
 $$
 ![Enunciat 22, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/22.png)
 
@@ -329,20 +326,20 @@ Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, tam
 Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\Sigma\\
+a&b&c&d&e&f&g&&\text{suma}\\
 0&1&2&3&4&3&2&&15
 \end{array}
 $$
-Provem ara amb $c=286$:
+Provem ara amb $c=286​$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\Sigma\\
+a&b&c&d&e&f&g&&\text{suma}\\
 2&1&0&1&2&3&4&&13
 \end{array}
 $$
-Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
+Com a màxim, podem obtenir una suma de $13​$, i no podem arribar a $15​$.
 
-Per tant, només poden ser $286$ la $a$ i la $g$.
+Per tant, només poden ser $286$ la $a$ i la $g$: l'opció **D**.
 
 ![Enunciat 23, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/23.png)
 
@@ -352,7 +349,7 @@ ababab = 100000a+10000b+1000a+100b+10a+b=\\
 =(100000+1000+10)a + (10000+100+1)b=\\
 =101010a+10101b
 $$
-I resulta que $101010=7\cdot14430$ i $10101=7\cdot1443$, per tant:
+I resulta que $101010=7\cdot14430$, i $10101=7\cdot1443$, per tant:
 $$
 ababab=7\cdot(14430a+1443b)
 $$
@@ -373,7 +370,7 @@ N_{\text{contrasenyes}}=1+2+2+2+6=13
 $$
 ![Enunciat 25, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/25.png)
 
-Fixem-nos que si dues persones contigües miren cap a la mateixa banda, no s'estarà donant la mà ni ara ni quan donim mitja volta:
+Fixem-nos que si dues persones contigües miren cap a la mateixa banda, no s'estaran donant la mà ni ara ni quan donim mitja volta:
 $$
 \cdots\rightarrow\rightarrow\rightarrow\cdots \quad\Rightarrow\quad \cdots\leftarrow\leftarrow\leftarrow\cdots
 $$
@@ -412,11 +409,32 @@ $$
 
 Per tant, l'àrea que busquem és:
 $$
-A=A_{\text{quadrat}} -A_{\text{triangle cantonada}} = 75-\left(50-25\sqrt3\right)=25(1+\sqrt3)
+A=A_{\text{quadrat}} -A_{\text{triangle cantonada}} = 75-\left(50-25\sqrt3\right)=25(\sqrt3+1)
 $$
 Recordem que només hem calculat un quart de la figura total. L'àrea total serà:
 $$
-A_{\text{figura}}=4\cdot A=100(1+\sqrt3)
+A_{\text{figura}}=4\cdot A=100(\sqrt3+1)
+$$
+![Enunciat 27, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/27.png)
+
+Per simplificar, suposem que els pesos són $1,2,3,4,5,6$. En total, sumen $1+2+3+4+5+6=21$, per tant, el plat que més pesa haurà de pesar $11$ com a mínim.
+
+Calculem ara totes les configuracions que pot tenir el plat més pesat:
+$$
+1+4+6=11\\
+1+5+6=12\\
+2+3+6 = 11\\
+2+4+5=11\\
+2+4+6=12\\
+2+5+6=13\\
+3+4+5=12\\
+3+4+6=13\\
+3+5+6=14\\
+4+5+6=15
+$$
+En total, es tracta de $10$ opcions diferent, i la massa $6$ es troba en $8$ d'elles. En total:
+$$
+P=\frac8{10}=80\%
 $$
 ![Enunciat 28, nivell de 1r de batxillerat del Cangur 2017 a Catalunya](enunciats/28.png)
 

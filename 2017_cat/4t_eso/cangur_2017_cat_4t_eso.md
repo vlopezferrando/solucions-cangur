@@ -21,7 +21,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/01.png)
 
-Després de $17$minuts, són les $20.34$. Després de $4$ hores són les $00.34$, i $16$ hores després, finalment, són les $16.34$.
+Després de $17$ minuts, són les $20.34$. Després de $4$ hores són les $00.34$, i $16$ hores després, finalment, són les $16.34\text{ h}$.
 
 ![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/02.png)
 
@@ -41,7 +41,7 @@ $$
 $$
 ![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/05.png)
 
-Tenim les mesures de la diferència entre costats, per tant la diferència dels perímetres és:
+Tenim les mesures de la diferència entre costats, i la diferència dels perímetres és el doble de la suma d'aquestes diferències:
 $$
 D=2\cdot(3+2+4+3)=24\text{ m}
 $$
@@ -69,7 +69,7 @@ Hi ha dues zones grises: la primera és la resta entre l'estel més gran i el se
 més gran. La segona és la resta entre el segon estel més petit i el més petit.
 La suma és:
 $$
-(16-9)+(4-1)=7+3=10\text{ cm}^2
+A=(16-9)+(4-1)=7+3=10\text{ cm}^2
 $$
 ![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/09.png)
 
@@ -77,12 +77,14 @@ Si Laura dóna $x$ euros a cada germana, per tal que totes tinguin els mateixos 
 $$
 20-4x=10+x \quad\Rightarrow\quad 5x=10 \quad\Rightarrow\quad x=2
 $$
+I totes es queden amb $12$ euros.
+
 ![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/10.png)
 
 Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
 
-- $A=\{990, 991, 992, \ldots, 999\}$. Per qualsevol d'aquests $10$ valors de $A$, $A+10$ tindrà quatre xifres.
-- $A=\{90, 91, 92,\ldots,99\}$. Per aquests $10$ valors de $A$, $A+10$ tindrà tres xifres.
+- $A=\{990,\ 991,\ 992,\ \ldots,\ 999\}$. Per qualsevol d'aquests $10$ valors de $A$, $A+10$ tindrà quatre xifres.
+- $A=\{90,\ 91,\ 92,\ \ldots,\ 99\}$. Per aquests $10$ valors de $A$, $A+10$ tindrà tres xifres.
 
 En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
@@ -90,9 +92,9 @@ En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
 ![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/11.png)
 
-Si $\frac16$ són adults, $\frac56$ són nens i nenes. D'aquestes, $\frac25$ són nens i $\frac35$ són nenes. En total:
+Si $\frac16$ són adults, $\frac56$ són nens i nenes. D'aquests, $\frac25$ són nens i $\frac35$ són nenes. En total:
 $$
-N_{\text{nenes}}=\frac56\cdot\frac35=\frac{15}{30}=\frac12
+P_{\text{nenes}}=\frac56\cdot\frac35=\frac{15}{30}=\frac12
 $$
 ![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/12.png)
 
@@ -207,15 +209,17 @@ $$
 2&3&2
 \end{array}
 $$
-Totes les parelles de caselles contigües sumen $5$, i en total, la suma de tots els nombres és: $5\cdot2+4\cdot3=10+12=22$.
-
+Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és: 
+$$
+S=5\cdot2+4\cdot3=10+12=22
+$$
 Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dreta del $2$ original, i $y$ el nombre a sota de $x$ (a l'esquerra del $3$). Llavors, sabem que $2+x=x+y=y+3$. De la igualtat esquerra deduïm que $y=2$, i de la igualtat dreta que $x=3$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
 ### Qüestions de 5 punts
 
 ![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/21.png)
 
-Observem primer que com a mínim la suma haurà de valer $91^\circ$. Si fóra $90$ o menys, el tercer angle mesuraria $180-90=90^\circ$, i per tant seria el més gran dels tres, cosa que no pot ser.
+Observem primer que com a mínim la suma haurà de valer $91^\circ$. Si fóra $90^\circ$ o menys, el tercer angle mesuraria $180-90=90^\circ$, i per tant seria el més gran dels tres, cosa que no pot ser.
 
 Finalment, comprovem que la suma sí que pot ser $91^\circ$, cosa que ocorreria amb un triangle d'angles $(1^\circ, 89^\circ, 90^\circ)$.
 
@@ -227,7 +231,7 @@ $$
 \rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow
 \end{array}
 $$
-Cada fletxa avançarà totes les que tingui en la direcció contrària més enllà de la direcció on apunta:
+Cada fletxa avançarà totes les que tingui en la direcció contrària més enllà de la direcció cap on apunta:
 $$
 \begin{array}{ccccccccccc}
 \rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow \\
@@ -264,7 +268,7 @@ A_{\text{fora quadrat interior}}=1-\left(\frac35\right)^2=1-\frac9{25}=\frac{16}
 $$
 Pel que fa a la resta, es troba dividida a parts iguals entre els quadradets grisos i l'espai blanc. Per tant, el percentatge blanc és la meitat de $\frac{16}{25}$:
 $$
-A_{\text{blanc}}=\frac{16}{25}\cdot\frac12=\frac{8}{25}=24\%
+A_{\text{blanc}}=\frac{16}{25}\cdot\frac12=\frac{8}{25}=\frac{32}{100}=32\%
 $$
 ![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/26.png)
 
@@ -272,7 +276,7 @@ Vegem com continua la llista, fins trobar un patró:
 $$
 2,3,\underbrace{6,8,8,4,2,8},\underbrace{6,8,8,4,2,8},\ldots
 $$
-Buscarem la posició $2015$ a partir de la posició $3$, en què es comença a repetir una seqüència de longitud $6$. Busquem el residu:
+Buscarem la posició $2015$ a partir de la posició $3$, en què es comença a repetir una seqüència de longitud $6$.  Calculem el residu de la divició per $6$:
 $$
 2015=335\cdot6+5
 $$
@@ -282,7 +286,7 @@ Per tant, a la posició $2017$ hi ha el $5\text{è}$ nombre del cicle: un $2$.
 
 Comencem comptant els $3$ cubets que ha tret de la superfície de cada cara. En total això són $6\cdot3=18$ cubets.
 
-Pel que fa al cub $3\times3\times3$ interior, mirem en detall que passa a cada capa, per no descomptar-nos:
+Pel que fa al cub $3\times3\times3$ interior, mirem en detall què passa a cada capa, per no descomptar-nos:
 
 ![Solució 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/27.png)
 
@@ -333,23 +337,46 @@ $$
 Per tal que dues fraccions (una de cada llista) siguen iguals, les primeres han d'eliminar el factor $5$ del denominador (tenint un $5$ al numerador), i les segones han d'eliminar un $3$ del denominador (tenint un $3$ al numerador).
 
 Entre l'$1$ i el $59$, hi ha $11$ múltiples de $5$, i entre l'$1$ i el $35$ hi ha $11$ múltiples de $3$, que ens donaran les $11$ coincidències ens les marques:
+
 $$
 \begin{array}{ccccc}
 \text{Simó}&&&&\text{Bàrbara}\\
 \frac{5}{60}&=&\frac1{12}&=&\frac{3}{36}\\
 \frac{10}{60}&=&\frac2{12}&=&\frac{6}{36}\\
 \cdots&&\cdots&&\cdots\\
-
 \frac{55}{60}&=&\frac{11}{12}&=&\frac{33}{36}
 \end{array}
 $$
+
 En total, doncs, hi haurà:
+
 $$
 \text{marques}=59+35-11=83
 $$
+
 La qual cosa suposa que el cordill es tallarà en:
+
 $$
 \text{trossos}=83+1=84
 $$
+
 ![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/30.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -51,19 +51,19 @@ $$
 $$
 ![Enunciat 5, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/05.png)
 
-Les gràfiques A ens mostra una paràbola que comença a créixer a prop de $x=0$. La gràfica B és compatible amb la corba d'A. La gràfica C ens mostra una corba creixent al voltant de $x\in(1,2)$. La gràfica E ens mostra una gràfica decreixen al voltant de l'interval $x\in(-4,-3)$, cosa que també és compatible.
+La gràfica $A$ ens mostra una paràbola que comença a créixer a prop de $x=0$. La gràfica $B$ és compatible amb la corba d'$A$. La gràfica $C$ ens mostra una corba creixent al voltant de $x\in(1,2)$. La gràfica $E$ ens mostra una gràfica decreixen al voltant de l'interval $x\in(-4,-3)$, cosa que també és compatible.
 
-En canvi, la gràfica D ens mostra una corba que decreix a l'interval $(3,4)$, cosa que no coincideix amb les altres quatre gràfiques.
+En canvi, la gràfica $D$ ens mostra una corba que decreix a l'interval $(3,4)$, cosa que no coincideix amb les altres quatre gràfiques.
 
 ![Enunciat 6, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/06.png)
 
-Com els segments $OB$ i $BC$ són iguals, els dos triangles seran equilàters, i per tanct cada sector circular equival a $\frac16$ del cercle. En total, l'àrea ombrejada és la part del cercle:
+Com els segments $OB$ i $BC$ són iguals, els dos triangles seran equilàters, i per tant cada sector circular equival a $\frac16$ del cercle. En total, l'àrea ombrejada és la part del cercle:
 $$
 A_{\text{ombrejada}} = \frac16+\frac16=\frac13
 $$
 ![Enunciat 7, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/07.png)
 
-Els costats del triangle són les sumes dels costats dos a dos:
+Els costats del triangle són les sumes dels radis dos a dos:
 $$
 \triangle = (3+2, 3+1, 2+1) = (5, 4, 3)
 $$
@@ -79,7 +79,7 @@ $$
 
 Calculem les solucions:
 $$
-\begin{array}{rll}
+\begin{array}{lcl}
 g_5(x)=-x=x &\Rightarrow& x=0 \\
 g_2(x)=x^3= x &\Rightarrow& x=\{0, 1, -1\}\\
 g_3(x)=x^4=x &\Rightarrow& x=\{0,1\}\\
@@ -116,11 +116,40 @@ x=3 &\Rightarrow& f(3)=-10.5+7=-3.5&\Rightarrow& (3, -3.5)\in\text{IV}
 \end{array}
 $$
 
+L'únic quadrant pel que no passa és pel $\text{III}$.
 
 ### Qüestions de 4 punts
 
 ![Enunciat 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/11.png)
 
+En primer lloc, observem que podem dividir els pètals en dos de la següent manera:
+
+![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](solucions/11a.png)
+
+I cada mig pètal es correspon amb l'àrea que queda entre un triangle equilàter i un sector circular:
+
+![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](solucions/11b.png)
+
+Calculem ara l'àrea del triangle i la del sector circular per fer la resta. Pel Teorema de Pitàgores, esbrinem l'altura del triangle:
+$$
+h^2+\left(\frac12\right)^2=1^2\quad\Rightarrow\quad h^2=\frac34\quad\Rightarrow\quad h=\frac{\sqrt{3}}2
+$$
+Per tant, l'àrea del triangle és:
+$$
+A_{\text{triangle}}=\frac12\cdot1\cdot\frac{\sqrt3}2=\frac{\sqrt3}{4}
+$$
+El sector circular té una àrea que és la sisena pert de la del cercle:
+$$
+A_{\text{sector circular}} = \frac16\cdot\pi\cdot1^2=\frac\pi6
+$$
+Per tant, l'àrea de mig pètal és:
+$$
+A_{\text{mig pètal}} = A_{\text{sector circular}} - A_{\text{triangle}} = \frac\pi6 - \frac{\sqrt3}4
+$$
+Finalment, l'àrea ombrejada original té $6$ pètals, és a dir, $12$ mitjos pètals:
+$$
+A_{\text{ombrejada}} = 12\cdot A_{\text{mig pètal}} = 12\cdot\left(\frac\pi6 - \frac{\sqrt3}4\right) = 2\pi - 3\sqrt3
+$$
 ![Enunciat 12, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/12.png)
 
 En ordre decreixent, tenim les següents desigualtats:
@@ -198,18 +227,18 @@ Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, tam
 Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\Sigma\\
+a&b&c&d&e&f&g&&\text{suma}\\
 0&1&2&3&4&3&2&&15
 \end{array}
 $$
-Provem ara amb $c=286$:
+Provem ara amb $c=286​$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\Sigma\\
+a&b&c&d&e&f&g&&\text{suma}\\
 2&1&0&1&2&3&4&&13
 \end{array}
 $$
-Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
+Com a màxim, podem obtenir una suma de $13​$, i no podem arribar a $15​$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$.
 
@@ -217,12 +246,12 @@ Per tant, només poden ser $286$ la $a$ i la $g$.
 
 
 
-Com els dos triangles $\triangle ABC$ i $\triangle CDE$ comparteixen l'angle $\angle ACB$, i també l'angle de la figura, coincidiran també en el tercer angle, és a dir, són triangle semblants.
+Com els dos triangles $\triangle ABC$ i $\triangle CDE$ comparteixen l'angle $\angle ACB$, i també l'angle de la figura, coincidiran també en el tercer angle, és a dir, són triangles semblants.
 
-Concretament, el costat $CD=7$ es correspon al costat $BC=8$. Per tant, el perímetre serà $\frac78$ del perímetre original:
+Concretament, el costat $CD=7$ es correspon al costat $BC=$9. Per tant, el perímetre serà $\frac79$ del perímetre original:
 
 $$
-\text{Perímetre}(\triangle CDE) = \frac78\cdot(8+9+10)=\frac78\cdot 27=\frac{189}8 
+\text{Perímetre}(\triangle CDE) = \frac79\cdot(8+9+10)=\frac79\cdot 27=21
 $$
 ![Enunciat 20, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/20.png)
 
@@ -250,7 +279,7 @@ Finalment, la suma de les xifres de $78$ és $7+8=15$.
 
 ![Enunciat 21, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/21.png)
 
-Anomenem $x$ un nombre que compleixi la condició anterior, i $u$ la seua xifra de les unitats. Llavors, ha de complir la següent condició:
+Anomenem $x$ un nombre que compleixi la condició anterior, i siga $u$ la seua xifra de les unitats. Llavors, ha de complir la següent condició:
 $$
 \frac{x-u}{10} = \frac{x}{14}
 $$
@@ -269,12 +298,43 @@ x=28 \quad\rightarrow\quad 2 = 28\div14
 $$
 ![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/22.png)
 
+Girem el dibuix per centrar-nos en els triangles rectangles que hi apareixen:
 
+![Solució 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](solucions/22.png)
 
+Hem anomenat $P$ el punt d'intersecció dels segments $BC$ i $AD$, que formen un angle recte.
 
+Adonem-nos que tenim quatre triangles rectangles amb què treballar: $\triangle PDC$, el més petit de tots, amb hipotenusa $1$, $\triangle PAC$, el segon més petit, amb hipotenusa $2$. El triangle $\triangle PDB$, amb hipotenusa $3$, i finalment, el triangle $\triangle PAB$, del qual volem esbrinal la hipotenusa, $AB$.
 
+Pel Teorema de Pitàgores sobre el triangle més petit, sabem que:
+$$
+PD^2+PC^2=1^2
+$$
+Pel Teorema de Pitàgores sobre els dos triangles mitjans, sabem que:
+$$
+PC^2+PA^2=2^2\quad\Rightarrow\quad PA^2=4-PC^2
+$$
 
+$$
+PD^2+PB^2=3^2\quad\Rightarrow\quad PB^2=9-PD^2
+$$
 
+I volem esbrinar el que mesura $AB$, que pel Teorema de Pitàgores compleix:
+$$
+AB^2=PA^2+PB^2
+$$
+Podem substituir $PA^2$ i $PB^2$ pel que acabem d'aïllar:
+$$
+AB^2=(4-PC^2)+(9-PD^2) = 13- (PC^2+PD^2)
+$$
+Però recordem que pel triangle petit havíem deduït que $PD^2+PC^2=1$, per tant:
+$$
+AB^2=13-1=12
+$$
+Finalment:
+$$
+AB=\sqrt{12}=2\sqrt{3}
+$$
 ![Enunciat 23, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/23.png)
 
 Vegem com evoluciona la successió en els primers termes:
@@ -294,7 +354,7 @@ $$
 a_4=\frac{a_3-1}{a_3}=\frac{\frac{-1}{2016}-1}{\frac{-1}{2016}}=\frac{\frac{-2017}{2016}}{\frac{-1}{2016}}=2017
 $$
 
-Hem vist que es repetirà el cicle $(2017, \frac{2016}{2017}, \frac{-1}{2016}, \ldots)$. Per saber quant valdrà $a_{2017}$, calculem el residu de dividir entre $3$:
+Hem vist que es repetirà el cicle $(2017, \frac{2016}{2017}, \frac{-1}{2016}, \ldots)​$. Per saber quant valdrà $a_{2017}​$, calculem el residu de dividir entre $3​$:
 $$
 2017=672\cdot3+1
 $$
@@ -302,7 +362,7 @@ Per tant, $a_{2017}=a_1=2017$.
 
 ![Enunciat 24, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/24.png)
 
-Adonem-nos que al tetraedre original li hem tres quatre tetraedres petits, un per cada vèrtex. Per resoldre el problema, calcularem el volum d'aquests tetraedres petit, per exemple, ens podem centrar en el superior.
+Adonem-nos que al tetraedre original li hem tret quatre tetraedres petits, un per cada vèrtex. Per resoldre el problema, calcularem el volum d'aquests tetraedres petits, per exemple, ens podem centrar en el superior.
 
 Pel Teorema de Tales, sabem que l'altura del tetraedre petit serà la meitat que la de l'original. Pel que fa a la base (que és un triangle equilàter), tindrà una base que també serà la meitat, i una altura que també serà la meitat. En resum, el volum serà $\frac12\cdot\frac12\cdot\frac12=\frac18$ de l'original.
 
@@ -310,7 +370,7 @@ Com tenim $4$ d'aquests petits tetraedres, en total hem restat $4\cdot\frac18=\f
 
 ![Enunciat 25, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/25.png)
 
-Si el nombre $A$ és múltiple de $7$, i $A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifre entre els dos nombres també serà múltiple de $7$.
+Si el nombre $A$ és múltiple de $7$, i $A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifres entre els dos nombres també serà múltiple de $7$.
 
 Vegem com canvia la suma de les xifres d'un nombre quan li sumem $1$, i si aquesta variació pot ser múltiple de $7$. Anomenarem $d$ aquesta variació en la suma de les xifres:
 
@@ -331,9 +391,9 @@ Per tant, l'$A$ més petit que compleix aquesta propietat té $5$ xifres.
 
 ![Enunciat 26, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/26.png)
 
-Si considerem els daus com a diferents, podem obtindre un total de $4^4=256$ resultats diferents. D'aquests, ens valdran tots aquelles que tinguin el resultat $2017$ en qualsevol ordre. En total, tenim $4!=4\cdot3\cdot2=24$ ordres diferents. Per tant, la probabilitat de poder formar el número $2017$ és:
+Si considerem els daus com a diferents, podem obtindre un total de $4^4=256$ resultats diferents. Com cada dau oculta només una cara, per tal que no poguem compondre el número $2017$ (que té totes les xifres diferents), és necessari que quedi oculta la mateixa xifra als quatre daus. Per tant, hi ha $4$ tirades en què no podrem compondre el $2017$ (una per cada xifra). Llavors, la probabilitat que busquem és:
 $$
-P=\frac{24}{256}=\frac3{32}
+P=\frac{256-4}{256}=\frac{252}{256}=\frac{63}{64}
 $$
 ![Enunciat 27, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya](enunciats/27.png)
 
@@ -401,7 +461,7 @@ $$
 x-2y&=&10
 \end{cases}
 $$
-I ja el podem resoldre:
+I ja podem resoldre el sistema d'equacions:
 $$
 \begin{array}{lll}
 & x=10+2y\quad\Rightarrow\\
@@ -448,7 +508,7 @@ c=2 & \Rightarrow & a+b=16 & \Rightarrow & (a,b)=\{(7, 9),\ (8, 8),\ (9, 7)\}
 $$
 En total, hi ha:
 $$
-N=2+2+8+2+4+3=21
+N=2+2+8+2+4+3=21\text{ opcions}
 $$
 
 

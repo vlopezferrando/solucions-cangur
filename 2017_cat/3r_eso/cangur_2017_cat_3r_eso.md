@@ -25,7 +25,15 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ![Enunciat 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/01.png)
 
-Fem la multiplicació:
+Podem expressar la multiplicació com:
+$$
+2222\times2222=2\times1111\times2\times1111=\\
+=4\times1111\times1111=4\times1234321=\\
+=4937284
+$$
+Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions. 
+
+També podem fer la multiplicació:
 $$
 \begin{array}{cccccccccc}
  & & & & 2 & 2 & 2 & 2 \\
@@ -39,18 +47,22 @@ $$
  & 4 & 9 & 3 & 7 & 2 &  8 & 4 \\
 \end{array}
 $$
-Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions. 
-
 ![Enunciat 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/02.png)
 
-Si desplacem tot el perímetre cap a fora, veiem que es correspon amb el d'un quadrat de costat $4$. Per tant, el perímetre és $4\cdot4=16$.
+Si desplacem tot el perímetre cap a fora, veiem que es correspon amb el d'un quadrat de costat $4$:
+
+![Solució 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/02.png)
+
+Per tant, el perímetre és $4\cdot4=16\text{ cm}$.
 
 ![Enunciat 3, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/03.png)
 
 Per l'enunciat sabem que Robert serà el més petit, Santi tindrà $2$ anys més que Robert, i Pilar en tindrà $2$ més que Santi. Com que les edats han d'estar entre $6$ i $10$ (inclosos), hauran de ser:
 $$
-\text{Robert}\rightarrow6,\quad \text{Pilar}\rightarrow8,\quad \text{Santi}\rightarrow10
+\text{Robert}\rightarrow6,\quad \text{Santi}\rightarrow8,\quad \text{Pilar}\rightarrow10
 $$
+Per tant, Santi té $8$ anys.
+
 ![Enunciat 4, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/04.png)
 
 Fixem-nos que cada porció grisa té al seu costat una porció blanca amb la mateixa àrea. Per tant, $\frac12$ de l'àrea serà blanca.
@@ -89,38 +101,38 @@ s=220-160=60
 $$
 Finalment, la butaca individual mesura igual que un sofà de dues places menys un seient, per tant:
 $$
-\text{butaca}=160-60=100
+\text{butaca}=160-60=100\text{ cm}
 $$
 ![Enunciat 7, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/07.png)
 
 Tenim el sistema d'equacions de $4$ equacions i $4$ incògnites següent:
 $$
 \begin{cases}
-a+b=2 \quad(1)\\
-c+d=3 \quad(2)\\
-a+c=1 \quad(3) \\
+a+c=1 \quad(1) \\
+a+b=2 \quad(2)\\
+c+d=3 \quad(3)\\
 b+d=4 \quad(4)
 \end{cases}
 $$
 Valorem ara les possibles opcions:
 
-* $b$ és igual a $c$: no pot ser, perquè llavors no s'explicat que les equacions $(1)$ i $(2)$ tinguen resultats diferents.
-* $a$ és més gran que $d$: no pot ser, perquè llavors l'equació $(1)$ seria més gran que la $(4)$.
-* $a$ és igual a $d$: no pot ser, perquè $(1)$ i $(4)$ són diferents.
-* $a$ és més petit que $d$: efectivament, si restem les equacions $(1$) i $(4)$, tenim que $a-d=-2$, és a dir, $a=d-2$, i per tant $a$ és més petit que $d$.
-* $c$ és més gran que $b$: impossible perquè llavors l'equació $(2)$ hauria de ser més gran que la $(4)$.
+* $b$ és igual a $c$: no pot ser, perquè llavors no s'explicar que les equacions $(2)$ i $(3)$tinguen resultats diferents.
+* $a$ és més gran que $d$: no pot ser, perquè llavors l'equació $(2)$ seria més gran que la $(4)$.
+* $a$ és igual a $d$: no pot ser, perquè $(2)$ i $(4)$ són diferents.
+* $a$ és més petit que $d$: efectivament, si restem les equacions $(2)$ i $(4)$, tenim que $a-d=-2$, és a dir, $a=d-2$, i per tant $a$ és més petit que $d$.
+* $c$ és més gran que $b$: impossible perquè llavors l'equació $(3)$ hauria de ser més gran que la $(4)$.
 
 Per tant, la solució és que «$a$ és més petit que $d$».
 
 ![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/08.png)
 
-Entre els quatre han marcat $20$ gols, per tant la mitjana serà de $5$ gols per jugador. Com han marcat un nombre diferent de gols, una opció serà:
+Entre els altres tres jugadors, han marcat $20$ gols. Aquesta suma es pot obtindre sumant els següents gols:
 $$
-3, 4, 6, 7
+5+6+9=20
 $$
-I per tant, en Miquel n'hauria marcat $3$.
+Però no pot ser que qui menys gols n'haja marcat n'hagi fet més de $5$, perquè llavors com a mínim hauran marcat $5+6+7=21$ gols.
 
-Fixem-nos que és impossible que en Miquel en marqui $4$, perquè llavors els altres, com a mínim, en marcarien $5,6,7$, i llavors la suma seria: $4+5+6+7=22$.
+Per tant, Miquel, que n'ha marcat menys que la resta, n'haurà fet $4$ com a màxim.
 
 ![Enunciat 9, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/09.png)
 
@@ -146,7 +158,7 @@ Primer, ens adonem que a la casella de dalt a l'esquerra hem de posar l'$1$, ja 
 $$
 23,\;24,\;25,\;34,\;35,\;45
 $$
-Per cadascuna d'aquestes opcions, les altres dues caselles les podem emplenar d'una sola manera (amb el nombre menor a dalt i el major a baix). Aquestes $6$ maneres són:
+Per cadascuna d'aquestes opcions, les altres dues caselles les podem emplenar d'una sola manera (amb el nombre menor a dalt i el major a baix, dels dos nombres que queden). Aquestes $6$ maneres són:
 $$
 \begin{array}{cccccccccc}
 1&2&3&&1&2&4&&1&2&5\\
@@ -160,7 +172,7 @@ $$
 $$
 ![Enunciat 13, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/13.png)
 
-Anomenem $c$ el costat del quadrat final. Reconstruirem el rectangle partint del quadrat, apuntant a cada passa la longitud dels dos costats del paral·lelogram:
+Anomenem $c$ el costat del quadrat final. Reconstruirem el rectangle partint del quadrat, apuntant a cada passa la longitud dels dos costats del rectangle:
 $$
 (c, c)\rightarrow(2c, c)\rightarrow(4c, c)\rightarrow(8c, c)
 $$
@@ -172,7 +184,7 @@ $$
 $$
 Finalment, el costat llarg del rectangle inicial és:
 $$
-\text{costat llarg}=8c=8\cdot14=112
+\text{costat llarg}=8c=8\cdot14=112\text{ cm}
 $$
 ![Enunciat 14, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/14.png)
 
@@ -186,7 +198,7 @@ $$
 6 &\rightarrow & 2\cdot6 &=& 12\\
 \end{array}
 $$
-Com a mínim, podrem obtenir $3$ resultats diferents.
+Com a mínim, haurem d'obtenir $3$ resultats diferents.
 
 ![Enunciat 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/15.png)
 
@@ -201,7 +213,7 @@ $$
 
 ![Enunciat 16, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/16.png)
 
-Primer, observem que hi ha $6$ sumes diferents, que ens poden donar valors distints. Per exemple, amb els nombres $0,1,2,$4:
+Primer, observem que hi ha $6$ sumes diferents, que ens poden donar valors distints. Per exemple, amb els nombres $0,1,2,4$:
 $$
 0+1=1 \\
 0+2=2 \\
@@ -242,8 +254,8 @@ $$
 
 Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
 
-* $A=\{990, 991, 992, \ldots, 999\}$. Per qualsevol d'aquests $10$ valors de $A$, $A+10$ tindrà quatre xifres.
-* $A=\{90, 91, 92,\ldots,99\}$. Per aquests $10$ valors de $A$, $A+10$ tindrà tres xifres.
+* $A=\{990,\ 991,\ 992,\ \ldots,\ 999\}$. Per qualsevol d'aquests $10$ valors de $A$, $A+10$ tindrà quatre xifres.
+* $A=\{90,\ 91,\ 92,\ \ldots,\ 99\}$. Per aquests $10$ valors de $A$, $A+10$ tindrà tres xifres.
 
 En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
@@ -292,7 +304,7 @@ Només hi ha un cub que podem dividir en les nou peces:
 
 ![Enunciat 21, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/21.png)
 
-Comencem per les dues regions centrals, que estan en contacte amb tota la resta. Aquestes s'han de pintar de dos colors diferents, i per tant tenim $3\cdot4=12$ opcions diferents.
+Comencem per les dues regions centrals, que estan en contacte amb tota la resta. Aquestes s'han de pintar de dos colors diferents. Per la primera podem triar qualsevol dels $4$ colors, i per la segona, qualsevol dels $3$ restants. Per tant, tenim $4\cdot3=12$ opcions diferents.
 
 Les altres dues regions dels costats (esquerra i dreta), poden tenir qualsevol dels altres dos colors restants sense cap restricció, ja que no es toquen entre elles: $2\cdot2=4$ opcions.
 
@@ -308,7 +320,7 @@ $$
 $$
 ![Enunciat 23, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/23.png)
 
-Anomenem $x$ el nombre de participants. Llavors, hi ha $0.35x$ noies i $0.65x$ nois. La diferència és $252$:
+Anomenem $x$ el nombre de participants. Llavors, hi ha $0.35x$ dones i $0.65x$ homes. La diferència és $252$:
 $$
 0.65x-0.35x=0.3x=252 \quad\Rightarrow\quad x=\frac{252}{0.3}=840
 $$
@@ -318,7 +330,7 @@ Només hi ha dues sumes que tenen un resultat múltiple de $5​$:
 $$
 3+12=15,\quad8+12=20
 $$
-El sumand repetit a les dues sumes és $12$, i per tant aquestà serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
+El sumand repetit a les dues sumes és $12$, i per tant aquesta serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
 
 ![Enunciat 25, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/25.png)
 
@@ -375,9 +387,11 @@ $$
 2&3&2
 \end{array}
 $$
-Totes les parelles de caselles contigües sumen $5$, i en total, la suma de tots els nombres és: $5\cdot2+4\cdot3=10+12=22$.
-
-Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dreta del $2$ original, i $y$ el nombre a sota de $x$ (a l'esquerra del $3$). Llavors, sabem que $2+x=x+y=y+3$. De la igualtat esquerra deduïm que $y=2$, i de la igualtat dreta que $x=3$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
+Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és: 
+$$
+S=5\cdot2+4\cdot3=10+12=22
+$$
+Per justificar com hem omplit la graella, anemenem $x​$ el nombre que va a la dreta del $2​$ original, i $y​$ el nombre a sota de $x​$ (a l'esquerra del $3​$). Llavors, sabem que $2+x=x+y=y+3​$. De la igualtat esquerra deduïm que $y=2​$, i de la igualtat dreta que $x=3​$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
 ![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/28.png)
 
@@ -387,7 +401,7 @@ A=2\cdot\left(\frac12\cdot1\cdot4\right)=4\text{ cm}^2
 $$
 ![Enunciat 29, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/29.png)
 
-Dels $7$ dies de la setmana, pot triar:
+Dels $7$ dies de la setmana, pot triar les següents parelles de dies:
 $$
 \begin{array}{cccc}
 (1, 3),& (1, 4),& (1, 5),& (1, 6), \\
