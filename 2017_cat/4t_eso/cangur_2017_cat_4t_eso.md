@@ -1,13 +1,12 @@
 Title: Solucions del Cangur 2017 a Catalunya: Nivell 4t d'ESO
-Date: 2017-3-20 12:00
+Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
 Slug: solucions-cangur-2017-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2017 a Catalunya
-Status: draft
 
-Ja he preparat el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats](enunciat_2017_cat_4t_eso.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_4t_eso.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -19,43 +18,43 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/01.png)
+![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
 
 Després de $17$ minuts, són les $20.34$. Després de $4$ hores són les $00.34$, i $16$ hores després, finalment, són les $16.34\text{ h}$.
 
-![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/02.png)
+![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
 
 Entre Núria i Maria hi ha $3$ noies per una banda i $6$ per l'altra. En total, són:
 $$
 N=3+6+1+1=11
 $$
-![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/03.png)
+![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
 
 Si canviem l'orientació dels segments, podem construir un triangle equilàter gran amb la línia discontínua com a base. Llavors, la línia negra seran els altres dos costats del triangle equilàter. Com la base mesura $200\text{ m}$, el camí negre mesurarà $2\cdot200=400\text{ m}$.
 
-![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/04.png)
+![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
 
 Expressem l'enunciat amb una equació, en què $x$ és la capacitat del dipòsit, i la resolem:
 $$
 0.75x = 0.25x+25\quad\Rightarrow\quad 0.5x=25\quad\Rightarrow\quad x=50
 $$
-![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/05.png)
+![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
 
 Tenim les mesures de la diferència entre costats, i la diferència dels perímetres és el doble de la suma d'aquestes diferències:
 $$
 D=2\cdot(3+2+4+3)=24\text{ m}
 $$
-![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/06.png)
+![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
 
 Podem dividir la figura en petits triangles equilàters iguals:
 
-![Solució 6, nivell de 4t d'ESO del Cangur 2017 a Catalunya](solucions/15.png)
+![Solució 6, nivell de 4t d'ESO del Cangur 2017 a Catalunya]({filename}solucions/15.png)
 
 La part que està ocupada pel color blanc és:
 $$
 \text{blanc}=\frac{12}{16}=\frac34
 $$
-![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/07.png)
+![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
 
 La única forma de sumar $7$ amb tres nombres naturals diferents és:
 $$
@@ -63,7 +62,7 @@ $$
 $$
 I el seu producte és $1\cdot2\cdot4=8$.
 
-![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/08.png)
+![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
 
 Hi ha dues zones grises: la primera és la resta entre l'estel més gran i el segon
 més gran. La segona és la resta entre el segon estel més petit i el més petit.
@@ -71,7 +70,7 @@ La suma és:
 $$
 A=(16-9)+(4-1)=7+3=10\text{ cm}^2
 $$
-![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/09.png)
+![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
 
 Si Laura dóna $x$ euros a cada germana, per tal que totes tinguin els mateixos diners cal que:
 $$
@@ -79,7 +78,7 @@ $$
 $$
 I totes es queden amb $12$ euros.
 
-![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/10.png)
+![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
 
 Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
 
@@ -90,13 +89,13 @@ En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/11.png)
+![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
 Si $\frac16$ són adults, $\frac56$ són nens i nenes. D'aquests, $\frac25$ són nens i $\frac35$ són nenes. En total:
 $$
 P_{\text{nenes}}=\frac56\cdot\frac35=\frac{15}{30}=\frac12
 $$
-![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/12.png)
+![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
 
 Només hi ha dues sumes que tenen un resultat múltiple de $5$:
 $$
@@ -104,7 +103,7 @@ $$
 $$
 El sumand repetit a les dues sumes és $12$, i per tant aquestà serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
 
-![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/13.png)
+![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
 
 Anomenem $x$ el nombre total de participants. Segons l'enunciat, hi ha $0.35x$ dones i $252 + 0.35x$ homes. En total:
 $$
@@ -114,7 +113,7 @@ Resolem l'equació:
 $$
 252=0.3x\quad\Rightarrow\quad x=\frac{252}{0.3}=840
 $$
-![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/14.png)
+![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
 
 Anomenem $a,b,c$ els tres nombres que faltes (d'esquerra a dreta). Llavors tenim les equacions:
 $$
@@ -137,11 +136,11 @@ El producte dels nombres dels quadrats grisos $(a,c)$ és:
 $$
 a\cdot c=7\cdot9=63
 $$
-![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/15.png)
+![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
 
 El cercle pega una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà pegat $5$ voltes completes (es trobarà en la posició inicial), i després pegarà mitja volta. Llavors, la posició final serà la **E**.
 
-![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/16.png)
+![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
 
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
@@ -171,13 +170,13 @@ En total, hem posat $7$ nombres senars.
 
 Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
 
-![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/17.png)
+![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
 
 L'àrea ombrejada és la de dos triangles de base $1$ i altura $4$ (la meitat del costat del quadrat). Per tant, en total mesura:
 $$
 A=2\cdot\left(\frac12\cdot1\cdot4\right)=4\text{ cm}^2
 $$
-![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/18.png)
+![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
 
 Observem que la marieta ha caminat $\frac34$ de la longitud del pal, però començava des del final. Per tant es troba a la posició $1-\frac34=\frac14$.
 
@@ -185,7 +184,7 @@ La separació és:
 $$
 \text{separació} = \frac23-\frac14=\frac{8-3}{12}=\frac5{12}
 $$
-![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/19.png)
+![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
 
 Dels $7$ dies de la setmana, pot triar:
 $$
@@ -199,7 +198,7 @@ $$
 $$
 En total, pot configurar $14$ calendaris diferents.
 
-![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/20.png)
+![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
 
 La única forma d'omplir la graella és (després ho justifiquem):
 $$
@@ -209,7 +208,7 @@ $$
 2&3&2
 \end{array}
 $$
-Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és: 
+Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és:
 $$
 S=5\cdot2+4\cdot3=10+12=22
 $$
@@ -217,13 +216,13 @@ Per justificar com hem omplit la graella, anemenem $x$ el nombre que va a la dre
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/21.png)
+![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
 
 Observem primer que com a mínim la suma haurà de valer $91^\circ$. Si fóra $90^\circ$ o menys, el tercer angle mesuraria $180-90=90^\circ$, i per tant seria el més gran dels tres, cosa que no pot ser.
 
 Finalment, comprovem que la suma sí que pot ser $91^\circ$, cosa que ocorreria amb un triangle d'angles $(1^\circ, 89^\circ, 90^\circ)$.
 
-![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/22.png)
+![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
 
 Esquematitzem la figura posant fletxes enlloc de cangurs:
 $$
@@ -244,7 +243,7 @@ $$
 $$
 Fixem-nos, però, que hem comptat cada salt dues vegades, i per tant en total s'han fet $36\div2=18$ intercanvis.
 
-![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/23.png)
+![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
 
 Per obtindre dues sumes iguals, haurem de sumar $5$ i $2$ a parelles de nombres que tinguen una diferència de $3$. Com a molt, podem trobar tres d'aquestes parelles:
 $$
@@ -252,7 +251,7 @@ $$
 $$
 En total, tindrem $9-3=6$ sumes diferents.
 
-![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/24.png)
+![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
 
 Abans que el cotxe arribe (en $60$ minuts), hauran arribat els següents busos que han sortit en $3,6,\ldots$ minuts, els quals hauran arribat en:
 $$
@@ -260,7 +259,7 @@ $$
 $$
 En total, l'han avançat $8$ autobusos.
 
-![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/25.png)
+![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
 
 En primer lloc, observem que el quadrat gris d'enmig té un costat que és $\frac35$ del costat del quadrat gran (mesura $3$ de les $5$ diagonals dels quadradets petits inclinats). Per tant, l'àrea entre els dos quadrats és:
 $$
@@ -270,7 +269,7 @@ Pel que fa a la resta, es troba dividida a parts iguals entre els quadradets gri
 $$
 A_{\text{blanc}}=\frac{16}{25}\cdot\frac12=\frac{8}{25}=\frac{32}{100}=32\%
 $$
-![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/26.png)
+![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
 
 Vegem com continua la llista, fins trobar un patró:
 $$
@@ -282,13 +281,13 @@ $$
 $$
 Per tant, a la posició $2017$ hi ha el $5\text{è}$ nombre del cicle: un $2$.
 
-![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/27.png)
+![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
 
 Comencem comptant els $3$ cubets que ha tret de la superfície de cada cara. En total això són $6\cdot3=18$ cubets.
 
 Pel que fa al cub $3\times3\times3$ interior, mirem en detall què passa a cada capa, per no descomptar-nos:
 
-![Solució 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/27.png)
+![Solució 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/27.png)
 
 Al cub interior Diana ha tret $7\cdot3=21$ cubets.
 
@@ -296,7 +295,7 @@ En total, ha tret
 $$
 18+21=39\text{ cubets}
 $$
-![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/28.png)
+![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
 
 Els corredors van a una velocitat de:
 $$
@@ -315,7 +314,7 @@ En aquest temps, el segon corredor haurà recorregut:
 $$
 d_B=144\cdot\frac{20}{9}=320\text{ m}
 $$
-![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/29.png)
+![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
 
 Els punts que marca en Simó són:
 $$
@@ -360,11 +359,11 @@ $$
 \text{trossos}=83+1=84
 $$
 
-![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/30.png)
+![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
 
 Podem dividir la figura en tres zones de colors diferenciats:
 
-![Solució 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/30a.png)
+<img src="{filename}solucions/30a.png" alt="Solució 30, nivell de 4t d'ESO del Cangur 2017 a Catalunya" style="width: 450px;"/>
 
 En aquesta figura, sabem que el triangle verd, $\triangle ABM$, té una àrea de $\frac{S}2$, ja que és un triangle amb la mateixa base i altura que el paral·lelogram. A més, els triangles vermells tenen una àrea de $\frac{S}3$, tal com diu l'enunciat. Per tant, els triangles blaus, $\triangle DEM$ i $\triangle FCM$ sumen una àrea que és la diferència respecte a l'àrea total:
 $$
@@ -372,27 +371,11 @@ A_{\triangle DEM}+A_{\triangle FCM} = S - \frac{S}{2} - \frac{S}3 = \frac{S}6
 $$
 D'altra banda, fixem-nos en el triangle superior $\triangle DOC$, que té una àrea que mesura $\frac{S}4$, perquè està delimitat per les dues diagonals (mateixa base que el paral·lelogram i la meitat d'altura):
 
-![Solució 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/30b.png)
+<img src="{filename}solucions/30b.png" alt="Solució 30, nivell de 4t d'ESO del Cangur 2017 a Catalunya" style="width: 450px;"/>
 
 I l'àrea del quadrilàter $\square EOFM$ és la resta entre $A_{\triangle DOC}$ i els dos triangles que hem calculat abans ($\triangle DEM$ i $\triangle FCM$):
 $$
 A_{\square EOFM} = A_{\triangle DOC} - (A_{\triangle DEM} + A_{\triangle FCM}) = \frac{S}4 - \frac{S}6 = \frac{S}{12}
 $$
 Finalment, hem vist que l'àrea del quadrilàter és $A_{\square EOFM}=\frac{S}{12}$.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

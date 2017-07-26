@@ -1,5 +1,5 @@
 Title: Solucions del Cangur 2017 a Catalunya: Nivell 3r d'ESO
-Date: 2017-3-20 12:00
+Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
@@ -7,11 +7,7 @@ Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-3r-eso
 Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2017 a Catalunya
 
-Aquest és el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats](enunciat_2017_cat_3r_eso.pdf){:target="_blank"}.
-
-Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
-
-Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 3r d'ESO del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_3r_eso.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -23,7 +19,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/01.png)
+![Enunciat 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/01.png)
 
 Podem expressar la multiplicació com:
 $$
@@ -31,7 +27,7 @@ $$
 =4\times1111\times1111=4\times1234321=\\
 =4937284
 $$
-Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions. 
+Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions.
 
 També podem fer la multiplicació:
 $$
@@ -47,15 +43,15 @@ $$
  & 4 & 9 & 3 & 7 & 2 &  8 & 4 \\
 \end{array}
 $$
-![Enunciat 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/02.png)
+![Enunciat 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/02.png)
 
 Si desplacem tot el perímetre cap a fora, veiem que es correspon amb el d'un quadrat de costat $4$:
 
-![Solució 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/02.png)
+![Solució 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}solucions/02.png)
 
 Per tant, el perímetre és $4\cdot4=16\text{ cm}$.
 
-![Enunciat 3, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/03.png)
+![Enunciat 3, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/03.png)
 
 Per l'enunciat sabem que Robert serà el més petit, Santi tindrà $2$ anys més que Robert, i Pilar en tindrà $2$ més que Santi. Com que les edats han d'estar entre $6$ i $10$ (inclosos), hauran de ser:
 $$
@@ -63,11 +59,11 @@ $$
 $$
 Per tant, Santi té $8$ anys.
 
-![Enunciat 4, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/04.png)
+![Enunciat 4, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/04.png)
 
 Fixem-nos que cada porció grisa té al seu costat una porció blanca amb la mateixa àrea. Per tant, $\frac12$ de l'àrea serà blanca.
 
-![Enunciat 5, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/05.png)
+![Enunciat 5, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/05.png)
 
 En primer lloc, hem de conseguir que la primera xifra sigui un $9$:
 $$
@@ -85,7 +81,7 @@ I el número final és:
 $$
 9781920
 $$
-![Enunciat 6, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/06.png)
+![Enunciat 6, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/06.png)
 
 Anomenem $b$ l'amplada del *braç* del sofà (gris), i $s$ l'amplada del seient (blanc). En un sofà de tres places, tenim dos braços i tres seients, per tant:
 $$
@@ -103,7 +99,7 @@ Finalment, la butaca individual mesura igual que un sofà de dues places menys u
 $$
 \text{butaca}=160-60=100\text{ cm}
 $$
-![Enunciat 7, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/07.png)
+![Enunciat 7, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/07.png)
 
 Tenim el sistema d'equacions de $4$ equacions i $4$ incògnites següent:
 $$
@@ -124,7 +120,7 @@ Valorem ara les possibles opcions:
 
 Per tant, la solució és que «$a$ és més petit que $d$».
 
-![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/08.png)
+![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/08.png)
 
 Entre els altres tres jugadors, han marcat $20$ gols. Aquesta suma es pot obtindre sumant els següents gols:
 $$
@@ -134,11 +130,11 @@ Però no pot ser que qui menys gols n'haja marcat n'hagi fet més de $5$, perqu�
 
 Per tant, Miquel, que n'ha marcat menys que la resta, n'haurà fet $4$ com a màxim.
 
-![Enunciat 9, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/09.png)
+![Enunciat 9, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/09.png)
 
 L'angle amb l'interrogant és la suma dels altres dos angles que hi ha dibuixats: $60+90=150^\circ$.
 
-![Enunciat 10, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/10.png)
+![Enunciat 10, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/10.png)
 
 Usar la vareta $V3$ doblarà l'efecte del que haja fet abans, així que el millor és afegir un euro abans de doblar i restar l'euro després de doblar. Per tant, la solució és:
 $$
@@ -148,11 +144,11 @@ $$
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/11.png)
+![Enunciat 11, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/11.png)
 
 Si canviem l'orientació dels segments, podem construir un triangle equilàter gran amb la línia discontínua com a base. Llavors, la línia negra seran els altres dos costats del triangle equilàter. Com la base mesura $200\text{ m}$, el camí negre mesurarà $2\cdot200=400\text{ m}$.
 
-![Enunciat 12, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/12.png)
+![Enunciat 12, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/12.png)
 
 Primer, ens adonem que a la casella de dalt a l'esquerra hem de posar l'$1$, ja que ha de ser menor que qualsevol altra casella. Llavors, centrant-nos en les dues caselles de dalt a la dreta, podem triar les següents opcions:
 $$
@@ -170,7 +166,7 @@ $$
 5&&&&4&&&&3&&\\
 \end{array}
 $$
-![Enunciat 13, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/13.png)
+![Enunciat 13, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/13.png)
 
 Anomenem $c$ el costat del quadrat final. Reconstruirem el rectangle partint del quadrat, apuntant a cada passa la longitud dels dos costats del rectangle:
 $$
@@ -186,7 +182,7 @@ Finalment, el costat llarg del rectangle inicial és:
 $$
 \text{costat llarg}=8c=8\cdot14=112\text{ cm}
 $$
-![Enunciat 14, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/14.png)
+![Enunciat 14, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/14.png)
 
 El producte de dos nombres diferents per $2$ o de dos nombres diferents per $3$, serà diferent. Com a molt, podrem fer que els productes de dos nombres per $2$ siguin iguals als productes de dos nombres per $3$. Per exemple, amb els números:
 $$
@@ -200,18 +196,18 @@ $$
 $$
 Com a mínim, haurem d'obtenir $3$ resultats diferents.
 
-![Enunciat 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/15.png)
+![Enunciat 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/15.png)
 
 Podem dividir la figura en petits triangles equilàters iguals:
 
-![Solució 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/15.png)
+![Solució 15, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}solucions/15.png)
 
 La part que està ocupada pel color blanc és:
 $$
 \text{blanc}=\frac{12}{16}=\frac34
 $$
 
-![Enunciat 16, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/16.png)
+![Enunciat 16, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/16.png)
 
 Primer, observem que hi ha $6$ sumes diferents, que ens poden donar valors distints. Per exemple, amb els nombres $0,1,2,4$:
 $$
@@ -250,7 +246,7 @@ $$
 1+3=4 \\
 2+3=5
 $$
-![Enunciat 17, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/17.png)
+![Enunciat 17, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/17.png)
 
 Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
 
@@ -259,11 +255,11 @@ Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui,
 
 En total, hi ha $20$ nombres naturals $A$ amb aquesta propietat.
 
-![Enunciat 18, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/18.png)
+![Enunciat 18, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/18.png)
 
 Si ens fixem en les rajoles quadrades, veiem que totes menys una es veuen igual des de cada costat (a la dreta). Per tant, només hem de moure una rajola quadrada perquè coincideixien tots els punts de vista. Només hi ha una opció que contempli l'intercanvi d'una sola parella de rajoles quadrades, i serà la solució (la **E** en este cas).
 
-![Enunciat 19, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/19.png)
+![Enunciat 19, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/19.png)
 
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
@@ -293,16 +289,16 @@ En total, hem posat $7$ nombres senars.
 
 Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
 
-![Enunciat 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/20.png)
+![Enunciat 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/20.png)
 
 Només hi ha un cub que podem dividir en les nou peces:
 
-![Solució 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya](solucions/20.png)
+![Solució 20, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}solucions/20.png)
 
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/21.png)
+![Enunciat 21, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/21.png)
 
 Comencem per les dues regions centrals, que estan en contacte amb tota la resta. Aquestes s'han de pintar de dos colors diferents. Per la primera podem triar qualsevol dels $4$ colors, i per la segona, qualsevol dels $3$ restants. Per tant, tenim $4\cdot3=12$ opcions diferents.
 
@@ -310,7 +306,7 @@ Les altres dues regions dels costats (esquerra i dreta), poden tenir qualsevol d
 
 En total, hi ha $12\cdot4=48$ maneres diferents de pintar el mapa.
 
-![Enunciat 22, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/22.png)
+![Enunciat 22, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/22.png)
 
 Observem que la marieta ha caminat $\frac34$ de la longitud del pal, però començava des del final. Per tant es troba a la posició $1-\frac34=\frac14$.
 
@@ -318,13 +314,13 @@ La separació és:
 $$
 \text{separació} = \frac23-\frac14=\frac{8-3}{12}=\frac5{12}
 $$
-![Enunciat 23, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/23.png)
+![Enunciat 23, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/23.png)
 
 Anomenem $x$ el nombre de participants. Llavors, hi ha $0.35x$ dones i $0.65x$ homes. La diferència és $252$:
 $$
 0.65x-0.35x=0.3x=252 \quad\Rightarrow\quad x=\frac{252}{0.3}=840
 $$
-![Enunciat 24, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/24.png)
+![Enunciat 24, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/24.png)
 
 Només hi ha dues sumes que tenen un resultat múltiple de $5​$:
 $$
@@ -332,7 +328,7 @@ $$
 $$
 El sumand repetit a les dues sumes és $12$, i per tant aquesta serà l'edat de la Neus. Llavors, la Sara i la Joana tindran $3$ o $8$ anys cadascuna (els altres sumands de les dues sumes anteriors). Finalment, la Rita tindrà el número d'anys que queda: $14$ anys.
 
-![Enunciat 25, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/25.png)
+![Enunciat 25, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/25.png)
 
 Anomenem $a, b, c$ els tres nombres amb què omplirà la graella, que han de complir:
 $$
@@ -357,7 +353,7 @@ I el seu producte és:
 $$
 a\cdot c=7\cdot9=63
 $$
-![Enunciat 26, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/26.png)
+![Enunciat 26, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/26.png)
 
 Els punts que marca en Simó són:
 $$
@@ -377,7 +373,7 @@ $$
 $$
 En total, Simó ha fet $11$ marques, i Bàrbara n'ha fet $7$. Però han coincidit en $3$: $\frac14, \frac12, \frac34$. Per tant, hi havia un total de $11+7-3=15$ marques, les quals divideixen el cordill en $15+1=16$ trossos.
 
-![Enunciat 27, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/27.png)
+![Enunciat 27, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/27.png)
 
 La única forma d'omplir la graella és (després ho justifiquem):
 $$
@@ -387,19 +383,19 @@ $$
 2&3&2
 \end{array}
 $$
-Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és: 
+Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos i quatre tresos, i la suma és:
 $$
 S=5\cdot2+4\cdot3=10+12=22
 $$
 Per justificar com hem omplit la graella, anemenem $x​$ el nombre que va a la dreta del $2​$ original, i $y​$ el nombre a sota de $x​$ (a l'esquerra del $3​$). Llavors, sabem que $2+x=x+y=y+3​$. De la igualtat esquerra deduïm que $y=2​$, i de la igualtat dreta que $x=3​$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
-![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/28.png)
+![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
 
 L'àrea ombrejada és la de dos triangles de base $1$ i altura $4$ (la meitat del costat del quadrat). Per tant, en total mesura:
 $$
 A=2\cdot\left(\frac12\cdot1\cdot4\right)=4\text{ cm}^2
 $$
-![Enunciat 29, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/29.png)
+![Enunciat 29, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/29.png)
 
 Dels $7$ dies de la setmana, pot triar les següents parelles de dies:
 $$
@@ -413,7 +409,7 @@ $$
 $$
 En total, pot configurar $14$ calendaris diferents.
 
-![Enunciat 30, nivell de 3r d'ESO del Cangur 2017 a Catalunya](enunciats/30.png)
+![Enunciat 30, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/30.png)
 
 En total, el cub gros té $4^3=64$ cubs petits.
 
