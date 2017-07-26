@@ -362,7 +362,23 @@ $$
 
 ![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](enunciats/30.png)
 
+Podem dividir la figura en tres zones de colors diferenciats:
 
+![Solució 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/30a.png)
+
+En aquesta figura, sabem que el triangle verd, $\triangle ABM$, té una àrea de $\frac{S}2$, ja que és un triangle amb la mateixa base i altura que el paral·lelogram. A més, els triangles vermells tenen una àrea de $\frac{S}3$, tal com diu l'enunciat. Per tant, els triangles blaus, $\triangle DEM$ i $\triangle FCM$ sumen una àrea que és la diferència respecte a l'àrea total:
+$$
+A_{\triangle DEM}+A_{\triangle FCM} = S - \frac{S}{2} - \frac{S}3 = \frac{S}6
+$$
+D'altra banda, fixem-nos en el triangle superior $\triangle DOC$, que té una àrea que mesura $\frac{S}4$, perquè està delimitat per les dues diagonals (mateixa base que el paral·lelogram i la meitat d'altura):
+
+![Solució 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya](solucions/30b.png)
+
+I l'àrea del quadrilàter $\square EOFM$ és la resta entre $A_{\triangle DOC}$ i els dos triangles que hem calculat abans ($\triangle DEM$ i $\triangle FCM$):
+$$
+A_{\square EOFM} = A_{\triangle DOC} - (A_{\triangle DEM} + A_{\triangle FCM}) = \frac{S}4 - \frac{S}6 = \frac{S}{12}
+$$
+Finalment, hem vist que l'àrea del quadrilàter és $A_{\square EOFM}=\frac{S}{12}$.
 
 
 
