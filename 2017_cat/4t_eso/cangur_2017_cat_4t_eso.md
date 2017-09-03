@@ -226,8 +226,8 @@ Finalment, comprovem que la suma sí que pot ser $91^\circ$, cosa que ocorreria 
 
 Esquematitzem la figura posant fletxes enlloc de cangurs:
 $$
-\begin{array}
-\rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow
+\begin{array}{ccccccccc}
+\rightarrow &\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow
 \end{array}
 $$
 Cada fletxa avançarà totes les que tingui en la direcció contrària més enllà de la direcció cap on apunta:
@@ -335,7 +335,7 @@ $$
 
 Per tal que dues fraccions (una de cada llista) siguen iguals, les primeres han d'eliminar el factor $5$ del denominador (tenint un $5$ al numerador), i les segones han d'eliminar un $3$ del denominador (tenint un $3$ al numerador).
 
-Entre l'$1$ i el $59$, hi ha $11$ múltiples de $5$, i entre l'$1$ i el $35$ hi ha $11$ múltiples de $3$, que ens donaran les $11$ coincidències ens les marques:
+Entre l'$1$ i el $59$, hi ha $11$ múltiples de $5$, i entre l'$1$ i el $35$ hi ha $11$ múltiples de $3$, que ens donaran les $11$ coincidències en les marques:
 
 $$
 \begin{array}{ccccc}

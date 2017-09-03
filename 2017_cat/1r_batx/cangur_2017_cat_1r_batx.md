@@ -457,7 +457,7 @@ $$
 r = \frac{12PA+36}{2PA} = 6+\frac{18}{PA}
 $$
 
-Per tal que el radi sigui enter, $PA$ ha de ser un divisor de $36$. Com $36=2\cdot3^2$, té $(1+1)\cdot(2+1)=6$ divisors, i la solució és $6$.
+Per tal que el radi sigui enter, $PA$ ha de ser un divisor de $18$. Com $18=2\cdot3^2$, té $(1+1)\cdot(2+1)=6$ divisors, i la solució és $6$.
 
 ![Enunciat 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/29.png)
 
@@ -488,7 +488,7 @@ $$
 $$
 Per tant, hi ha $2$ possibles solucions:
 $$
-(u, v)=\left\{(0, 0), (1, -1)\right\}
+(u, v)=\left\{(0, 0), (1, -2)\right\}
 $$
 ![Enunciat 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/30.png)
 

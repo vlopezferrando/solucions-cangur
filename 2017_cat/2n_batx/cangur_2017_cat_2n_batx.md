@@ -81,7 +81,7 @@ $$
 g_5(x)=-x=x &\Rightarrow& x=0 \\
 g_2(x)=x^3= x &\Rightarrow& x=\{0, 1, -1\}\\
 g_3(x)=x^4=x &\Rightarrow& x=\{0,1\}\\
-g_4(x)=-x^4= x& \Rightarrow& x=0\\
+g_4(x)=-x^4= x& \Rightarrow& x=\{0,-1\}\\
 g_1(x)=x^2= x &\Rightarrow& x=\{0,1\}\\
 \end{array}
 $$
@@ -368,7 +368,7 @@ Com tenim $4$ d'aquests petits tetraedres, en total hem restat $4\cdot\frac18=\f
 
 ![Enunciat 25, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/25.png)
 
-Si el nombre $A$ és múltiple de $7$, i $A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifres entre els dos nombres també serà múltiple de $7$.
+Si la suma de les xifres del nombre $A$ és múltiple de $7$, i la suma de les xifres d'$A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifres entre els dos nombres també serà múltiple de $7$.
 
 Vegem com canvia la suma de les xifres d'un nombre quan li sumem $1$, i si aquesta variació pot ser múltiple de $7$. Anomenarem $d$ aquesta variació en la suma de les xifres:
 
@@ -381,7 +381,7 @@ Vegem com canvia la suma de les xifres d'un nombre quan li sumem $1$, i si aques
 Per tant, sabem que com a mínim, $A$ acabarà en $9999$. Per tal que $A$ sigui múltiple de $7$ li haurem d'afegir una xifra al davant de tot, que haurà de ser un $6$:
 $$
 \begin{array}{rcl}
-A=69\,999&\rightarrow&8+9+9+9+9=42\mid7\\
+A=69\,999&\rightarrow&6+9+9+9+9=42\mid7\\
 A+1=700\,000&\rightarrow&7+0+0+0+0+0=7\mid7\\
 \end{array}
 $$

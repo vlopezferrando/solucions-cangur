@@ -67,15 +67,15 @@ Fixem-nos que cada porció grisa té al seu costat una porció blanca amb la mat
 
 En primer lloc, hem de conseguir que la primera xifra sigui un $9$:
 $$
-\enclose{horizontalstrike}{12345678}91011121314151617181920
+\enclose{horizontalstrike}{12345678}\ 91011121314151617181920
 $$
 Hem esborrat $8$ xifres, i ens queden 16 xifres per esborrar, que ens permeten obtindre com a molt un $7$ com a segona xifra:
 $$
-\enclose{horizontalstrike}{12345678}9\enclose{horizontalstrike}{101112131415161}7181920
+\enclose{horizontalstrike}{12345678}\ 9\ \enclose{horizontalstrike}{101112131415161}\ 7181920
 $$
 Hem esborrat $15$ xifres més, per tant només ens queda una per esborrar:
 $$
-\enclose{horizontalstrike}{12345678}9\enclose{horizontalstrike}{101112131415161}7\enclose{horizontalstrike}{1}81920
+\enclose{horizontalstrike}{12345678}\ 9\ \enclose{horizontalstrike}{101112131415161}\ 7\ \enclose{horizontalstrike}{1}\ 81920
 $$
 I el número final és:
 $$
@@ -112,7 +112,7 @@ b+d=4 \quad(4)
 $$
 Valorem ara les possibles opcions:
 
-* $b$ és igual a $c$: no pot ser, perquè llavors no s'explicar que les equacions $(2)$ i $(3)$tinguen resultats diferents.
+* $b$ és igual a $c$: no pot ser, perquè llavors no s'explica que les equacions $(1)$ i $(2)$ tinguen resultats diferents.
 * $a$ és més gran que $d$: no pot ser, perquè llavors l'equació $(2)$ seria més gran que la $(4)$.
 * $a$ és igual a $d$: no pot ser, perquè $(2)$ i $(4)$ són diferents.
 * $a$ és més petit que $d$: efectivament, si restem les equacions $(2)$ i $(4)$, tenim que $a-d=-2$, és a dir, $a=d-2$, i per tant $a$ és més petit que $d$.
@@ -122,11 +122,12 @@ Per tant, la solució és que «$a$ és més petit que $d$».
 
 ![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/08.png)
 
-Entre els altres tres jugadors, han marcat $20$ gols. Aquesta suma es pot obtindre sumant els següents gols:
+Entre els altres tres jugadors, han marcat $20$ gols. Aquesta suma es pot obtindre sumant tres nombres diferents de dues formes:
 $$
-5+6+9=20
+5+6+9=20 \\
+5+7+8=20
 $$
-Però no pot ser que qui menys gols n'haja marcat n'hagi fet més de $5$, perquè llavors com a mínim hauran marcat $5+6+7=21$ gols.
+Però no pot ser que qui menys gols n'haja marcat n'hagi fet més de $5$, perquè llavors com a mínim hauran marcat $6+7+8=21$ gols.
 
 Per tant, Miquel, que n'ha marcat menys que la resta, n'haurà fet $4$ com a màxim.
 
@@ -387,7 +388,7 @@ Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos
 $$
 S=5\cdot2+4\cdot3=10+12=22
 $$
-Per justificar com hem omplit la graella, anemenem $x​$ el nombre que va a la dreta del $2​$ original, i $y​$ el nombre a sota de $x​$ (a l'esquerra del $3​$). Llavors, sabem que $2+x=x+y=y+3​$. De la igualtat esquerra deduïm que $y=2​$, i de la igualtat dreta que $x=3​$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
+Per justificar com hem omplit la graella, anomenem $x​$ el nombre que va a la dreta del $2​$ original, i $y​$ el nombre a sota de $x​$ (a l'esquerra del $3​$). Llavors, sabem que $2+x=x+y=y+3​$. De la igualtat esquerra deduïm que $y=2​$, i de la igualtat dreta que $x=3​$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
 ![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
 
@@ -413,7 +414,7 @@ En total, pot configurar $14$ calendaris diferents.
 
 En total, el cub gros té $4^3=64$ cubs petits.
 
-De cubets grisos, tenim un nucli de $2\times2\times2$, més un quadrat de $2\times2\times1$ a cada cara del cub gros ($6$ cares en total). Per tant, hi ha:
+De cubets grisos, tenim un nucli de $2\times2\times2$, més un prisma de $2\times2\times1$ a cada cara del cub gros ($6$ cares en total). Per tant, hi ha:
 $$
 \text{cubets grisos}=2^3+6\cdot2^2=8+24=32
 $$
