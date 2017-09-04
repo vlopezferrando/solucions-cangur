@@ -1,4 +1,4 @@
-Title: Solucions del Cangur 2017 a Catalunya: Nivell 2n de batxillerat
+Title: Solucions del Cangur 2018 a Catalunya: Nivell 2n de batxillerat
 Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
