@@ -1,4 +1,4 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 2n de batxillerat
+Title: Solucions del Cangur 2016 a Catalunya: 2n de batxillerat
 Date: 2016-5-19 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques

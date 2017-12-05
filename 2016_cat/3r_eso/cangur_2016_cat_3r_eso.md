@@ -1,4 +1,4 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 3r d'ESO
+Title: Solucions del Cangur 2016 a Catalunya: 3r d'ESO
 Date: 2016-10-5 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques

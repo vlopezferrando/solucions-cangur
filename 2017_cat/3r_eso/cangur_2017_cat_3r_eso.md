@@ -1,4 +1,4 @@
-Title: Solucions del Cangur 2017 a Catalunya: Nivell 3r d'ESO
+Title: Solucions del Cangur 2017 a Catalunya: 3r d'ESO
 Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques

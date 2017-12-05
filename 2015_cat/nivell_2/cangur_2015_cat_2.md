@@ -1,4 +1,4 @@
-Title: Solucions del Cangur 2015 a Catalunya: Nivell 2
+Title: Solucions del Cangur 2015 a Catalunya: 4t d'ESO
 Date: 2016-2-24 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
