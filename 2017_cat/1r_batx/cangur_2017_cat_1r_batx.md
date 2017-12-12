@@ -7,7 +7,7 @@ Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-1r-batx
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2017 a Catalunya
 
-Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
