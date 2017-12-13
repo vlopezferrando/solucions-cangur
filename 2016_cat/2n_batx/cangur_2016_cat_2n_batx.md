@@ -13,8 +13,6 @@ Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model
 d'examen del [pdf
 d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
 
-<!-- PELICAN_END_SUMMARY -->
-
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és
 recomanable pensar detingudament cada problema abans de mirar la solució que jo
 proposo!

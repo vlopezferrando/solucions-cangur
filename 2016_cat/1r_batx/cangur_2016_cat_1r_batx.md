@@ -10,8 +10,6 @@ Description: Recull de solucions del nivell de 1r de batxillerat de les Proves C
 
 Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
 
-<!-- PELICAN_END_SUMMARY -->
-
 Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!

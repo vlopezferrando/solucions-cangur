@@ -9,8 +9,6 @@ Description: Recull de solucions del nivell 4 de les Proves Cangur 2015 a Catalu
 
 Ací he fet un recull amb solucions per totes les qüestions del Nivell 4 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_4.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
 
-<!-- PELICAN_END_SUMMARY -->
-
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
