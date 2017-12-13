@@ -5,6 +5,7 @@ Tags: cangur, matemàtiques
 Category: cangur
 Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-2n-batx
+Extra: katex
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2017 a Catalunya
 
 Ací teniu el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_2n_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
@@ -78,11 +79,11 @@ $$
 Calculem les solucions:
 $$
 \begin{array}{lcl}
-g_5(x)=-x=x &\Rightarrow& x=0 \\
-g_2(x)=x^3= x &\Rightarrow& x=\{0, 1, -1\}\\
-g_3(x)=x^4=x &\Rightarrow& x=\{0,1\}\\
-g_4(x)=-x^4= x& \Rightarrow& x=\{0,-1\}\\
-g_1(x)=x^2= x &\Rightarrow& x=\{0,1\}\\
+g_5(x)=-x=x &\Rightarrow& x=0 \\\\
+g_2(x)=x^3= x &\Rightarrow& x=\{0, 1, -1\}\\\\
+g_3(x)=x^4=x &\Rightarrow& x=\{0,1\}\\\\
+g_4(x)=-x^4= x& \Rightarrow& x=\{0,-1\}\\\\
+g_1(x)=x^2= x &\Rightarrow& x=\{0,1\}\\\\
 \end{array}
 $$
 Per tant, $g_2$ és la funció amb més punts en comú amb $f$.
@@ -90,26 +91,25 @@ Per tant, $g_2$ és la funció amb més punts en comú amb $f$.
 ![Enunciat 9, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/09.png)
 
 Calculem la probabilitat de triar una bola blava de cada capsa:
-$$
-P_A=\frac{10}{10+8}=\frac{5}{9} \\
-P_B=\frac{6}{6+4}=\frac{3}{5} \\
-P_C=\frac{8}{8+6}=\frac{4}{7} \\
-P_D=\frac{7}{7+7}=\frac{1}{2} \\
-P_E=\frac{12}{12+9}=\frac{4}{7} \\
-$$
+
+$$ P_A=\frac{10}{10+8}=\frac{5}{9} $$
+$$ P_B=\frac{6}{6+4}=\frac{3}{5} $$
+$$ P_C=\frac{8}{8+6}=\frac{4}{7} $$
+$$ P_D=\frac{7}{7+7}=\frac{1}{2} $$
+$$ P_E=\frac{12}{12+9}=\frac{4}{7} $$
+
 La major d'aquestes fraccions és $P_B=\frac35$. Ho podem comprovar triant un denominador comú:
-$$
-P_B=\frac35=\frac{27}{45} > \frac{25}{45} = \frac{5}{9} = P_A \\
-P_B=\frac35=\frac{21}{35} > \frac{20}{35} = \frac{4}{7} = P_C=P_E \\
-P_B=\frac35=\frac{6}{10} > \frac{5}{10} = \frac{1}{2} = P_D
-$$
+$$ P_B=\frac35=\frac{27}{45} > \frac{25}{45} = \frac{5}{9} = P_A $$
+$$ P_B=\frac35=\frac{21}{35} > \frac{20}{35} = \frac{4}{7} = P_C=P_E $$
+$$ P_B=\frac35=\frac{6}{10} > \frac{5}{10} = \frac{1}{2} = P_D $$
+
 ![Enunciat 10, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/10.png)
 
 Es tracta d'una recta que no passa per l'origen, per tant no pot ser que passi pels quatre quadrants. Vegem per quins sí que passa:
 $$
 \begin{array}{lclcl}
-x=-1 &\Rightarrow& f(-1)=3.5+7=10.5&\Rightarrow& (-1, 10.5)\in\text{II} \\
-x=1&\Rightarrow& f(1)=-3.5+7=3.5&\Rightarrow& (1, 3.5)\in\text{I} \\
+x=-1 &\Rightarrow& f(-1)=3.5+7=10.5&\Rightarrow& (-1, 10.5)\in\text{II} \\\\
+x=1&\Rightarrow& f(1)=-3.5+7=3.5&\Rightarrow& (1, 3.5)\in\text{I} \\\\
 x=3 &\Rightarrow& f(3)=-10.5+7=-3.5&\Rightarrow& (3, -3.5)\in\text{IV}
 \end{array}
 $$
@@ -184,9 +184,9 @@ $$
 És fàcil comprovar que totes les altres opcions donen probabilitats més petites:
 $$
 \begin{array}{l}
-P_A=\frac35\\
-P_B=\frac12\\
-P_D=\frac15\cdot\frac56=\frac16\\
+P_A=\frac35\\\\
+P_B=\frac12\\\\
+P_D=\frac15\cdot\frac56=\frac16\\\\
 P_E=\frac45
 \end{array}
 $$
@@ -195,8 +195,8 @@ $$
 Si $x$ és una arrel del polinomi, es compleix:
 $$
 \begin{array}{rrllc}
-& 5x^3+ax^2+bx+24&=&0&\Rightarrow\\
-\Rightarrow& 5x^3+ax^2+bx&=&-24 &\Rightarrow\\
+& 5x^3+ax^2+bx+24&=&0&\Rightarrow\\\\
+\Rightarrow& 5x^3+ax^2+bx&=&-24 &\Rightarrow\\\\
 \Rightarrow& x(5x^2+ax+b)&= &-24
 \end{array}
 $$
@@ -211,7 +211,7 @@ $$
 Per tant, li sobraran:
 $$
 \begin{array}{rcl}
-1009-968 &=& 41\text{ fitxes negres}\\
+1009-968 &=& 41\text{ fitxes negres}\\\\
 1008-968 &=& 40 \text{ fitxes blanques}
 \end{array}
 $$
@@ -225,18 +225,18 @@ Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, tam
 Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\text{suma}\\
+a&b&c&d&e&f&g&&\text{suma}\\\\
 0&1&2&3&4&3&2&&15
 \end{array}
 $$
-Provem ara amb $c=286​$:
+Provem ara amb $c=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\text{suma}\\
+a&b&c&d&e&f&g&&\text{suma}\\\\
 2&1&0&1&2&3&4&&13
 \end{array}
 $$
-Com a màxim, podem obtenir una suma de $13​$, i no podem arribar a $15​$.
+Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$.
 
@@ -290,10 +290,9 @@ $$
 u\in\{4,8\}
 $$
 Per tant, hi ha $2$  enters positius que ho compleixen. Són:
-$$
-x=14 \quad\rightarrow\quad 1 = 14\div14 \\
-x=28 \quad\rightarrow\quad 2 = 28\div14
-$$
+$$ x=14 \quad\rightarrow\quad 1 = 14\div14 $$
+$$ x=28 \quad\rightarrow\quad 2 = 28\div14 $$
+
 ![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/22.png)
 
 Girem el dibuix per centrar-nos en els triangles rectangles que hi apareixen:
@@ -352,7 +351,7 @@ $$
 a_4=\frac{a_3-1}{a_3}=\frac{\frac{-1}{2016}-1}{\frac{-1}{2016}}=\frac{\frac{-2017}{2016}}{\frac{-1}{2016}}=2017
 $$
 
-Hem vist que es repetirà el cicle $(2017, \frac{2016}{2017}, \frac{-1}{2016}, \ldots)​$. Per saber quant valdrà $a_{2017}​$, calculem el residu de dividir entre $3​$:
+Hem vist que es repetirà el cicle $(2017, \frac{2016}{2017}, \frac{-1}{2016}, \ldots)$. Per saber quant valdrà $a_{2017}$, calculem el residu de dividir entre $3$:
 $$
 2017=672\cdot3+1
 $$
@@ -381,8 +380,8 @@ Vegem com canvia la suma de les xifres d'un nombre quan li sumem $1$, i si aques
 Per tant, sabem que com a mínim, $A$ acabarà en $9999$. Per tal que $A$ sigui múltiple de $7$ li haurem d'afegir una xifra al davant de tot, que haurà de ser un $6$:
 $$
 \begin{array}{rcl}
-A=69\,999&\rightarrow&6+9+9+9+9=42\mid7\\
-A+1=700\,000&\rightarrow&7+0+0+0+0+0=7\mid7\\
+A=69\,999&\rightarrow&6+9+9+9+9=42\mid7\\\\
+A+1=700\,000&\rightarrow&7+0+0+0+0+0=7\mid7\\\\
 \end{array}
 $$
 Per tant, l'$A$ més petit que compleix aquesta propietat té $5$ xifres.
@@ -398,35 +397,35 @@ $$
 Anomenem $x$ el nombre que va a la casella central. Llavors, podem omplir la graella, per exemple, amb els següents nombres:
 $$
 \begin{array}{ccc}
-x&x+1&x\\
-x+1&x&x+1\\
-x&x+1&x\\
+x&x+1&x\\\\
+x+1&x&x+1\\\\
+x&x+1&x\\\\
 \end{array}
 $$
 Restem $x$ a cada casella, i ho podem denotar com:
 $$
 \begin{array}{ccc}
-0&1&0\\
-1&0&1\\
-0&1&0\\
+0&1&0\\\\
+1&0&1\\\\
+0&1&0\\\\
 \end{array}
 $$
 Llavors, la suma del quadrat serà $9x+4$. Busquem quant hauria de sumar el quadrat si $x$ és cadascuna de les opcions:
 $$
 \begin{array}{ccl}
-x=56&\Rightarrow&500-9\cdot56=-4\\
-x=57&\Rightarrow&500-9\cdot57=-13\\
-x=54&\Rightarrow&500-9\cdot54=14\\
-x=50&\Rightarrow&500-9\cdot50=50\\
-x=55&\Rightarrow&500-9\cdot55=5\\
+x=56&\Rightarrow&500-9\cdot56=-4\\\\
+x=57&\Rightarrow&500-9\cdot57=-13\\\\
+x=54&\Rightarrow&500-9\cdot54=14\\\\
+x=50&\Rightarrow&500-9\cdot50=50\\\\
+x=55&\Rightarrow&500-9\cdot55=5\\\\
 \end{array}
 $$
 És fàcil comprovar que podem obtindre una solució per al primer cas, $x=56$, amb la matriu:
 $$
 \begin{array}{rrr}
-0&-1&0\\
--1&0&-1\\
-0&-1&0\\
+0&-1&0\\\\
+-1&0&-1\\\\
+0&-1&0\\\\
 \end{array}
 $$
 ![Enunciat 28, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
@@ -442,7 +441,7 @@ Per la segona equació deduim que $x=10$, cosa que no pot ser perquè havíem su
 Si $x$ és positiva, sabem que $|x|=x$, i les equacions queden:
 $$
 \begin{cases}
-2x+y&=&5\\
+2x+y&=&5\\\\
 x+|y|-y&=&10
 \end{cases}
 $$
@@ -455,16 +454,16 @@ Això no pot ser, perquè havíem suposat que la $y$ seria positiva.
 Finalment, suposem que la $y$ és negativa, i per tant $|y|=-y$. Les equacions queden:
 $$
 \begin{cases}
-2x+y&=&5\\
+2x+y&=&5\\\\
 x-2y&=&10
 \end{cases}
 $$
 I ja podem resoldre el sistema d'equacions:
 $$
 \begin{array}{lll}
-& x=10+2y\quad\Rightarrow\\
-\Rightarrow&2\cdot(10+2y)+y=5\quad\Rightarrow\\
-\Rightarrow&20+5y=5\quad\Rightarrow\\
+& x=10+2y\quad\Rightarrow\\\\
+\Rightarrow&2\cdot(10+2y)+y=5\quad\Rightarrow\\\\
+\Rightarrow&20+5y=5\quad\Rightarrow\\\\
 \Rightarrow& y=-3
 \end{array}
 $$
@@ -499,8 +498,8 @@ $$
 En el cas de $2^8=256$, tenim més casos. $c$ pot ser $8$, però també pot ser $4$ o $2$, si la suma $a+b$ és $4$ o $16$. Per tant, les opcions són:
 $$
 \begin{array}{lllll}
-c=8 & \Rightarrow & a+b=2 & \Rightarrow & (a,b)=\{(1, 1),\ (2, 0)\}\\
-c=4 & \Rightarrow & a+b=4 & \Rightarrow & (a,b)=\{(1, 3),\ (2, 2),\ (3, 1),\ (4,0)\}\\
+c=8 & \Rightarrow & a+b=2 & \Rightarrow & (a,b)=\{(1, 1),\ (2, 0)\}\\\\
+c=4 & \Rightarrow & a+b=4 & \Rightarrow & (a,b)=\{(1, 3),\ (2, 2),\ (3, 1),\ (4,0)\}\\\\
 c=2 & \Rightarrow & a+b=16 & \Rightarrow & (a,b)=\{(7, 9),\ (8, 8),\ (9, 7)\}
 \end{array}
 $$

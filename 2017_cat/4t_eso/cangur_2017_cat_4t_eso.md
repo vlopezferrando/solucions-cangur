@@ -3,6 +3,7 @@ Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2017-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2017 a Catalunya
 
@@ -118,8 +119,8 @@ $$
 Anomenem $a,b,c$ els tres nombres que faltes (d'esquerra a dreta). Llavors tenim les equacions:
 $$
 \begin{cases}
-3&+&a&+&b&+&c&+&4&=&35 \\
-3&+&a&+&b&&&&&=&22\\
+3&+&a&+&b&+&c&+&4&=&35 \\\\
+3&+&a&+&b&&&&&=&22\\\\
 &&&&b&+&c&+&4&=&25
 \end{cases}
 $$
@@ -128,10 +129,8 @@ $$
 -b=35-22-25=-12\quad\Rightarrow\quad b=12
 $$
 Substituint a la segona i tercera equacions, deduim que:
-$$
-3+a+12=22\quad\Rightarrow\quad a=7\\
-12+c+4=25\quad\Rightarrow\quad c=9
-$$
+$$ 3+a+12=22\quad\Rightarrow\quad a=7 $$
+$$ 12+c+4=25\quad\Rightarrow\quad c=9 $$
 El producte dels nombres dels quadrats grisos $(a,c)$ és:
 $$
 a\cdot c=7\cdot9=63
@@ -145,25 +144,25 @@ El cercle pega una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
 \begin{array}{ccc}
-&S&\\
-S&&P\\
+&S&\\\\
+S&&P\\\\
 \end{array}
 $$
 Com a molt, podrem posar dos nombres senars a sota:
 $$
 \begin{array}{ccccc}
-&&S&&\\
-&S&&P&\\
-P&&S&&S\\
+&&S&&\\\\
+&S&&P&\\\\
+P&&S&&S\\\\
 \end{array}
 $$
 I a sota del tot, podem posar $3$ senars com a molt:
 $$
 \begin{array}{ccccccc}
-&&&S&&&\\
-&&S&&P&&\\
-&P&&S&&S&\\
-S&&S&&P&&S\\
+&&&S&&&\\\\
+&&S&&P&&\\\\
+&P&&S&&S&\\\\
+S&&S&&P&&S\\\\
 \end{array}
 $$
 En total, hem posat $7$ nombres senars.
@@ -189,10 +188,10 @@ $$
 Dels $7$ dies de la setmana, pot triar:
 $$
 \begin{array}{cccc}
-(1, 3),& (1, 4),& (1, 5),& (1, 6), \\
-(2, 4),& (2, 5),& (2, 6),& (2, 7),\\
-(3, 5),& (3, 6),& (3, 7),\\
-(4, 6),& (4, 7),\\
+(1, 3),& (1, 4),& (1, 5),& (1, 6), \\\\
+(2, 4),& (2, 5),& (2, 6),& (2, 7),\\\\
+(3, 5),& (3, 6),& (3, 7),\\\\
+(4, 6),& (4, 7),\\\\
 (5, 7)
 \end{array}
 $$
@@ -203,8 +202,8 @@ En total, pot configurar $14$ calendaris diferents.
 La única forma d'omplir la graella és (després ho justifiquem):
 $$
 \begin{array}{ccc}
-2&3&2\\
-3&2&3\\
+2&3&2\\\\
+3&2&3\\\\
 2&3&2
 \end{array}
 $$
@@ -233,7 +232,7 @@ $$
 Cada fletxa avançarà totes les que tingui en la direcció contrària més enllà de la direcció cap on apunta:
 $$
 \begin{array}{ccccccccccc}
-\rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow \\
+\rightarrow&\rightarrow& \rightarrow&\leftarrow& \leftarrow&\rightarrow& \rightarrow& \rightarrow& \leftarrow& \leftarrow \\\\
 4&4&4&3&3&2&2&2&6&6
 \end{array}
 $$
@@ -255,7 +254,7 @@ En total, tindrem $9-3=6$ sumes diferents.
 
 Abans que el cotxe arribe (en $60$ minuts), hauran arribat els següents busos que han sortit en $3,6,\ldots$ minuts, els quals hauran arribat en:
 $$
-38, 41, 44, 47, 50, 53, 56, 59 \text{ minuts}
+38,\ 41,\ 44,\ 47,\ 50,\ 53,\ 56,\ 59\ \text{ minuts}
 $$
 En total, l'han avançat $8$ autobusos.
 
@@ -339,10 +338,10 @@ Entre l'$1$ i el $59$, hi ha $11$ múltiples de $5$, i entre l'$1$ i el $35$ hi 
 
 $$
 \begin{array}{ccccc}
-\text{Simó}&&&&\text{Bàrbara}\\
-\frac{5}{60}&=&\frac1{12}&=&\frac{3}{36}\\
-\frac{10}{60}&=&\frac2{12}&=&\frac{6}{36}\\
-\cdots&&\cdots&&\cdots\\
+\text{Simó}&&&&\text{Bàrbara}\\\\
+\frac{5}{60}&=&\frac1{12}&=&\frac{3}{36}\\\\
+\frac{10}{60}&=&\frac2{12}&=&\frac{6}{36}\\\\
+\cdots&&\cdots&&\cdots\\\\
 \frac{55}{60}&=&\frac{11}{12}&=&\frac{33}{36}
 \end{array}
 $$
