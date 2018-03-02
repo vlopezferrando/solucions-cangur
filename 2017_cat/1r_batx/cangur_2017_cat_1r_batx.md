@@ -1,13 +1,14 @@
-Title: Solucions del Cangur 2017 a Catalunya: Nivell 1r de batxillerat
+Title: Solucions del Cangur 2017 a Catalunya: 1r de batxillerat
 Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
 Keywords: 2017
 Slug: solucions-cangur-2017-catalunya-1r-batx
+Extra: katex
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2017 a Catalunya
 
-Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -51,11 +52,9 @@ $$
 ![Enunciat 4, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/04.png)
 
 Si al numerador li sumem i restem $2017$, tenim:
-$$
-2017^2+2017-2017-1=2017\times2018-2017-1=\\
-=2017\times2018-2018=2016\times2018
-$$
-Veiem que el numerador és igual que el denominador, i per tant la fracció és $1​$.
+$$ 2017^2+2017-2017-1=2017\times2018-2017-1= $$
+$$ =2017\times2018-2018=2016\times2018 $$
+Veiem que el numerador és igual que el denominador, i per tant la fracció és $1$.
 
 ![Enunciat 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/05.png)
 
@@ -70,25 +69,25 @@ I veiem que la **D** és la solució correcta.
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
 \begin{array}{ccc}
-&S&\\
-S&&P\\
+&S&\\\\
+S&&P\\\\
 \end{array}
 $$
 Com a molt, podrem posar dos nombres senars a sota:
 $$
 \begin{array}{ccccc}
-&&S&&\\
-&S&&P&\\
-P&&S&&S\\
+&&S&&\\\\
+&S&&P&\\\\
+P&&S&&S\\\\
 \end{array}
 $$
 I a sota del tot, podem posar $3$ senars com a molt:
 $$
 \begin{array}{ccccccc}
-&&&S&&&\\
-&&S&&P&&\\
-&P&&S&&S&\\
-S&&S&&P&&S\\
+&&&S&&&\\\\
+&&S&&P&&\\\\
+&P&&S&&S&\\\\
+S&&S&&P&&S\\\\
 \end{array}
 $$
 En total, hem posat $7$ nombres senars.
@@ -174,11 +173,9 @@ Per tant, l'àrea ombrejada és la meitat de la total, i la relació és $\frac1
 ![Enunciat 14, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/14.png)
 
 Si anomenem $x$ el nombre d'enmig dels tres, tenim que:
-$$
-(x-1)^2 + x^2 + (x+1)^2=\\
-=x^2-2x+1+x^2+x^2+2x+1=\\
-=3x^2+2=770
-$$
+$$ (x-1)^2 + x^2 + (x+1)^2= $$
+$$ =x^2-2x+1+x^2+x^2+2x+1= $$
+$$ =3x^2+2=770 $$
 Per tant:
 $$
 3x^2=768\quad\Rightarrow\quad x^2=256\quad\Rightarrow\quad x=16
@@ -204,13 +201,13 @@ $$
 Podem comptar totes les opcions:
 $$
 \begin{array}{rccccccc}
-1&\circ&\_&\circ&\_&\circ&\_&\_\\
-2&\circ&\_&\circ&\_&\_&\circ&\_\\
-3&\circ&\_&\_&\circ&\_&\circ&\_\\
-4&\_&\circ&\_&\circ&\_&\circ&\_\\
-5&\_&\circ&\_&\circ&\_&\_&\circ\\
-6&\_&\circ&\_&\_&\circ&\_&\circ\\
-7&\_&\_&\circ&\_&\circ&\_&\circ\\
+1&\circ&-&\circ&-&\circ&-&- \\\\
+2&\circ&-&\circ&-&-&\circ&- \\\\
+3&\circ&-&-&\circ&-&\circ&- \\\\
+4&-&\circ&-&\circ&-&\circ&- \\\\
+5&-&\circ&-&\circ&-&-&\circ \\\\
+6&-&\circ&-&-&\circ&-&\circ \\\\
+7&-&-&\circ&-&\circ&-&\circ \\\\
 \end{array}
 $$
 En total, hi ha $7$ possibles calendaris per escollir.
@@ -220,9 +217,9 @@ En total, hi ha $7$ possibles calendaris per escollir.
 Podem considerar que els primers $7$ dies ha plogut, i per tant haurà fet sol en $7$ moments (matí o tarda). Com ha fet sol de tarda un dia més en total, repartim els $7$ moments de sol en $4$ dies de sol de tarda i $3$ dies de sol de matí (dels $7$ dies de pluja). Per arribar $5$ matins i $6$ tardes de sol, caldran dos dies més. Per exemple:
 $$
 \begin{array}{rcccccccccccccc}
-\text{Dia} & & 1& 2& 3& 4& 5& 6& 7& 8& 9 \\ \hline
-\text{Matí} & & P& P& P& P& S& S& S& S& S \\
-\text{Tarda}  & & S& S& S& S& P& P& P& S& S \\
+\text{Dia} & & 1& 2& 3& 4& 5& 6& 7& 8& 9 \\\\
+\text{Matí} & & P& P& P& P& S& S& S& S& S \\\\
+\text{Tarda}  & & S& S& S& S& P& P& P& S& S \\\\
 \end{array}
 $$
 Així, calen $9$ dies com a mínim.
@@ -263,9 +260,9 @@ Per tant, l'alçada de l'Òscar és de $160\text{ cm}$.
 Adonem-nos que només hi ha $4$ quadrats $2\times2$, i que tots ells inclouen la casella central; per tant, la casella central no influeix en la suma i podem posar-hi un $0$ per comoditat. Si anomenem $a,b,c,d$ les altres caselles, tenim el quadrat:
 $$
 \begin{array}{ccc}
-3 & a & 1\\
-d & 0 & b\\
-2 & c & ?\\
+3 & a & 1\\\\
+d & 0 & b\\\\
+2 & c & ?\\\\
 \end{array}
 $$
 I les quatre sumes que han de ser iguals són:
@@ -285,9 +282,9 @@ Per tant, s'ha de complir que $?=0$.
 Si continuéssim resolent el sistema, podriem trobar una solució (hi ha infinites):
 $$
 \begin{array}{rcc}
-3 & 0 & 1\\
--2 & 0 & 0\\
-2 & 1 & 0\\
+3 & 0 & 1\\\\
+-2 & 0 & 0\\\\
+2 & 1 & 0\\\\
 \end{array}
 $$
 ![Enunciat 20, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/20.png)
@@ -322,29 +319,27 @@ Per tant, els nombres $a,c,e,g$ hauran de ser parells. Si $a$ pot ser $286$, tam
 Per simplificar, calculem que $286\cdot7=2002$, de manera que ens falten $15$ fins arribar a $2017$. Anotarem cada nombre respecte a 286, i buscarem sumar $15$. Mirem si pot ser que $a=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\text{suma}\\
+a&b&c&d&e&f&g&&\text{suma}\\\\
 0&1&2&3&4&3&2&&15
 \end{array}
 $$
-Provem ara amb $c=286​$:
+Provem ara amb $c=286$:
 $$
 \begin{array}{ccccccccc}
-a&b&c&d&e&f&g&&\text{suma}\\
+a&b&c&d&e&f&g&&\text{suma}\\\\
 2&1&0&1&2&3&4&&13
 \end{array}
 $$
-Com a màxim, podem obtenir una suma de $13​$, i no podem arribar a $15​$.
+Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$: l'opció **D**.
 
 ![Enunciat 23, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/23.png)
 
 Podem definir el número $ababab$ com la suma:
-$$
-ababab = 100000a+10000b+1000a+100b+10a+b=\\
-=(100000+1000+10)a + (10000+100+1)b=\\
-=101010a+10101b
-$$
+$$ ababab = 100000a+10000b+1000a+100b+10a+b= $$
+$$ =(100000+1000+10)a + (10000+100+1)b= $$
+$$ =101010a+10101b $$
 I resulta que $101010=7\cdot14430$, i $10101=7\cdot1443$, per tant:
 $$
 ababab=7\cdot(14430a+1443b)
@@ -394,7 +389,7 @@ Per tant, l'àrea total del quadrat és:
 $$
 A_{\text{quadrat}}=h^2=75
 $$
-A aquesta àrea, però, li hem de restar el triangle rectangle isòsceles de catet $x​$ de la cantonada. Però $x​$ és $h-5​$, i per tant, l'àrea d'aquest triangle és:
+A aquesta àrea, però, li hem de restar el triangle rectangle isòsceles de catet $x$ de la cantonada. Però $x$ és $h-5$, i per tant, l'àrea d'aquest triangle és:
 $$
 A_{\text{triangle cantonada}}=\frac12x^2=\frac12(h-5)^2=\frac12(5\sqrt3-5)^2=
 $$
@@ -416,18 +411,16 @@ $$
 Per simplificar, suposem que els pesos són $1,2,3,4,5,6$. En total, sumen $1+2+3+4+5+6=21$, per tant, el plat que més pesa haurà de pesar $11$ com a mínim.
 
 Calculem ara totes les configuracions que pot tenir el plat més pesat:
-$$
-1+4+6=11\\
-1+5+6=12\\
-2+3+6 = 11\\
-2+4+5=11\\
-2+4+6=12\\
-2+5+6=13\\
-3+4+5=12\\
-3+4+6=13\\
-3+5+6=14\\
-4+5+6=15
-$$
+$$ 1+4+6=11 $$
+$$ 1+5+6=12 $$
+$$ 2+3+6 = 11 $$
+$$ 2+4+5=11 $$
+$$ 2+4+6=12 $$
+$$ 2+5+6=13 $$
+$$ 3+4+5=12 $$
+$$ 3+4+6=13 $$
+$$ 3+5+6=14 $$
+$$ 4+5+6=15 $$
 En total, es tracta de $10$ opcions diferent, i la massa $6$ es troba en $8$ d'elles. En total:
 $$
 P=\frac8{10}=80\%
@@ -466,15 +459,13 @@ $$
 x^2+ux+v=(x-u)\cdot(x-v)
 $$
 Desenvolupant el producte de la dreta:
-$$
-(x-u)\cdot(x-v)=\\
-=x^2-ux-vx+uv=\\
-=x^2+(-u-v)\cdot x+uv
-$$
+$$ (x-u)\cdot(x-v)= $$
+$$ =x^2-ux-vx+uv= $$
+$$ =x^2+(-u-v)\cdot x+uv $$
 Si igualem ara els coeficients dels dos polinomis, tenim el sistema:
 $$
 \begin{cases}
-u = -u -v\\
+u = -u -v\\\\
 v = uv
 \end{cases}
 $$
@@ -488,7 +479,7 @@ $$
 $$
 Per tant, hi ha $2$ possibles solucions:
 $$
-(u, v)=\left\{(0, 0), (1, -2)\right\}
+(u, v)=\left\\{(0, 0), (1, -2)\right\\}
 $$
 ![Enunciat 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/30.png)
 

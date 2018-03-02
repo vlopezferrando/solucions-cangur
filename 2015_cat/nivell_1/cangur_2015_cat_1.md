@@ -1,16 +1,14 @@
-Title: Solucions del Cangur 2015 a Catalunya: Nivell 1
+Title: Solucions del Cangur 2015 a Catalunya: 3r d'ESO
 Date: 2016-2-24 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2015-catalunya-nivell1
 Description: Recull de solucions del nivell 1 de les Proves Cangur 2015 a Catalunya
 
 Ací he fet un recull amb solucions per totes les qüestions del Nivell 1 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_1.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
 
-<!-- PELICAN_END_SUMMARY -->
-
-Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -75,7 +73,7 @@ $$A = \text{c}^2$$
 Si l'àrea dels quadradets
 és $4$, el seu costat és $\text{c}=\sqrt{4}=2\text{ cm}$.
 
-Com la línia gruixida està formada per $9$ costats, la seua longitud és: $9·2=18\text{ cm}$, i la solució és la **B**.
+Com la línia gruixida està formada per $9$ costats, la seua longitud és: $9\cdot 2=18\text{ cm}$, i la solució és la **B**.
 
 ![Enunciat 4, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/04.png)
 
@@ -127,7 +125,7 @@ I la solució és la **D**, que és l'única amb una proporció diferent.
 ![Enunciat 6, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/06.png)
 
 Si l'arbust té $9$ flors, tindrà $9$ branques amb una flor i quatre fulles;
-és a dir, de les $120$ fulles, $9·4=36$ estaran en branques amb una flor.
+és a dir, de les $120$ fulles, $9\cdot 4=36$ estaran en branques amb una flor.
 
 Queden $120-36=84$ fulles que estan en branques que tenen $7$ fulles cadascuna,
 és a dir, en $84:7=12$ branques.
@@ -154,7 +152,7 @@ $$2x - 10 = 50 \quad\Rightarrow\quad x=30\text{ cm}$$
 
 Sabem doncs que les tires són de $30\text{ cm}$. Si anomenem $y$ l'espai superposat, volem que:
 
-$$2·30 -y = 56 \quad\Rightarrow\quad y=4\text{ cm}$$
+$$2\cdot 30 -y = 56 \quad\Rightarrow\quad y=4\text{ cm}$$
 
 I la solució és la **A**.
 
@@ -164,7 +162,7 @@ Si projectem cada costat del perímetre cap al quadrat que envolta la figura, ve
 
 ![Solució 08](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/solucions/08.png)
 
-Com el costat del quadrat és $3$, el perímetre és $3·4=12$, i la solució és la **B**.
+Com el costat del quadrat és $3$, el perímetre és $3\cdot 4=12$, i la solució és la **B**.
 
 ![Enunciat 09, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/09.png)
 
@@ -177,10 +175,10 @@ $$o = 160, \quad w=160+d,\quad j=160+2d,\quad a=160+3d$$
 Si la mitjana és 178, tenim que:
 
 $$\frac{160 + (160+d) + (160+2d) + (160+3d)}{4}=178$$
-$$\frac{160·4 + 6d}{4}=178 \quad\Rightarrow\quad 160 + \frac{3}{2}d = 178$$
-$$\frac{3}{2}d = 18 \quad\Rightarrow\quad d=\frac{18·2}{3} \quad\Rightarrow\quad d=12$$
+$$\frac{160\cdot 4 + 6d}{4}=178 \quad\Rightarrow\quad 160 + \frac{3}{2}d = 178$$
+$$\frac{3}{2}d = 18 \quad\Rightarrow\quad d=\frac{18\cdot 2}{3} \quad\Rightarrow\quad d=12$$
 
-Aleshores, l'alçada de Jack és $j=160+2d=160+2·12=184$, és a dir, la **A**.
+Aleshores, l'alçada de Jack és $j=160+2d=160+2\cdot 12=184$, és a dir, la **A**.
 
 ![Enunciat 10, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/10.png)
 
@@ -208,16 +206,16 @@ Ara bé, sí que hi ha una casella verda i una rosa a un moviment de cangur, de 
 
 Si anomenem $a,b$ els costats d'un rectangle, la seua àrea i el seu perímetre són:
 
-$$A=a·b, \quad P=2a+2b$$
+$$A=a\cdot b, \quad P=2a+2b$$
 
 En el nostre cas, l'àrea és $12$, i volem esbrinar els diferents valors que poden prendre $a$ i $b$ que compleixin $a\cdot b=12$.
 
-Amb l'ajuda de la factorització $12=2^2·3$, trobem els divisors: $\{1, 2, 3, 4, 6\}$. Vegem ara les diverses maneres d'expressar aquest producte, i el valor del perímetre que els correspon:
+Amb l'ajuda de la factorització $12=2^2\cdot 3$, trobem els divisors: $\{1, 2, 3, 4, 6\}$. Vegem ara les diverses maneres d'expressar aquest producte, i el valor del perímetre que els correspon:
 
 $$\begin{array}{lcl}
-A=12=1·12 &\Rightarrow& P=2·1+2·12=26 \\
-A=12=2·6 &\Rightarrow& P=2·2+2·6=16 \\
-A=12=3·4 &\Rightarrow& P=2·3+2·4=14
+A=12=1\cdot 12 &\Rightarrow& P=2\cdot 1+2\cdot 12=26 \\\\
+A=12=2\cdot 6 &\Rightarrow& P=2\cdot 2+2\cdot 6=16 \\\\
+A=12=3\cdot 4 &\Rightarrow& P=2\cdot 3+2\cdot 4=14
 \end{array}
 $$
 
@@ -244,13 +242,11 @@ $5$ persones a la primera casa. Vegem si ho podem fer:
 
 $$
 \begin{array}{|l|l|l|l|l|l|l|l|l|}
-\hline
 5 & 1 & 5 & 1 & 5 & 1 & 5 & 1 & 5
-\\\hline
 \end{array}
 $$
 
-Efectivament, ho podem fer, i la solució és $5+4·6=29$ , la **A**.
+Efectivament, ho podem fer, i la solució és $5+4\cdot 6=29$ , la **A**.
 
 ![Enunciat 16, nivell 1 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_1/enunciats/16.png)
 
@@ -262,21 +258,7 @@ la solució serà $2015+2015=4030$ , la **B**.
 
 Trobem les solucions sistemàticament, ja que no són massa:
 
-$$
-\begin{array}{|l|l|l|l|l|l|l|}
-    \hline
-    \bullet & \; & \bullet  & \; & \bullet & \; & \; \\\hline
-    \bullet & \; & \bullet  & \; & \; & \bullet & \; \\\hline
-    \bullet & \; & \bullet  & \; & \; & \; & \bullet \\\hline
-    \bullet & \; & \;  & \bullet & \; & \bullet & \; \\\hline
-    \bullet & \; & \;  & \bullet & \; & \; & \bullet \\\hline
-    \bullet & \; & \;  & \; & \bullet & \; & \bullet \\\hline
-    \; & \bullet & \;  & \bullet & \; & \bullet & \; \\\hline
-    \; & \bullet & \;  & \bullet & \; & \; & \bullet \\\hline
-    \; & \bullet & \;  & \; & \bullet & \; & \bullet \\\hline
-    \; & \; & \bullet  & \; & \bullet & \; & \bullet \\\hline
-\end{array}
-$$
+![Solució 17]({filename}solucions/17.png)
 
 En total hi ha $10$ formes diferents de fer-ho, i la solució és la **E**.
 
@@ -286,7 +268,7 @@ Fixem-nos que cada allargador ocupa una endoll i n'afegeix tants com preses de
 corrent té. Per tant, els allargadors de $3$ afegeixen $3-1=2$ preses, i els de $5$
 afegeixen $5-1=4$ preses. Com que d'inici tenim $1$ endoll, en total tindrem:
 
-$$1+3·2+2·4=15$$
+$$1+3\cdot 2+2\cdot 4=15$$
 
 Tindrem $15$ preses disponibles: la **B**.
 
@@ -329,11 +311,13 @@ Per tant, la solució és la **C**.
 
 Si anomenem $x$ la quantitat que tenia inicialment, podem fer una taula amb tots els càlculs que s'expliquen a l'enunciat:
 
-| Pas | Diners que té     | Diners que es gasta     | Diners que li queden |
-|:--- | :------------- | :------------- |:------------- |
-| 1 | $x$ | $\frac{x}{2}+1=\frac{x+2}{2}$ | $x-\frac{x+2}{2}=\frac{x-2}{2}$ |
-| 2 | $\frac{x-2}{2}$ | $\frac{\frac{x-2}{2}}{2}+2=\frac{x+6}{4}$ | $\frac{x-2}{2}-\frac{x+6}{4}=\frac{x-10}{4}$ |
-| 3 | $\frac{x-10}{4}$ | $\frac{\frac{x-10}{4}}{2}+3=\frac{x+14}{8}$ | $\frac{x-10}{4}-\frac{x+14}{8}=\frac{x-34}{8}$
+$$\begin{array}{cccc}
+\text{Pas}&\text{Diners que té}&\text{Diners que es gasta}&\text{Diners que li queden}\\\\ \\\\
+1 & x & \frac{x}{2}+1=\frac{x+2}{2} & x-\frac{x+2}{2}=\frac{x-2}{2} \\\\ \\\\
+2 & \frac{x-2}{2} & \frac{\frac{x-2}{2}}{2}+2=\frac{x+6}{4} & \frac{x-2}{2}-\frac{x+6}{4}=\frac{x-10}{4} \\\\ \\\\
+3 & \frac{x-10}{4} & \frac{\frac{x-10}{4}}{2}+3=\frac{x+14}{8} & \frac{x-10}{4}-\frac{x+14}{8}=\frac{x-34}{8}
+\end{array}
+$$
 
 I sabem que al final s'ha quedat sense diners, és a dir:
 
@@ -364,7 +348,7 @@ Per tant, la solució vàlida és la **D**.
 
 Per saber les dues últimes xifres del resultat, només cal sumar les dues útimes xifres de cada terme de la suma. La suma queda:
 
-$$9+\underbrace{99+\cdots+99}_{2014\ nombres}=9+99·2014=9+199.386=199.395$$
+$$9+\underbrace{99+\cdots+99}_{2014\ nombres}=9+99\cdot 2014=9+199.386=199.395$$
 
 Les dues últimes xifres són $95$: la **E**.
 

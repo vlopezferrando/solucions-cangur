@@ -1,9 +1,10 @@
-Title: Solucions del Cangur 2017 a Catalunya: Nivell 3r d'ESO
+Title: Solucions del Cangur 2017 a Catalunya: 3r d'ESO
 Date: 2017-7-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
 Keywords: 2017
+Extra: katex
 Slug: solucions-cangur-2017-catalunya-3r-eso
 Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2017 a Catalunya
 
@@ -22,27 +23,15 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 ![Enunciat 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/01.png)
 
 Podem expressar la multiplicació com:
-$$
-2222\times2222=2\times1111\times2\times1111=\\
-=4\times1111\times1111=4\times1234321=\\
-=4937284
-$$
+$$ 2222\times2222=2\times1111\times2\times1111= $$
+$$ =4\times1111\times1111=4\times1234321= $$
+$$ =4937284 $$
 Només amb la xifra de les unitats i la de les desenes $(...84)$ ja podíem deduir la solució d'entre les opcions.
 
 També podem fer la multiplicació:
-$$
-\begin{array}{cccccccccc}
- & & & & 2 & 2 & 2 & 2 \\
- & & & \times & 2 & 2 & 2 & 2 \\
- \hline
- & & & & 4 & 4 & 4 & 4 \\
- & & & 4 & 4 & 4 & 4 & \\
- & & 4 & 4 & 4 & 4 &   & \\
- + & 4 & 4 & 4 & 4 &  &   & \\
- \hline
- & 4 & 9 & 3 & 7 & 2 &  8 & 4 \\
-\end{array}
-$$
+
+![Solució 1, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}solucions/01.png)
+
 ![Enunciat 2, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/02.png)
 
 Si desplacem tot el perímetre cap a fora, veiem que es correspon amb el d'un quadrat de costat $4$:
@@ -67,15 +56,15 @@ Fixem-nos que cada porció grisa té al seu costat una porció blanca amb la mat
 
 En primer lloc, hem de conseguir que la primera xifra sigui un $9$:
 $$
-\enclose{horizontalstrike}{12345678}\ 91011121314151617181920
+\sout{12345678}\ 91011121314151617181920
 $$
 Hem esborrat $8$ xifres, i ens queden 16 xifres per esborrar, que ens permeten obtindre com a molt un $7$ com a segona xifra:
 $$
-\enclose{horizontalstrike}{12345678}\ 9\ \enclose{horizontalstrike}{101112131415161}\ 7181920
+\sout{12345678}\ 9\ \sout{101112131415161}\ 7181920
 $$
 Hem esborrat $15$ xifres més, per tant només ens queda una per esborrar:
 $$
-\enclose{horizontalstrike}{12345678}\ 9\ \enclose{horizontalstrike}{101112131415161}\ 7\ \enclose{horizontalstrike}{1}\ 81920
+\sout{12345678}\ 9\ \sout{101112131415161}\ 7\ \sout{1}\ 81920
 $$
 I el número final és:
 $$
@@ -104,9 +93,9 @@ $$
 Tenim el sistema d'equacions de $4$ equacions i $4$ incògnites següent:
 $$
 \begin{cases}
-a+c=1 \quad(1) \\
-a+b=2 \quad(2)\\
-c+d=3 \quad(3)\\
+a+c=1 \quad(1) \\\\
+a+b=2 \quad(2)\\\\
+c+d=3 \quad(3)\\\\
 b+d=4 \quad(4)
 \end{cases}
 $$
@@ -123,10 +112,8 @@ Per tant, la solució és que «$a$ és més petit que $d$».
 ![Enunciat 8, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/08.png)
 
 Entre els altres tres jugadors, han marcat $20$ gols. Aquesta suma es pot obtindre sumant tres nombres diferents de dues formes:
-$$
-5+6+9=20 \\
-5+7+8=20
-$$
+$$ 5+6+9=20 $$
+$$ 5+7+8=20 $$
 Però no pot ser que qui menys gols n'haja marcat n'hagi fet més de $5$, perquè llavors com a mínim hauran marcat $6+7+8=21$ gols.
 
 Per tant, Miquel, que n'ha marcat menys que la resta, n'haurà fet $4$ com a màxim.
@@ -158,13 +145,13 @@ $$
 Per cadascuna d'aquestes opcions, les altres dues caselles les podem emplenar d'una sola manera (amb el nombre menor a dalt i el major a baix, dels dos nombres que queden). Aquestes $6$ maneres són:
 $$
 \begin{array}{cccccccccc}
-1&2&3&&1&2&4&&1&2&5\\
-4&&&&3&&&&3&&\\
-5&&&&5&&&&4&&\\
-\\
-1&3&4&&1&3&5&&1&4&5\\
-2&&&&2&&&&2&&\\
-5&&&&4&&&&3&&\\
+1&2&3&&1&2&4&&1&2&5\\\\
+4&&&&3&&&&3&&\\\\
+5&&&&5&&&&4&&\\\\
+\\\\
+1&3&4&&1&3&5&&1&4&5\\\\
+2&&&&2&&&&2&&\\\\
+5&&&&4&&&&3&&\\\\
 \end{array}
 $$
 ![Enunciat 13, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/13.png)
@@ -188,11 +175,11 @@ $$
 El producte de dos nombres diferents per $2$ o de dos nombres diferents per $3$, serà diferent. Com a molt, podrem fer que els productes de dos nombres per $2$ siguin iguals als productes de dos nombres per $3$. Per exemple, amb els números:
 $$
 \begin{array}{cccc}
-1 &\rightarrow & 2\cdot1 &=& 2\\
-2 &\rightarrow & 3\cdot2 &=& 6\\
-3 &\rightarrow & 2\cdot3 &=& 6\\
-4 &\rightarrow & 3\cdot4 &=& 12\\
-6 &\rightarrow & 2\cdot6 &=& 12\\
+1 &\rightarrow & 2\cdot1 &=& 2\\\\
+2 &\rightarrow & 3\cdot2 &=& 6\\\\
+3 &\rightarrow & 2\cdot3 &=& 6\\\\
+4 &\rightarrow & 3\cdot4 &=& 12\\\\
+6 &\rightarrow & 2\cdot6 &=& 12\\\\
 \end{array}
 $$
 Com a mínim, haurem d'obtenir $3$ resultats diferents.
@@ -211,23 +198,19 @@ $$
 ![Enunciat 16, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/16.png)
 
 Primer, observem que hi ha $6$ sumes diferents, que ens poden donar valors distints. Per exemple, amb els nombres $0,1,2,4$:
-$$
-0+1=1 \\
-0+2=2 \\
-0+4=4 \\
-1+2=3 \\
-1+4=5 \\
-2+4=6
-$$
+$$ 0+1=1 $$
+$$ 0+2=2 $$
+$$ 0+4=4 $$
+$$ 1+2=3 $$
+$$ 1+4=5 $$
+$$ 2+4=6 $$
 Si anomenem $a,b,c,d$ els quatre nombres, les sis sumes diferents són:
-$$
-a+b\\
-a+c\\
-a+d\\
-b+c\\
-b+d\\
-c+d
-$$
+$$ a+b $$
+$$ a+c $$
+$$ a+d $$
+$$ b+c $$
+$$ b+d $$
+$$ c+d $$
 D'aquestes sis sumes diferents, és possible que dues siguen iguals. Per ser-ho, però, els sumands de cada costat de la igualtat han de ser totalment diferents (per exemple, no val $a+b=b+c$, perquè la $b$ està als dos costats i llavors $a=c$). Per exemple, podria ser que:
 $$
 a+b=c+d
@@ -239,14 +222,12 @@ $$
 I no pot ser perquè els quatre nombres han de ser diferents. En definitiva, la suma pot donar $5$ resultats diferents o $6$ resultats diferents, però cal altra quantitat.
 
 Per acabar, un exemple de $5$ resultats diferents és $0,1,2,3$:
-$$
-0+1=1 \\
-0+2=2 \\
-0+3=3 \\
-1+2=3 \\
-1+3=4 \\
-2+3=5
-$$
+$$ 0+1=1 $$
+$$ 0+2=2 $$
+$$ 0+3=3 $$
+$$ 1+2=3 $$
+$$ 1+3=4 $$
+$$ 2+3=5 $$
 ![Enunciat 17, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/17.png)
 
 Tenim dues opcions: que $A$ sigui un nombre de tres xifres i $A+10$ no ho sigui, o que $A+10$ sigui de tres xifres però $A$ no. Per cada cas, tenim $10$ opcions diferents:
@@ -265,25 +246,25 @@ Si ens fixem en les rajoles quadrades, veiem que totes menys una es veuen igual 
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
 \begin{array}{ccc}
-&S&\\
-S&&P\\
+&S&\\\\
+S&&P\\\\
 \end{array}
 $$
 Com a molt, podrem posar dos nombres senars a sota:
 $$
 \begin{array}{ccccc}
-&&S&&\\
-&S&&P&\\
-P&&S&&S\\
+&&S&&\\\\
+&S&&P&\\\\
+P&&S&&S\\\\
 \end{array}
 $$
 I a sota del tot, podem posar $3$ senars com a molt:
 $$
 \begin{array}{ccccccc}
-&&&S&&&\\
-&&S&&P&&\\
-&P&&S&&S&\\
-S&&S&&P&&S\\
+&&&S&&&\\\\
+&&S&&P&&\\\\
+&P&&S&&S&\\\\
+S&&S&&P&&S\\\\
 \end{array}
 $$
 En total, hem posat $7$ nombres senars.
@@ -323,7 +304,7 @@ $$
 $$
 ![Enunciat 24, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/24.png)
 
-Només hi ha dues sumes que tenen un resultat múltiple de $5​$:
+Només hi ha dues sumes que tenen un resultat múltiple de $5$:
 $$
 3+12=15,\quad8+12=20
 $$
@@ -334,22 +315,18 @@ El sumand repetit a les dues sumes és $12$, i per tant aquesta serà l'edat de 
 Anomenem $a, b, c$ els tres nombres amb què omplirà la graella, que han de complir:
 $$
 \begin{array}{rclcc}
-3+a+b+c+4&=&35 & \\
-3+a+b&=&22 &\Rightarrow & a=19-b\\
-b+c+4&=&25 &\Rightarrow & c=21-b\\
+3+a+b+c+4&=&35 & \\\\
+3+a+b&=&22 &\Rightarrow & a=19-b\\\\
+b+c+4&=&25 &\Rightarrow & c=21-b\\\\
 \end{array}
 $$
 Substituim a la primera equació:
-$$
-3+(19-b)+b+(21-b)+4=\\
-=47-b=35\quad\Rightarrow \\
-b=12
-$$
+$$ 3+(19-b)+b+(21-b)+4= $$
+$$ =47-b=35\quad\Rightarrow  $$
+$$ b=12 $$
 Per tant, $a$ i $c$ valen:
-$$
-a=19-12=7\\
-c=21-12=9
-$$
+$$ a=19-12=7 $$
+$$ c=21-12=9 $$
 I el seu producte és:
 $$
 a\cdot c=7\cdot9=63
@@ -379,8 +356,8 @@ En total, Simó ha fet $11$ marques, i Bàrbara n'ha fet $7$. Però han coincidi
 La única forma d'omplir la graella és (després ho justifiquem):
 $$
 \begin{array}{ccc}
-2&3&2\\
-3&2&3\\
+2&3&2\\\\
+3&2&3\\\\
 2&3&2
 \end{array}
 $$
@@ -388,7 +365,7 @@ Totes les parelles de caselles contigües sumen $5$ . En total, tenim cinc dosos
 $$
 S=5\cdot2+4\cdot3=10+12=22
 $$
-Per justificar com hem omplit la graella, anomenem $x​$ el nombre que va a la dreta del $2​$ original, i $y​$ el nombre a sota de $x​$ (a l'esquerra del $3​$). Llavors, sabem que $2+x=x+y=y+3​$. De la igualtat esquerra deduïm que $y=2​$, i de la igualtat dreta que $x=3​$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
+Per justificar com hem omplit la graella, anomenem $x$ el nombre que va a la dreta del $2$ original, i $y$ el nombre a sota de $x$ (a l'esquerra del $3$). Llavors, sabem que $2+x=x+y=y+3$. De la igualtat esquerra deduïm que $y=2$, i de la igualtat dreta que $x=3$. Si repetim el procediment, veiem que al final la taula quedarà plena de dosos i tresos alternativament.
 
 ![Enunciat 28, nivell de 3r d'ESO del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
 
@@ -401,10 +378,10 @@ $$
 Dels $7$ dies de la setmana, pot triar les següents parelles de dies:
 $$
 \begin{array}{cccc}
-(1, 3),& (1, 4),& (1, 5),& (1, 6), \\
-(2, 4),& (2, 5),& (2, 6),& (2, 7),\\
-(3, 5),& (3, 6),& (3, 7),\\
-(4, 6),& (4, 7),\\
+(1, 3),& (1, 4),& (1, 5),& (1, 6), \\\\
+(2, 4),& (2, 5),& (2, 6),& (2, 7),\\\\
+(3, 5),& (3, 6),& (3, 7),\\\\
+(4, 6),& (4, 7),\\\\
 (5, 7)
 \end{array}
 $$

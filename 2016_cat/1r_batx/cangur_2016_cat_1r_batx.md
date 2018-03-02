@@ -1,15 +1,14 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 1r de batxillerat
+Title: Solucions del Cangur 2016 a Catalunya: 1r de batxillerat
 Date: 2016-5-26 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
 Keywords: 2016
+Extra: katex
 Slug: solucions-cangur-2016-catalunya-1r-batx
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2016 a Catalunya
 
 Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
-
-<!-- PELICAN_END_SUMMARY -->
 
 Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
 
@@ -37,13 +36,13 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 ![Enunciat 1, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
 
 Intentarem simplificar la divisió eliminant els termes que siguen múltiples de
-$21$, ja que per aquests el residu serà zero. Com que $21=3·7$, els múltiples
+$21$, ja que per aquests el residu serà zero. Com que $21=3\cdot 7$, els múltiples
 de $21$ tindran $3$ i $7$ entre els seus factors primers. Fixem-nos en cada
 terme de la resta:
 
 * $6\times2014\times7\times2015$ conté el factor $7$ i també el $3$ (perquè
-  $6=2·3$), per tant és múltiple de $21$.
-* Podem expressar $8·2016$ com $8·2^5·3^2·7$ si factoritzem $2016$, i per tant
+  $6=2\cdot 3$), per tant és múltiple de $21$.
+* Podem expressar $8\cdot 2016$ com $8\cdot 2^5\cdot 3^2\cdot 7$ si factoritzem $2016$, i per tant
   veiem que també és un múltiple de $21$.
 
 La resta de dos múltiples de $21$ serà múltiple de $21$ i per tant el residu
@@ -63,13 +62,13 @@ $$\frac{A_{gris}}{A_{total}} = \frac{A_{triangle\ petit} + A_{trapezi_1} + A_{tr
 Calculem ara l'àrea de cadascuna d'aquestes figures, recordant que
 l'àrea d'un trapezi és la meitat de l'altura per la suma de les bases:
 
-$$A_{triangle\ gran}=\frac12·5b·5h = \frac{25}2bh$$
+$$A_{triangle\ gran}=\frac12\cdot 5b\cdot 5h = \frac{25}2bh$$
 
 $$A_{triangle\ petit} = \frac12bh$$
 
-$$A_{trapezi_1} = \frac12·(2+3)b·h = \frac52bh$$
+$$A_{trapezi_1} = \frac12\cdot (2+3)b\cdot h = \frac52bh$$
 
-$$A_{trapezi_2} = \frac12·(5+4)b·h = \frac92bh$$
+$$A_{trapezi_2} = \frac12\cdot (5+4)b\cdot h = \frac92bh$$
 
 I ara fem la divisió:
 
@@ -112,15 +111,15 @@ La línia continuarà amb les lletres $N,G,A,R$ (només queda una $A$), i finalm
 pot passar per qualsevol de les dues $O$, per acabar a l'altra $O$, és a dir,
 hi ha $2$ possibilitats més.
 
-En total, hi ha $2·2=4$ línies diferents i la solució és la **D**.
+En total, hi ha $2\cdot 2=4$ línies diferents i la solució és la **D**.
 
 ![Enunciat 6, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
 
 Simplificarem els càlculs usant $x=9999990$, llavors:
 
 $$9999994\times9999994 - 9999990\times9999999 =$$
-$$(9999990+4)·(9999990+4) - 9999990·(9999990 + 9) =$$
-$$(x + 4)·(x+5) - x·(x+9) =$$
+$$(9999990+4)\cdot (9999990+4) - 9999990\cdot (9999990 + 9) =$$
+$$(x + 4)\cdot (x+5) - x\cdot (x+9) =$$
 $$x^2 + 4x + 5x + 20 - x^2 - 9x = 20$$
 
 I la solució és la **A**.
@@ -130,7 +129,7 @@ I la solució és la **A**.
 Inicialment, $\frac13$ compraven $B$. A aquests cal sumar-lost $\frac14$ dels
 que compraven $A$, que eren $\frac23$:
 
-$$\frac13 + \frac14·\frac23 = \frac13 + \frac2{12} = \frac4{12} + \frac2{12} = \frac{6}{12} = \frac12$$
+$$\frac13 + \frac14\cdot \frac23 = \frac13 + \frac2{12} = \frac4{12} + \frac2{12} = \frac{6}{12} = \frac12$$
 
 La solució és la **D**.
 
@@ -140,19 +139,19 @@ En una [progressió geomètrica](https://ca.wikipedia.org/wiki/Progressi%C3%B3_g
 cada terme és igual al terme anterior multiplicat
 per un nombre (anomenat raó). Per passar de $a_{2015}=2015!$ a $a_{2016}=2016!$,
 hem multiplicat per $2016$. Per obtindre $a_{2017}$, hem de multiplicar
-també per $2016$: $a_{2017}=2016·2016!$, i la solció és la **B**.
+també per $2016$: $a_{2017}=2016\cdot 2016!$, i la solció és la **B**.
 
 ![Enunciat 9, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
 
 Si $\frac1N$ es pot escriure com un decimal exacte, vol dir que per a un cert
 nombre de zeros, $10\ldots0$ és divisible per $N$. Els nombres $10\ldots0$, que
-són múltiples de $10$, tenen una factorització $2^n·5^n$, on $n$ és el nombre
+són múltiples de $10$, tenen una factorització $2^n\cdot 5^n$, on $n$ és el nombre
 de xifres.
 
-Per tal que $N$ siga divisor de $2^n·5^n$, cal que $N$ només tinga el $2$ i el
+Per tal que $N$ siga divisor de $2^n\cdot 5^n$, cal que $N$ només tinga el $2$ i el
 $5$ en la seua descomposició en factors primers. Si provem les opcions que
 ens donen, és evident que $96$ té el $3$ com a factor primer, però en canvi,
-$80=2^4·5$.
+$80=2^4\cdot 5$.
 
 Per tant, la solució és $80$, la **D**. Efectivament:
 
@@ -171,7 +170,7 @@ $$
 \frac{n}{96} = 2 \quad \Rightarrow \quad
 $$
 $$
-n = 96·2=192
+n = 96\cdot 2=192
 $$
 
 La solució és la **C**.
@@ -180,9 +179,9 @@ La solució és la **C**.
 
 ![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
 
-L'àrea del rectangle és $16·9=144$, de manera que si formem un quadrat
+L'àrea del rectangle és $16\cdot 9=144$, de manera que si formem un quadrat
 d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
-serà $4·12=48$, l'opció **C**. Comprovem que podem formar aquest quadrat:
+serà $4\cdot 12=48$, l'opció **C**. Comprovem que podem formar aquest quadrat:
 
 ![Solució 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/11.png)
 
@@ -247,7 +246,7 @@ Així, la suma de vèrtexs, arestes i cares és:
 $$(n+1) + 2n + (n+1) = 4n+2$$
 
 De les opcions que se'ns presenten, només una es correspon a aquesta forma:
-$22=4·5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
+$22=4\cdot 5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
 que el residu només és $2$ per a $22$). La solució és la **E**.
 
 ![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
@@ -302,18 +301,18 @@ I la solució és la **B**.
 
 A la figura veiem que la gràfica passa pels punts:
 
-$$(x, y) = \left\{(-1,0),\; (0,3),\; (1, 0)\right\}$$
+$$(x, y) = \left\\\\{(-1,0),\; (0,3),\; (1, 0)\right\\}$$
 
 Usant aquesta informació, buscarem el valor de $b$.
 
 Pel segon punt sabem que:
 
-$$a·0^3+b·0^2+c·0+d=3 \quad \Rightarrow \quad d = 3$$
+$$a\cdot 0^3+b\cdot 0^2+c\cdot 0+d=3 \quad \Rightarrow \quad d = 3$$
 
 Pel primer i tercer punts tenim el sistema:
 
 $$\begin{cases}
--&a &+& b &-& c &+& d & = & 0\\
+-&a &+& b &-& c &+& d & = & 0\\\\
 &a &+& b &+& c &+& d & = & 0
 \end{cases}$$
 
@@ -407,7 +406,7 @@ $$x-t\frac{x}{5} = \frac{x}5(5-t),\quad x-t\frac{x}{4} = \frac{x}4(4-t)$$
 Com una és quatre vegades més llarga que l'altra, tenim que:
 
 $$\frac{\frac{x}5(5-t)}{\frac{x}4(4-t)} = 4 \quad \Rightarrow$$
-$$\Rightarrow \quad \frac{4·(5-t)}{5·(4-t)} = \frac{20 - 4t}{20 -5t}=4 \quad \Rightarrow$$
+$$\Rightarrow \quad \frac{4\cdot (5-t)}{5\cdot (4-t)} = \frac{20 - 4t}{20 -5t}=4 \quad \Rightarrow$$
 $$\Rightarrow \quad 20-4t = 80-20t \quad \Rightarrow$$
 $$\Rightarrow \quad 16t=60\quad \Rightarrow \quad t=3+\frac34$$
 
@@ -465,14 +464,14 @@ $$\Rightarrow \quad b(x-4) + x^2 - 2x -8 = 0\quad\quad\quad$$
 Comprovem que amb $x=4$ s'elimina el terme amb la $b$ i la resta
 també val $0$:
 
-$$b(4-4) + 4^2 - 2·4 -8 = 0$$
+$$b(4-4) + 4^2 - 2\cdot 4 -8 = 0$$
 
 I la solució és la **D**.
 
 ![Enunciat 26, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
 
 Podem escriure l'equació com $y^2=x^2$. Per cada nombre positiu $a$, seran
-solucions de l'equació $\left\{(a,a), (-a, a), (a, -a), (-a, -a)\right\}$. Aquestes
+solucions de l'equació $\left\\{(a,a), (-a, a), (a, -a), (-a, -a)\right\\}$. Aquestes
 solucions es corresponen amb la gràfica **A**.
 
 ![Enunciat 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
@@ -485,10 +484,10 @@ Veiem que tenim un triangle rectangle amb catets $12$ i $r-8$, i amb una hipoten
 Pel teorema de Pitàgores, tenim l'equació:
 
 $$
-\begin{array}[ccc] \\
-\quad & 12^2 + (r-8)^2 = r^2 & \Rightarrow \\
-\Rightarrow & 144 + r^2 - 16r +64 = r^2 & \Rightarrow \\
-\Rightarrow & 208 - 16r = 0 & \Rightarrow \\
+\begin{array}{ccc} \\\\
+\quad & 12^2 + (r-8)^2 = r^2 & \Rightarrow \\\\
+\Rightarrow & 144 + r^2 - 16r +64 = r^2 & \Rightarrow \\\\
+\Rightarrow & 208 - 16r = 0 & \Rightarrow \\\\
 \Rightarrow & r=\frac{208}{16}=13
 \end{array}
 $$
@@ -510,9 +509,9 @@ $$x\cdot\frac{h}2 + x\cdot\frac{x-h}2 = x\cdot\frac{h+x-h}2 = \frac{x^2}2$$
 Si anomenem $x$ l'àrea del triangle que no coneixem, hi ha tres opcions:
 
 $$
-\begin{array}[ccccc]
-20+2=16+x & \quad\Rightarrow\quad & x=6 & & \\
-16+2=20+x & \quad\Rightarrow\quad & x=-2 & \rightarrow & \text{No pot ser} \\
+\begin{array}{ccccc}
+20+2=16+x & \quad\Rightarrow\quad & x=6 & & \\\\
+16+2=20+x & \quad\Rightarrow\quad & x=-2 & \rightarrow & \text{No pot ser} \\\\
 20+16=2+x & \quad\Rightarrow\quad & x=34 & \rightarrow & \text{No està a les opcions}
 \end{array}
 $$
@@ -531,38 +530,38 @@ tal com es veu a la figura:
 Decidim arbitràriament que $a$ és l'altura més gran, i per tant, forma
 el triangle d'àrea més gran:
 
-$$20=\frac12·x·a \quad \Rightarrow \quad a=\frac{40}x$$
+$$20=\frac12\cdot x\cdot a \quad \Rightarrow \quad a=\frac{40}x$$
 
 Dels dos altres triangles amb àrea coneguda ($16$ i $2$), podem suposar
 que el d'àrea $16$ té una altura $b$, per tant:
 
-$$16=\frac12·x·a \quad \Rightarrow \quad b=\frac{32}x$$
+$$16=\frac12\cdot x\cdot a \quad \Rightarrow \quad b=\frac{32}x$$
 
 Ara hi ha dues possibilitats: que el triangle d'àrea $2$ tingui altura
 $x-a$ o que tingui altura $x-b$. Provem les dues opcions:
 
 $$
-2=\frac12·x·(x-a) \quad \Rightarrow \quad
-4=x·\left(x-\frac{40}x\right)=x^2-40 \quad \Rightarrow \quad
+2=\frac12\cdot x\cdot (x-a) \quad \Rightarrow \quad
+4=x\cdot \left(x-\frac{40}x\right)=x^2-40 \quad \Rightarrow \quad
 x=\sqrt{44}
 $$
 
 $$
-2=\frac12·x·(x-b) \quad \Rightarrow \quad
-4=x·\left(x-\frac{32}x\right)=x^2-32 \quad \Rightarrow \quad
+2=\frac12\cdot x\cdot (x-b) \quad \Rightarrow \quad
+4=x\cdot \left(x-\frac{32}x\right)=x^2-32 \quad \Rightarrow \quad
 x=\sqrt{36}=6
 $$
 
 En cadascun dels dos casos, l'àrea del quart triangle serà:
 
 $$
-A=\frac12·x·(x-b) = \frac12 \sqrt{44}·
-\left(\sqrt{44} - \frac{32}{\sqrt{44}}\right)=\frac12·(44-32)=6
+A=\frac12\cdot x\cdot (x-b) = \frac12 \sqrt{44}\cdot
+\left(\sqrt{44} - \frac{32}{\sqrt{44}}\right)=\frac12\cdot (44-32)=6
 $$
 
 $$
-A=\frac12·x·(x-b) = \frac12 6·
-\left(6 - \frac{40}6\right)=\frac12·(36-40)=-2 \text{ (no pot ser!)}
+A=\frac12\cdot x\cdot (x-b) = \frac12 6\cdot
+\left(6 - \frac{40}6\right)=\frac12\cdot (36-40)=-2 \text{ (no pot ser!)}
 $$
 
 Per tant, l'àrea del quart triangle és $6$ i la solució és la **B**.

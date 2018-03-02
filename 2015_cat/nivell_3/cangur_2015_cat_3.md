@@ -1,14 +1,13 @@
-Title: Solucions del Cangur 2015 a Catalunya: Nivell 3
+Title: Solucions del Cangur 2015 a Catalunya: 1r de Batxillerat
 Date: 2016-2-24 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2015-catalunya-nivell3
 Description: Recull de solucions del nivell 3 de les Proves Cangur 2015 a Catalunya
 
 Ací he fet un recull amb solucions per totes les qüestions del Nivell 3 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_3.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
-
-<!-- PELICAN_END_SUMMARY -->
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
@@ -55,15 +54,15 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 ![Enunciat 01, nivell 3 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_3/enunciats/01.png)
 
 Per saber la xifra de les unitats, podem centrar-nos només en la xifra de les unitats de la suma i els productes, de manera que serà:
-$$\text{xifra_unitats}(2015^2+2015^1+2015^1+2015^5) =$$
-$$=\text{xifra_unitats}(5^0+5^1+5^2+5^5)$$
+$$\text{xifra\\_unitats}(2015^2+2015^1+2015^1+2015^5) =$$
+$$=\text{xifra\\_unitats}(5^0+5^1+5^2+5^5)$$
 Fixem-nos que les potències de $5$ (excepte $5^0$) sempre tenen un $5$ com a xifra de les unitats: com $5\cdot5=25$ i la xifra de les unitats és $5$ i ho seguirà sent a mesura que multipliquem per $5$.
 
 Llavors, la suma queda:
 
-$$\text{xifra_unitats}(5^0 + 5^1 + 5^2 + 5^5) =$$
-$$=\text{xifra_unitats}(1 + 5 + 5 + 5)=$$
-$$=\text{xifra_unitats}(16)=6$$
+$$\text{xifra\\_unitats}(5^0 + 5^1 + 5^2 + 5^5) =$$
+$$=\text{xifra\\_unitats}(1 + 5 + 5 + 5)=$$
+$$=\text{xifra\\_unitats}(16)=6$$
 
 I la solució és la **C**.
 
@@ -148,9 +147,9 @@ Per assegurar-nos, podem veure que la resta sí que són quadrats o cubs:
 
 $$
 \begin{array}{l}
-5^{12}=5^{2\cdot6}=(5^6)^2\\
-4^{11}=2^{2^{11}}=(2^{11})^2\\
-3^{10}=3^{2\cdot5}=(3^5)^2\\
+5^{12}=5^{2\cdot6}=(5^6)^2\\\\
+4^{11}=2^{2^{11}}=(2^{11})^2\\\\
+3^{10}=3^{2\cdot5}=(3^5)^2\\\\
 2^{9}=2^{3\cdot3}=(2^3)^3
 \end{array}$$
 
@@ -212,7 +211,9 @@ La solució **D**.
 
 Anomenem $i, d, t$ les orelles que tenen Imi, Dimi i Trimi respectivament. Cadascú veu les orelles dels altres dos, de manera que tenim:
 
-$$d+t=8\\i+t=7\\i+d=5$$
+$$d+t=8$$
+$$i+t=7$$
+$$i+d=5$$
 
 Volem saber quant val $t$. Podem esbrinar-ho sumant les dues primeres equacions i restant la tercera:
 
@@ -309,10 +310,10 @@ La solució és la **A**.
 
 En primer lloc, l'afirmació es refereix a nombres primers, de manera que l'opció $n=21$ no ens serveix per contradir-la. Calculem $n \rightarrow(n-2, n+2)$ per a les altres quatre opcions, i subratllem els primers:
 $$\begin{array}{ccc}
-11 & \rightarrow & \left(9,\ \underline{13}\right)\\
-19 & \rightarrow & \left(\underline{17},\  21\right)\\
-29 & \rightarrow & \left(27,\  \underline{31}\right)\\
-37 & \rightarrow & \left(35,\  39\right)\\
+11 & \rightarrow & \left(9,\ \underline{13}\right)\\\\
+19 & \rightarrow & \left(\underline{17},\  21\right)\\\\
+29 & \rightarrow & \left(27,\  \underline{31}\right)\\\\
+37 & \rightarrow & \left(35,\  39\right)\\\\
 \end{array}
 $$
 Per a $n=37$, ni $n-2$ ni $n+2$ són primers, de manera que veiem que l'afirmació de l'enunciat és falsa. La solució és la **E**.
@@ -322,17 +323,17 @@ Per a $n=37$, ni $n-2$ ni $n+2$ són primers, de manera que veiem que l'afirmaci
 Anomenem el nombre $abc$, i sabem que $a>0$. Si dues xifres adjacents qualssevol difereixen en $3$, vol dir que les parelles $(a,b)$ i $(b,c)$ difereixen en $3$. Farem una llista dels diferents valors que poden prendre $a$ i $c$ per al cada valor de $b$:
 
 $$\begin{array}{clc}
-b & abc & \text{#} \\ \hline
-0 & 303 & 1 \\
-1 & 414 & 1 \\
-2 & 525 & 1 \\
-3 & 636, 630 & 2 \\
-4 & 141, 147, 741, 747 & 4 \\
-5 & 252, 258, 852, 858 & 4 \\
-6 & 363, 369, 963, 969 & 4 \\
-7 & 474 & 1 \\
-8 & 585 & 1 \\
-9 & 696 & 1 \\
+b & abc & \text{\\#} \\\\ \\\\
+0 & 303 & 1 \\\\
+1 & 414 & 1 \\\\
+2 & 525 & 1 \\\\
+3 & 636, 630 & 2 \\\\
+4 & 141, 147, 741, 747 & 4 \\\\
+5 & 252, 258, 852, 858 & 4 \\\\
+6 & 363, 369, 963, 969 & 4 \\\\
+7 & 474 & 1 \\\\
+8 & 585 & 1 \\\\
+9 & 696 & 1
 \end{array}$$
 
 La suma és:
@@ -362,13 +363,13 @@ Així doncs, la solució és la **A**.
 Les potències de $2$ menors que $100$ són:
 $$
 \begin{array}{ccl}
-2^0&=&1\\
-2^1&=&2\\
-2^2&=&4\\
-2^3&=&8\\
-2^4&=&16\\
-2^5&=&32\\
-2^6&=&64\\
+2^0&=&1\\\\
+2^1&=&2\\\\
+2^2&=&4\\\\
+2^3&=&8\\\\
+2^4&=&16\\\\
+2^5&=&32\\\\
+2^6&=&64
 \end{array}
 $$
 En total són $7$ potències diferents, de manera que sumar-ne $6$ és el mateix que restar-ne una a la suma total. Les sumes de potències de $2$ compleixen que:
@@ -498,11 +499,11 @@ $$80=2^4\cdot5$$
 Les formes en què es pot dividir aquest producte és:
 
 $$\begin{array}{lcccc}
-80=(1)\cdot(5\cdot2^4) & \Rightarrow &  a=1 & \Rightarrow &  n=81 \\
-80=(5)\cdot(2^4) & \Rightarrow &  a=5 & \Rightarrow &  n=22 \\
-80=(5\cdot2)\cdot(2^3) & \Rightarrow &  a=10 & \Rightarrow &  n=19 \\
-80=(5\cdot2^2)\cdot(2^2) & \Rightarrow &  a=20 & \Rightarrow &  n=25 \\
-80=(5\cdot2^3)\cdot(2) & \Rightarrow &  a=40 & \Rightarrow &  n=43 \\
+80=(1)\cdot(5\cdot2^4) & \Rightarrow &  a=1 & \Rightarrow &  n=81 \\\\
+80=(5)\cdot(2^4) & \Rightarrow &  a=5 & \Rightarrow &  n=22 \\\\
+80=(5\cdot2)\cdot(2^3) & \Rightarrow &  a=10 & \Rightarrow &  n=19 \\\\
+80=(5\cdot2^2)\cdot(2^2) & \Rightarrow &  a=20 & \Rightarrow &  n=25 \\\\
+80=(5\cdot2^3)\cdot(2) & \Rightarrow &  a=40 & \Rightarrow &  n=43 \\\\
 \end{array}$$
 
 De totes les opcions que tenim, només pot ser correcta la **E**, amb $n=22$.
@@ -569,21 +570,21 @@ Ara hem de contar de quantes maneres diferents de triar aquests tres nombres.
 Podem començar comptant per ordre:
 $$
 \begin{array}{rcl}
-a=1, \; b=2, \; c=3,\ldots,9 \; & \rightarrow & \; 7 \text{ opcions}\\
-a=1, \; b=3, \; c=4,\ldots,9 \; & \rightarrow & \; 6 \text{ opcions}\\
-a=1, \; b=4, \; c=5,\ldots,9 \; & \rightarrow & \; 5 \text{ opcions}\\
-& \cdots & \\
-a=1, \; b=8, \; c=9 \; & \rightarrow & \; 1 \text{ opció}\\
+a=1, \; b=2, \; c=3,\ldots,9 \; & \rightarrow & \; 7 \text{ opcions}\\\\
+a=1, \; b=3, \; c=4,\ldots,9 \; & \rightarrow & \; 6 \text{ opcions}\\\\
+a=1, \; b=4, \; c=5,\ldots,9 \; & \rightarrow & \; 5 \text{ opcions}\\\\
+& \cdots & \\\\
+a=1, \; b=8, \; c=9 \; & \rightarrow & \; 1 \text{ opció}
 \end{array}
 $$
 
 De manera que amb $a=1$, hi ha $7+6+5+\cdots+1$ opcions. De manera anàloga, podem veure que quan $a=2$, hi ha $6+5+4+\cdots+1$ opcions. I així fins quan $a=7$, on necessàriament $b=8$ i $c=9$. En total doncs, tenim les opcions:
 $$
 \begin{array}{cccccccccc}
-7&+&6&+&5&+&\cdots&+&1&+ \\
-&&6&+&5&+&\cdots&+&1&+ \\
-&&&&&&&&\cdots&+ \\
-&&&&&&2&+&1&+ \\
+7&+&6&+&5&+&\cdots&+&1&+ \\\\
+&&6&+&5&+&\cdots&+&1&+ \\\\
+&&&&&&&&\cdots&+ \\\\
+&&&&&&2&+&1&+ \\\\
 &&&&&&&&1
 \end{array}
 $$

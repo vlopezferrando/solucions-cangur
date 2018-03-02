@@ -1,9 +1,10 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 2n de batxillerat
+Title: Solucions del Cangur 2016 a Catalunya: 2n de batxillerat
 Date: 2016-5-19 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
 Keywords: 2016
+Extra: katex
 Slug: solucions-cangur-2016-catalunya-2n-batx
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2016 a Catalunya
 
@@ -11,8 +12,6 @@ Ja he preparat el recull de solucions del Nivell de 2n de batxillerat del
 Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model
 d'examen del [pdf
 d'enunciats]({filename}enunciat_2016_cat_2n_batx.pdf){:target="_blank"}.
-
-<!-- PELICAN_END_SUMMARY -->
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és
 recomanable pensar detingudament cada problema abans de mirar la solució que jo
@@ -255,10 +254,10 @@ Veiem que tenim un triangle rectangle amb catets $12$ i $r-8$, i amb una hipoten
 Pel teorema de Pitàgores, tenim l'equació:
 
 $$
-\begin{array}[ccc] \\
-\quad & 12^2 + (r-8)^2 = r^2 & \Rightarrow \\
-\Rightarrow & 144 + r^2 - 16r +64 = r^2 & \Rightarrow \\
-\Rightarrow & 208 - 16r = 0 & \Rightarrow \\
+\begin{array}{ccc} \\\\
+\quad & 12^2 + (r-8)^2 = r^2 & \Rightarrow \\\\
+\Rightarrow & 144 + r^2 - 16r +64 = r^2 & \Rightarrow \\\\
+\Rightarrow & 208 - 16r = 0 & \Rightarrow \\\\
 \Rightarrow & r=\frac{208}{16}=13
 \end{array}
 $$
@@ -295,7 +294,7 @@ $$\frac23\cdot x = \frac{5}{12} \quad \Rightarrow \quad x = \frac{5}{12}\frac32 
 
 Per tant, hem retallat $1-\frac58 = \frac38$ de la fotografia. En tant per cent, és:
 
-$$100\cdot \frac38 = 37,5\text{ %}$$
+$$100\cdot \frac38 = 37,5\text{ \%}$$
 
 I la solució és la **C**.
 
@@ -433,7 +432,7 @@ entre els $12$ punts que hi ha, sense importar l'ordre. La resposta és:
 
 $$
 \begin{pmatrix}
-3 \\ 12
+3 \\\\ 12
 \end{pmatrix} = \frac{12\cdot 11\cdot 10}{3\cdot 2} = 220
 $$
 
@@ -443,7 +442,7 @@ costat:
 
 $$
 \begin{pmatrix}
-3 \\ 5
+3 \\\\ 5
 \end{pmatrix} = \frac{5\cdot 4\cdot 3}{3\cdot 2} = 10
 $$
 
@@ -538,9 +537,9 @@ Per exemple
 I així calculem el nombre de possibilitats:
 
 $$
-\begin{array}[cccccc] \\
-(6,6)\rightarrow6 & (5,5)\rightarrow5 & (4,4)\rightarrow4 & (3,3)\rightarrow3 & (2,2)\rightarrow2 & (1,1)\rightarrow1 \\
-(6,5)\rightarrow4 & (5,4)\rightarrow3 & (4,3)\rightarrow2 & (3,2)\rightarrow1 \\
+\begin{array}{cccccc}
+(6,6)\rightarrow6 & (5,5)\rightarrow5 & (4,4)\rightarrow4 & (3,3)\rightarrow3 & (2,2)\rightarrow2 & (1,1)\rightarrow1 \\\\
+(6,5)\rightarrow4 & (5,4)\rightarrow3 & (4,3)\rightarrow2 & (3,2)\rightarrow1 \\\\
 (6,4)\rightarrow2 & (5,3)\rightarrow1
 \end{array}
 $$

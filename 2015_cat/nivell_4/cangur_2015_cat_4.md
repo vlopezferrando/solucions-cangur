@@ -1,14 +1,13 @@
-Title: Solucions del Cangur 2015 a Catalunya: Nivell 4
+Title: Solucions del Cangur 2015 a Catalunya: 2n de Batxillerat
 Date: 2016-2-24 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2015-catalunya-nivell4
 Description: Recull de solucions del nivell 4 de les Proves Cangur 2015 a Catalunya
 
 Ací he fet un recull amb solucions per totes les qüestions del Nivell 4 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_4.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
-
-<!-- PELICAN_END_SUMMARY -->
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
@@ -76,11 +75,11 @@ I les expressions s'anul·len, de manera que la solució és la **A**.
 
 Podem convertir la segona expressió en la primera, multiplicant per $-1$, de la següent manera:
 
-$$(a−b)^5+(b−a)^5 =$$
-$$=(a−b)^5 - (-1)(b−a)^5 =$$
-$$=(a−b)^5 - (-1)^5(b−a)^5 =$$
-$$=(a−b)^5 - ((-1)(b−a))^5 =$$
-$$=(a−b)^5 - (a-b)^5 = 0$$
+$$(a-b)^5+(b-a)^5 =$$
+$$=(a-b)^5 - (-1)(b-a)^5 =$$
+$$=(a-b)^5 - (-1)^5(b-a)^5 =$$
+$$=(a-b)^5 - ((-1)(b-a))^5 =$$
+$$=(a-b)^5 - (a-b)^5 = 0$$
 
 I per tant la solució és la **A**.
 
@@ -95,16 +94,16 @@ $$a=0,\quad b=1$$
 
 Amb estos valors, tenim que:
 
-$$(a−b)^5+(b−a)^5 = (0−1)^5+(1−0)^5 = -1 + 1 = 0$$
+$$(a-b)^5+(b-a)^5 = (0-1)^5+(1-0)^5 = -1 + 1 = 0$$
 
 I els valors que ens donen les opcions són:
 
 $$\begin{array}{l}
-\text{A) }\; 0\\
-\text{B) }\; 2(a − b)^5 = 2(0 − 1)^5 = -2\\
-\text{C) }\; 2a^5 − 2b^5 = 0 - 2 = -2\\
-\text{D) }\; 2a^5 + 2b^5 = 0 + 2 = 2\\
-\text{E) }\; 2a^5 + 10a^4b + 20a^3b^2 + 20a^2b^3 + 10ab^4 + 2b^5 = 2\\
+\text{A) }\; 0\\\\
+\text{B) }\; 2(a - b)^5 = 2(0 - 1)^5 = -2\\\\
+\text{C) }\; 2a^5 - 2b^5 = 0 - 2 = -2\\\\
+\text{D) }\; 2a^5 + 2b^5 = 0 + 2 = 2\\\\
+\text{E) }\; 2a^5 + 10a^4b + 20a^3b^2 + 20a^2b^3 + 10ab^4 + 2b^5 = 2\\\\
 \end{array}$$
 
 I hem pogut comprovar que només pot ser correcta la primera resposta: **A**.
@@ -161,15 +160,15 @@ $$(1+31) + (2+30) + \cdots + (14+18) + (15+17) + 16$$
 Cada parella suma $32$, i n'hi ha $15$ parelles (vegem que el $16$ sobra, ja
 que hi havia 31 números). Per tant, la suma val:
 
-$$1 + 2 + \cdots + 30 + 31=15·32 + 16$$
+$$1 + 2 + \cdots + 30 + 31=15\cdot 32 + 16$$
 
-Fixem-nos que  $32=16·2$ i podem traure factor comú:
+Fixem-nos que  $32=16\cdot 2$ i podem traure factor comú:
 
- $$15·32 + 16 = 15·16·2 + 16 = 16 · (15·2 + 1) = 16·31$$
+ $$15\cdot 32 + 16 = 15\cdot 16\cdot 2 + 16 = 16 \cdot  (15\cdot 2 + 1) = 16\cdot 31$$
 
 I la suma queda:
 
-$$x=2000+\frac{1 + \cdots + 31}{31}=2000+\frac{16·31}{31}=2016$$
+$$x=2000+\frac{1 + \cdots + 31}{31}=2000+\frac{16\cdot 31}{31}=2016$$
 
 I la solució és la **D**.
 
@@ -253,8 +252,8 @@ Per dibuixar aquestes gràfiques, ens podem valer d'algunes nocions:
 * Tallen l'eix $x$ quan $y=0$. Llavors $x$ val:
 $$
 \begin{array}{lcl}
-f(x)=2-x^2=0 & \Rightarrow & x=\pm\sqrt{2}\\
-g(x)=x^2-1=0 & \Rightarrow & x=\pm1\\
+f(x)=2-x^2=0 & \Rightarrow & x=\pm\sqrt{2}\\\\
+g(x)=x^2-1=0 & \Rightarrow & x=\pm1\\\\
 \end{array}
 $$
 
@@ -292,8 +291,8 @@ Com que aquestes igualtats no es compleixen, no es pot fer el que es demana, i l
 Podem reordenar les equacions de la següent manera:
 
 $$\begin{array}{ccl}
-\frac{c}{e} = b & \quad\Rightarrow\quad & c=b·e \\
-a+b=d & \quad\Rightarrow\quad & d=a+b \\
+\frac{c}{e} = b & \quad\Rightarrow\quad & c=b\cdot e \\\\
+a+b=d & \quad\Rightarrow\quad & d=a+b \\\\
 e-d=a & \quad \Rightarrow \quad & e=a+d
 \end{array}$$
 
@@ -301,9 +300,9 @@ Fent ús de la propietat que diu que els nombres són enters positius,
 és a dir, majors o iguals que $1$, de les tres equacions anteriors, podem deduir les desigualtats:
 
 $$\begin{array}{lcl}
-c=b·e  & \Rightarrow &  c> b,\quad c> e\\
-d=a+b  & \Rightarrow &  d>a, \quad d>b\\
-e=a+d & \Rightarrow &  e>a, \quad e>d\\
+c=b\cdot e  & \Rightarrow &  c> b,\quad c> e\\\\
+d=a+b  & \Rightarrow &  d>a, \quad d>b\\\\
+e=a+d & \Rightarrow &  e>a, \quad e>d\\\\
 \end{array}$$
 
 Fixem-nos que les desigualtats són estrictes ($<$ enlloc de $\le$) perquè
@@ -333,17 +332,17 @@ La solució és $6$, és a dir, la **B**.
 
 Podem simplificar l'operació de la següent manera:
 
-$$\sqrt{(2015+2015) + (2015-2015) + (2015·2015) +(2015:2015)} =$$
+$$\sqrt{(2015+2015) + (2015-2015) + (2015\cdot 2015) +(2015:2015)} =$$
 
 $$
 \begin{array}{llr}
-= & \sqrt{2015 + 2015 + 2015·2015 + 1} = & (\text{hem restat i dividit})\\
-= & \sqrt{(2015 + 2015·2015) + (2015+1)} = & (\text{hem reordenat})\\
-= & \sqrt{2015·(2015+1) + 2016} =  & (\text{factor comú 2015)}\\
-= & \sqrt{2015·2016 + 2016} =  & (\text{hem sumat 2015+1)}\\
-= & \sqrt{2016·(2015 + 1)} = & (\text{factor comú 2016)}\\
-= & \sqrt{2016·2016} = & (\text{hem sumat} 2015+1)\\
-= & \sqrt{2016^2} = \\
+= & \sqrt{2015 + 2015 + 2015\cdot 2015 + 1} = & (\text{hem restat i dividit})\\\\
+= & \sqrt{(2015 + 2015\cdot 2015) + (2015+1)} = & (\text{hem reordenat})\\\\
+= & \sqrt{2015\cdot (2015+1) + 2016} =  & (\text{factor comú 2015)}\\\\
+= & \sqrt{2015\cdot 2016 + 2016} =  & (\text{hem sumat 2015+1)}\\\\
+= & \sqrt{2016\cdot (2015 + 1)} = & (\text{factor comú 2016)}\\\\
+= & \sqrt{2016\cdot 2016} = & (\text{hem sumat } 2015+1)\\\\
+= & \sqrt{2016^2} = \\\\
 = & 2016
 \end{array}
 $$
@@ -374,7 +373,7 @@ La Tina té un $50\%$ de probabilitats de traure un $2$ i un $50\%$ de probabili
 
 La probabilitat total de guanyar serà:
 
-$$\frac{1}{2}·\frac{1}{6} + \frac{1}{2}·\frac{4}{6}=
+$$\frac{1}{2}\cdot \frac{1}{6} + \frac{1}{2}\cdot \frac{4}{6}=
 \frac{1}{12}+\frac{2}{6}=
 \frac{1}{12}+\frac{4}{12}=\frac{5}{12}
 $$
@@ -409,7 +408,7 @@ $$r'^2=3 \quad\Rightarrow\quad r'=\sqrt{3}$$
 
 El producte dels tres radis serà:
 
-$$1·r·r' = \sqrt{2}·\sqrt{3} = \sqrt{2·3} = \sqrt{6}$$
+$$1\cdot r\cdot r' = \sqrt{2}\cdot \sqrt{3} = \sqrt{2\cdot 3} = \sqrt{6}$$
 
 I per tant la solució és la **A**.
 
@@ -454,22 +453,22 @@ Llavors, les úniques certes són la *D* i la *E*, i la primera és la **D**.
 
 Podem expressar la suma com:
 
-$$1·(1+\cdots+10) + 2·(1+\cdots+10) + \cdots +10·(1+\cdots+10)$$
+$$1\cdot (1+\cdots+10) + 2\cdot (1+\cdots+10) + \cdots +10\cdot (1+\cdots+10)$$
 
 Com $1+\cdots+10=55$, la suma és:
 
-$$1·55+2·55+\cdots+10·55$$
+$$1\cdot 55+2\cdot 55+\cdots+10\cdot 55$$
 
 Traient factor comú:
 
-$$(1+2+\cdots+10)·55=55·55=3025$$
+$$(1+2+\cdots+10)\cdot 55=55\cdot 55=3025$$
 
 I la solució és la **B**.
 
 ![Enunciat 23, nivell 4 del Cangur 2015 a Catalunya](https://www.lopezferrando.com/cangur/2015_cat/nivell_4/enunciats/23.png)
 
 
-Mentre a cada ronda surti un nombre parell de persones, l'$1$ sempre començarà amb un nombre senar, i es quedarà a la rotllana. Durant quantes rondes s'eliminarà un nombre parell? Factoritzem $96=2^5·3$, així doncs, hi haurà $5$ rondes on començarà el número $1$ dient un nombre senar.
+Mentre a cada ronda surti un nombre parell de persones, l'$1$ sempre començarà amb un nombre senar, i es quedarà a la rotllana. Durant quantes rondes s'eliminarà un nombre parell? Factoritzem $96=2^5\cdot 3$, així doncs, hi haurà $5$ rondes on començarà el número $1$ dient un nombre senar.
 
 Les rondes van així:
 
@@ -511,8 +510,8 @@ Ens quedem amb el sistema:
 
 $$
 \begin{cases}
-r_b = 5-q_b \\
-r_v = q_b + 3 \\
+r_b = 5-q_b \\\\
+r_v = q_b + 3 \\\\
 q_v = r_b + 2
 \end{cases}
 $$
@@ -525,9 +524,9 @@ Provem els diferents valors:
 
 $$
 \begin{array}{llllll}
-q_b=0 & \Rightarrow & r_b=5 & \Rightarrow & r_v = 3 & \Rightarrow & q_v= 7 \\
-q_b=1 & \Rightarrow & r_b=4 & \Rightarrow & r_v = 4 & \Rightarrow & q_v= 6 \\
-q_b=2 & \Rightarrow & r_b=3 & \Rightarrow & r_v = 5 & \Rightarrow & q_v= 5 \\
+q_b=0 & \Rightarrow & r_b=5 & \Rightarrow & r_v = 3 & \Rightarrow & q_v= 7 \\\\
+q_b=1 & \Rightarrow & r_b=4 & \Rightarrow & r_v = 4 & \Rightarrow & q_v= 6 \\\\
+q_b=2 & \Rightarrow & r_b=3 & \Rightarrow & r_v = 5 & \Rightarrow & q_v= 5 \\\\
 \end{array}
 $$
 
@@ -553,12 +552,12 @@ Aquest nombre serà enter si $n$ és un divisor de $360$.
 
 Per tant, si esbrinem quants divisors té $360$, sabrem quants polígons regulars tenen angles amb un nombre enter de graus. Primer, descomposem $360$ en factors primers:
 
-$$360=2^3·3^2·5$$
+$$360=2^3\cdot 3^2\cdot 5$$
 
 Per saber el nombre de divisors, multipliquem els exponents més $1$ de cada factor primer, ja que açò expressa les opcions que tenim de posar cada factor
 zero cops, un cop, etc.
 
-El nombre de divisors és: $4·3·2=24$. Com que els
+El nombre de divisors és: $4\cdot 3\cdot 2=24$. Com que els
 divisors inclouen l'$1$ i el $2$, però no podem construir polígons
 de menys de $3$ costats, haurem de restar $2$ a aquesta xifra.
 
@@ -569,16 +568,16 @@ La solució és $22$, és a dir, la **C**.
 Les potències de $2$ menors que $1000$ són:
 $$
 \begin{array}{ccl}
-2^0&=&1\\
-2^1&=&2\\
-2^2&=&4\\
-2^3&=&8\\
-2^4&=&16\\
-2^5&=&32\\
-2^6&=&64\\
-2^7&=&128\\
-2^8&=&256\\
-2^9&=&512\\
+2^0&=&1\\\\
+2^1&=&2\\\\
+2^2&=&4\\\\
+2^3&=&8\\\\
+2^4&=&16\\\\
+2^5&=&32\\\\
+2^6&=&64\\\\
+2^7&=&128\\\\
+2^8&=&256\\\\
+2^9&=&512\\\\
 \end{array}
 $$
 En total són $10$ potències diferents, de manera que sumar-ne $9$ és el mateix que restar-ne una a la suma total. Les sumes de potències de $2$ compleixen que:
@@ -610,8 +609,8 @@ Per respondre aquesta pregunta, haurem de saber més sobre els terns pitagòrics
 $$3^2+4^2=5^2$$
 En podem obtenir més multiplicant cada terme per un mateix factor:
 $$\begin{array}{cl}
-(\times2) & 6^2+8^2=10^2 \\
-(\times3) & 9^2+12^2=15^2 \\
+(\times2) & 6^2+8^2=10^2 \\\\
+(\times3) & 9^2+12^2=15^2 \\\\
 \cdots & \quad \cdots
 \end{array}$$
 
@@ -620,8 +619,8 @@ Anomenem *tern pitagòric primitiu* aquells en què $(a,b,c)$ són primers entre
 Euclides esbrinà una fórmula per generar tots els terns pitagòrics primitius:
 
 $$\begin{array}{l}
-a=m^2-n^2\\
-b=2mn\\
+a=m^2-n^2\\\\
+b=2mn\\\\
 c=m^2+n^2
 \end{array}$$
 
@@ -661,9 +660,9 @@ Anomenem $a,b$ els costats del rectangle, $b_M, b_N, b_P, b_Q$ les bases dels qu
 Llavors, per als diferents triangles tenim:
 
 $$\begin{array}{lclcl}
-M&\rightarrow& b_M=a&,&  h_M=\frac{b}{2} \\
-N&\rightarrow&d b_N=b&,&  h_N=\frac{a}{2} \\
-P&\rightarrow& b_P=a&,&  h_P=\frac{\frac34b}{2}=\frac38b \\
+M&\rightarrow& b_M=a&,&  h_M=\frac{b}{2} \\\\
+N&\rightarrow&d b_N=b&,&  h_N=\frac{a}{2} \\\\
+P&\rightarrow& b_P=a&,&  h_P=\frac{\frac34b}{2}=\frac38b \\\\
 Q&\rightarrow& b_Q=\frac{b}{2}&,& h_Q=\frac{\frac34a}{2}=\frac38a
 \end{array}$$
 
@@ -679,10 +678,10 @@ De manera anàloga hem calcular $h_Q$.
 Ara calculem l'àrea dels quatre triangles $A_M, A_N, A_P, A_Q$:
 
 $$\begin{array}{l}
-A_M=\frac{b_Mh_M}{2}=\frac{a\frac{b}{2}}{2}=\frac{ab}{4}\\
-A_N=\frac{b_Nh_N}{2}=\frac{b\frac{a}{2}}{2}=\frac{ab}{4}\\
-A_P=\frac{b_Ph_P}{2}=\frac{a\frac{3}{8}b}{2}=\frac{3}{16}ab\\
-A_Q=\frac{b_Ph_P}{2}=\frac{\frac{b}{2}\frac{3}{8}a}{2}=\frac{3}{32}ab\\
+A_M=\frac{b_Mh_M}{2}=\frac{a\frac{b}{2}}{2}=\frac{ab}{4}\\\\
+A_N=\frac{b_Nh_N}{2}=\frac{b\frac{a}{2}}{2}=\frac{ab}{4}\\\\
+A_P=\frac{b_Ph_P}{2}=\frac{a\frac{3}{8}b}{2}=\frac{3}{16}ab\\\\
+A_Q=\frac{b_Ph_P}{2}=\frac{\frac{b}{2}\frac{3}{8}a}{2}=\frac{3}{32}ab\\\\
 \end{array}$$
 
 La suma de les àrees dels $4$ triangles és:

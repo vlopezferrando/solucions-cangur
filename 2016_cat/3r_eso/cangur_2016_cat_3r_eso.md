@@ -1,8 +1,9 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 3r d'ESO
+Title: Solucions del Cangur 2016 a Catalunya: 3r d'ESO
 Date: 2016-10-5 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2016-catalunya-3r-eso
 Description: Recull de solucions del nivell de 3r d'ESO de les Proves Cangur 2016 a Catalunya
 
@@ -34,32 +35,32 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 Com $2016$ té quatre xifres, aquestes es poden ordenar de $4!=24$ formes. Com
 que no són tantes, les escriurem totes i descartarem les que no són hores possibles:
-
-$01:26$
-<br>$01:62\rightarrow \text{NO}$
-<br>$02:16$
-<br>$02:61\rightarrow \text{NO}$
-<br>$06:12$
-<br>$06:21$
-<br>$10:26$
-<br>$10:62\rightarrow \text{NO}$
-<br>$12:06$
-<br>$12:60\rightarrow \text{NO}$
-<br>$16:02$
-<br>$16:20$
-<br>$20:16$
-<br>$20:61\rightarrow \text{NO}$
-<br>$21:06$
-<br>$21:60\rightarrow \text{NO}$
-<br>$26:01\rightarrow \text{NO}$
-<br>$26:10\rightarrow \text{NO}$
-<br>$60:12\rightarrow \text{NO}$
-<br>$60:21\rightarrow \text{NO}$
-<br>$61:02\rightarrow \text{NO}$
-<br>$62:01\rightarrow \text{NO}$
-<br>$61:20\rightarrow \text{NO}$
-<br>$62:10\rightarrow \text{NO}$
-
+$$\begin{array}{l}
+01:26 \\\\
+01:62\rightarrow \text{NO} \\\\
+02:16 \\\\
+02:61\rightarrow \text{NO} \\\\
+06:12 \\\\
+06:21 \\\\
+10:26 \\\\
+10:62\rightarrow \text{NO} \\\\
+12:06 \\\\
+12:60\rightarrow \text{NO} \\\\
+16:02 \\\\
+16:20 \\\\
+20:16 \\\\
+20:61\rightarrow \text{NO} \\\\
+21:06 \\\\
+21:60\rightarrow \text{NO} \\\\
+26:01\rightarrow \text{NO} \\\\
+26:10\rightarrow \text{NO} \\\\
+60:12\rightarrow \text{NO} \\\\
+60:21\rightarrow \text{NO} \\\\
+61:02\rightarrow \text{NO} \\\\
+62:01\rightarrow \text{NO} \\\\
+61:20\rightarrow \text{NO} \\\\
+62:10\rightarrow \text{NO}
+\end{array}$$
 Les xifres de $2016$ apareixen un total de $10$ cops al rellotge, i la solució
 és la **E**.
 
@@ -99,24 +100,24 @@ Hem de comptar quantes vegades canviarà de color cada casella a mesura que
 prenem les caselles. Després de prémer la de dalt a l'esquerra, tenim:
 
 $$\begin{array}{ccc}
-1 &1 &1 \\
-1 &0 &0 \\
+1 &1 &1 \\\\
+1 &0 &0 \\\\
 1 &0 &0
 \end{array}$$
 
 Quan prenem la d'enmig queda:
 
 $$\begin{array}{ccc}
-1 &2 &1 \\
-2 &1 &1 \\
+1 &2 &1 \\\\
+2 &1 &1 \\\\
 1 &1 &0
 \end{array}$$
 
 I en prémer la de dalt a la dreta:
 
 $$\begin{array}{ccc}
-2 &3 &2 \\
-2 &1 &2 \\
+2 &3 &2 \\\\
+2 &1 &2 \\\\
 1 &1 &1
 \end{array}$$
 
@@ -124,16 +125,16 @@ Els números parells impliquen que una casella no canvia de color, de manera
 que només canvien de color les següents:
 
 $$\begin{array}{ccc}
-- &X &- \\
-- &X &- \\
+- &X &- \\\\
+- &X &- \\\\
 X &X &X
 \end{array}$$
 
 Fixant-nos en els colors inicials, al final queda:
 
 $$\begin{array}{ccc}
-gris & gris & gris \\
-blanc & blanc & blanc \\
+gris & gris & gris \\\\
+blanc & blanc & blanc \\\\
 gris & gris & gris
 \end{array}$$
 
@@ -228,8 +229,8 @@ solució és la **D**.
 
 ![Enunciat 12, nivell de 3r d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
 
-Al quadrat hi ha $5·5=25$ quadradets, de manera que com a molt podrem
-posar $6$ figures ($6·4=24$ quadradets). Vegem que podem fer-ho:
+Al quadrat hi ha $5\cdot5=25$ quadradets, de manera que com a molt podrem
+posar $6$ figures ($6\cdot4=24$ quadradets). Vegem que podem fer-ho:
 
 <img src="{filename}solucions/12.png" alt="Solució 12, nivell de 3r d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
 
@@ -263,8 +264,8 @@ $$1,2,\ldots,8,9, 10,11,\ldots,18,19$$
 Si comptem els cops que tenim cada xifra, tenim:
 
 $$\begin{array}{ccl}
-\{0\} & \rightarrow & \text{1 cop} \\
-\{1\} & \rightarrow & \text{12 cops} \\
+\{0\} & \rightarrow & \text{1 cop} \\\\
+\{1\} & \rightarrow & \text{12 cops} \\\\
 \{2,3,\ldots,9\} & \rightarrow & \text{2 cops}
 \end{array}$$
 
@@ -469,13 +470,13 @@ $$\frac{A_{gris}}{A_{total}} = \frac{A_{triangle\ petit} + A_{trapezi_1} + A_{tr
 Calculem ara l'àrea de cadascuna d'aquestes figures, recordant que
 l'àrea d'un trapezi és la meitat de l'altura per la suma de les bases:
 
-$$A_{triangle\ gran}=\frac12·5b·5h = \frac{25}2bh$$
+$$A_{triangle\ gran}=\frac12\cdot 5b\cdot 5h = \frac{25}2bh$$
 
 $$A_{triangle\ petit} = \frac12bh$$
 
-$$A_{trapezi_1} = \frac12·(2+3)b·h = \frac52bh$$
+$$A_{trapezi_1} = \frac12\cdot (2+3)b\cdot h = \frac52bh$$
 
-$$A_{trapezi_2} = \frac12·(5+4)b·h = \frac92bh$$
+$$A_{trapezi_2} = \frac12\cdot (5+4)b\cdot h = \frac92bh$$
 
 I ara fem la divisió:
 

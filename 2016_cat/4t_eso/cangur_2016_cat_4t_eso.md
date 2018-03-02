@@ -1,8 +1,9 @@
-Title: Solucions del Cangur 2016 a Catalunya: Nivell 4t d'ESO
+Title: Solucions del Cangur 2016 a Catalunya: 4t d'ESO
 Date: 2016-10-4 12:00
 Amagarportada: True
 Tags: cangur, matemàtiques
 Category: cangur
+Extra: katex
 Slug: solucions-cangur-2016-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2016 a Catalunya
 
@@ -44,8 +45,8 @@ el resultat és $6$: la solució **A**.
 
 ![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
 
-Al quadrat hi ha $5·5=25$ quadradets, de manera que com a molt podrem
-posar $6$ figures ($6·4=24$ quadradets). Vegem que podem fer-ho:
+Al quadrat hi ha $5\cdot 5=25$ quadradets, de manera que com a molt podrem
+posar $6$ figures ($6\cdot 4=24$ quadradets). Vegem que podem fer-ho:
 
 <img src="{filename}solucions/02.png" alt="Solució 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
 
@@ -76,8 +77,8 @@ $$1,2,\ldots,8,9, 10,11,\ldots,18,19$$
 Si comptem els cops que tenim cada xifra, tenim:
 
 $$\begin{array}{ccl}
-\{0\} & \rightarrow & \text{1 cop} \\
-\{1\} & \rightarrow & \text{12 cops} \\
+\{0\} & \rightarrow & \text{1 cop} \\\\
+\{1\} & \rightarrow & \text{12 cops} \\\\
 \{2,3,\ldots,9\} & \rightarrow & \text{2 cops}
 \end{array}$$
 
@@ -305,7 +306,7 @@ Així, la suma de vèrtexs, arestes i cares és:
 $$(n+1) + 2n + (n+1) = 4n+2$$
 
 De les opcions que se'ns presenten, només una es correspon a aquesta forma:
-$22=4·5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
+$22=4\cdot 5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
 que el residu només és $2$ per a $22$). La solució és la **A**.
 
 ![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
@@ -347,9 +348,9 @@ la solució és la **D**.
 
 ![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
 
-L'àrea del rectangle és $16·9=144$, de manera que si formem un quadrat
+L'àrea del rectangle és $16\cdot 9=144$, de manera que si formem un quadrat
 d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
-serà $4·12=48$, l'opció **B**. Comprovem que podem formar aquest quadrat:
+serà $4\cdot 12=48$, l'opció **B**. Comprovem que podem formar aquest quadrat:
 
 ![Solució 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/22.png)
 
@@ -396,10 +397,10 @@ altra manera. Si anomenem $x_1, x_2, x_3, x_4$ els quatre nombres
 consecutius, podem expressar la suma de diverses formes:
 
 $$\begin{array}{ccccccccc}
-x_1 &+& x_1+1 &+& x_1+2 &+& x_1+3 &=& 4x_1 + 6 \\
-x_2 - 1 &+& x_2 &+& x_2+1 &+& x_2+2 &=& 4x_2 + 2 \\
-x_3 - 2 &+& x_3 - 1 &+& x_3 &+& x_3 + 1 &=& 4x_3 - 2 \\
-x_4 - 3 &+& x_4 - 2 &+& x_4 - 1 &+& x_4 &=& 4x_4 - 6 \\
+x_1 &+& x_1+1 &+& x_1+2 &+& x_1+3 &=& 4x_1 + 6 \\\\
+x_2 - 1 &+& x_2 &+& x_2+1 &+& x_2+2 &=& 4x_2 + 2 \\\\
+x_3 - 2 &+& x_3 - 1 &+& x_3 &+& x_3 + 1 &=& 4x_3 - 2 \\\\
+x_4 - 3 &+& x_4 - 2 &+& x_4 - 1 &+& x_4 &=& 4x_4 - 6 \\\\
 \end{array}$$
 
 Veient aquestes quatre expressions, podem deduir que si algun dels quatre
@@ -451,8 +452,8 @@ $$a+b+c + 3\cdot(c-a) = -2a + b + 4c = 37$$
 Hem de resoldre el sistema d'equacions següent:
 
 $$\begin{cases}
-a&+&b&+&c&=&22 \\
--2a &+& 4b &+& c &=& 28 \\
+a&+&b&+&c&=&22 \\\\
+-2a &+& 4b &+& c &=& 28 \\\\
 -2a &+& b &+& 4c &=& 37
 \end{cases}$$
 
