@@ -1,1 +1,1 @@
-optipng */*/solucions/*
+optipng -q */*/solucions/*
