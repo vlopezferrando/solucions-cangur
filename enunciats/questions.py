@@ -32,8 +32,8 @@ for y1, y2 in zip(linies, linies[1:]):
     #  - Seccions que tenen menys de 40 línies de negre
     #  - Seccions que no tenen negre a partir del 70% d'amplada
     if y2-y1 > 10 \
-            and sum(has_black[y1:y1+30]) > 0 \
-            and sum(has_black[y1:y2]) > 40 \
+            and sum(has_black[y1:y1+50]) > 0 \
+            and sum(has_black[y1:y2]) > 35 \
             and max(ultim_black[y1:y2-2]) > 0.7*width:
         # Retallar i desar imatge
         questio += 1
