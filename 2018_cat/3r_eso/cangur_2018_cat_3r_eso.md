@@ -176,7 +176,7 @@ Llavors, necessàriament tindrà dos dies de sol seguits. En total, haurà hagut
 Si la Carme ha gastat $c$, llavors la Berta ha gastat $0.15c$ i l'Àlia $1.6c$.
 En total, les tres han gastat:
 
-$$1.6c+0.15c+x=2.75c=55$$
+$$1.6c+0.15c+c=2.75c=55$$
 
 Podem aïllar la $c$ i esbrinem que la Carme va gastar:
 
@@ -330,7 +330,7 @@ Fixem-nos que inicialment, cap de les $5$ parelles de nombres coincideixen.
 
 Observem que els dos $3$ que tenim apareixen a la banda esquerra de les peces, i per tant li haurem de donar la volta a una de les dues peces que tenen un $3$. Aprofitant que els dos $1$ que tenim apareixen a la dreta, sembla que el més adient serà girar la peça $31$.
 
-Però llavors cap de les $5$ parelles de nombres adjacents coincideixen. Ens substituir una peça per una altra, podem com a molt canviar $4$ adjacències, i per tant necessitarem dos moviments com a mínim.
+Però llavors cap de les $5$ parelles de nombres adjacents coincideixen. En substituir una peça per una altra, podem com a molt canviar $4$ adjacències, i per tant necessitarem dos moviments com a mínim.
 
 Amb $3$ moviments en total, hem trobat la següent seqüència:
 
