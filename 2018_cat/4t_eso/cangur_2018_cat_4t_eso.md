@@ -162,7 +162,7 @@ Anomenem $a,b,c,d$ els quatre segments de la figura següents:
 
 ![Solució 13, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}solucions/13.png)
 
-Volem esbrinar el valodr de $ad$, i per l'enunciat, sabem que:
+Volem esbrinar el valor de $ad$, i per l'enunciat, sabem que:
 $$ac=15,\quad bc=3,\quad bd=18$$
 Però llavors:
 $$bd=18\quad\Rightarrow\quad b=\frac{18}d$$
@@ -314,9 +314,9 @@ Per tant, hi ha $\boxed4$ enters $M$ que compleixen la condició de l'enunciat.
 
 Una altra forma de fer el problema és adornar-nos que si $\frac{M+10}{M}=n$, on $n$ és enter, s'ha de complir que:
 
-$$M+10=nM\quad\Rightarrow\quad (n-1)M=10\quad\Rightarrow\quad M=\frac{10}{n-1}$$
+$$\frac{M+10}{M}=n\quad\Rightarrow\quad 1+\frac{10}{M}=n$$
 
-Com $10=2\cdot5$, hi ha tants denominadors $n-1$ com divisors de $10$: $1,2,5,10$, $\boxed4$ en total.
+Com $\frac{10}M$ ha de ser enter, i $10=2\cdot5$, hi ha tants denominadors $M$ com divisors de $10$: $1,2,5,10$, $\boxed4$ en total.
 
 ![Enunciat 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/23.png)
 
@@ -405,7 +405,7 @@ Si la mediana és $2$, això vol dir que dels $15$ nombres, hi haurà un $2$, se
 
 Dels set nombres iguals o més grans que $2$, ja tenim sis $3$. Per minimitzar la mitjana, afegim un $2$.
 
-Els set nombres més petits han de ser enters positius, és a dir, $1$ com a mínim. Com nom podem tenir sis repeticions, ho dividim en cinc $1$ i dos $2$.
+Els set nombres més petits han de ser enters positius, és a dir, $1$ com a mínim. Com no podem tenir sis repeticions, ho dividim en cinc $1$ i dos $2$.
 
 Per tant, la mitjana de tots els nombres és:
 
@@ -428,7 +428,7 @@ $$\begin{array}{c|c}
 7 & 67 \\\\
 \end{array}$$
 
-Si notinuem la seqüència, trobem la primera vegada en què l'edat de l'àvia torna a ser un múltiple de la de la neta:
+Si continuem la seqüència, trobem la primera vegada en què l'edat de l'àvia torna a ser un múltiple de la de la neta:
 
 $$\begin{array}{c|c|c}
 \text{Neta}&\text{Àvia}&\text{Múltiple}\\\\ \\hline
@@ -462,7 +462,7 @@ Hi ha $3$ polígons:
 
 Podem comprovar que la suma de vèrtexs coincideix amb els $2018$ vèrtexs del polígon original més $4$:
 
-$$1001+983+37=2021=2018+4$$
+$$1001+983+38=2022=2018+4$$
 
 Això és correcte perquè el vèrtex $2000$ apareix a $2$ polígons, el $18$ a $2$ polígons, i el $1018$ a $3$ polígons. Per tant, hem comptat $7$ cops aquests tres vèrtexs, $4$ cops més dels que apareixien en el polígon original.
 

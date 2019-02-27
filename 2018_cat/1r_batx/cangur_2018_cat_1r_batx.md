@@ -57,7 +57,16 @@ $$A_\text{grisa}=4\pi-2\pi=\boxed{2\pi\text{ cm}^2}$$
 
 ![Enunciat 5, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/05.png)
 
+Anomenem $a,b,c,d$ els quatre segments de la figura següents:
 
+![Solució 5, nivell de 1r de Batxillerat del Cangur 2018 a Catalunya](solucions/05.png)
+
+Volem esbrinar el valodr de $ad$, i per l'enunciat, sabem que:
+$$ac=15,\quad bc=3,\quad bd=18$$
+Però llavors:
+$$bd=18\quad\Rightarrow\quad b=\frac{18}d$$
+$$bc=3\quad\Rightarrow\quad c=\frac3b=\frac3{\frac{18}d}=\frac{d}6$$
+$$ac=a\cdot\frac{d}6=15\quad\Rightarrow\quad ad=6\cdot15=\boxed{90}$$
 
 ![Enunciat 6, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/06.png)
 
@@ -81,6 +90,12 @@ $$5x=10^{2018}\quad\Rightarrow\quad x=\frac{10^{2018}}5=\frac{2\cdot5\cdot10^{20
 
 ![Enunciat 8, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/08.png)
 
+És evident que la figura $Y$ té la meitat de l'àrea ombrejada.
+La següent figura ens ajuda a veure que $X$ i $Z$ també tenen la meitat de l'àrea ombrejada:
+
+<img src="solucions/08.png" alt="Solució 8, nivell de 1r de Batxillerat del Cangur 2018 a Catalunya" style="width: 250px;"/>
+
+Per tant, hem comprovat que $\boxed{X=Y=Z}$.
 
 
 ![Enunciat 9, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/09.png)
@@ -91,7 +106,13 @@ $$\frac{25}{100}\cdot2018+\frac{2018}{100}\cdot25=\frac{25\cdot2018+25\cdot2018}
 
 ![Enunciat 10, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/10.png)
 
-4x4=16
+Per arribar al punt del mig, hi ha $4$ camins diferents:
+
+<img src="solucions/10.png" alt="Solució 10, nivell de 1r de Batxillerat del Cangur 2018 a Catalunya" style="width: 250px;"/>
+
+Si ens fixem, des del punt del mig fins al punt $B$, els camins també són $4$, ja que el graf és equivalent.
+
+Per tant, en total hi ha $4\cdot4=\boxed{16}$ camins possibles.
 
 ### Qüestions de 4 punts
 
@@ -129,7 +150,11 @@ Una possible solució és que tots els trens anessin a $Q$, amb $10$ d'ells sort
 
 ![Enunciat 15, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/15.png)
 
+El $13\%$ dels estudiants de la universitat fan un idioma diferent de l'anglès, i representen un $65\%$
+de tots els estudiants d'idiomes (perquè el $35\%$ fan anglès).
+Així doncs, el nombre total d'estudiants d'idiomes és:
 
+$$P_\text{idiomes}=\frac{13}{0.65}=\boxed{20\%}$$
 
 ![Enunciat 16, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/16.png)
 
@@ -167,6 +192,26 @@ $$\Rightarrow\quad 10a+10b-8c=0$$
 
 ![Enunciat 20, nivell de 1r de batxillerat del Cangur 2018 a Catalunya](enunciats/20.png)
 
+Primer de tot, vegem en una figura el polígon i les dues diagonals:
+
+<img src="solucions/20.png" alt="Solució 00, nivell de 1r de Batxillerat del Cangur 2018 a Catalunya" width="250"/>
+
+
+Hi ha $3$ polígons:
+
+* Entre el vèrtex $18$ i el $1018$, amb $1018-18+1=1001$ vèrtexs.
+* Entre el vèrtex $1018$ i el $2000$, amb $2000-1018+1=983$ vèrtexs.
+* Entre el vèrtex $2000$ i el $18$, amb $2018-2000+1+18+1=38$ vèrtexs.
+
+Podem comprovar que la suma de vèrtexs coincideix amb els $2018$ vèrtexs del polígon original més $4$:
+
+$$1001+983+37=2021=2018+4$$
+
+Això és correcte perquè el vèrtex $2000$ apareix a $2$ polígons, el $18$ a $2$ polígons, i el $1018$ a $3$ polígons. Per tant, hem comptat $7$ cops aquests tres vèrtexs, $4$ cops més dels que apareixien en el polígon original.
+
+Així, els vèrtexs dels tres polígons són:
+
+$$\boxed{38, 983, 1001}$$
 
 
 ### Qüestions de 5 punts
