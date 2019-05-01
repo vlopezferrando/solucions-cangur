@@ -20,56 +20,56 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/01.png)
+![Enunciat 1, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/01.png)
 
 Totes les lletres de la paraula $\boxed{\text{VOTO}}$ tenen un eix de simetria vertical i per tant aquesta
 és la solució.
 
-![Enunciat 2, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/02.png)
+![Enunciat 2, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/02.png)
 
 El perímetre del triangle és $6+10+11=27$. Un triangle equilàter té els tres costats de la mateixa longitud, i per tant el costat és:
 
 $$c=\frac{27}3=\boxed{9}$$
 
-![Enunciat 3, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/03.png)
+![Enunciat 3, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/03.png)
 
 Simplifiquem la fracció:
 
 $$\frac{2018+2018}{2018+2018+2018}=\frac{2\cdot2018}{3\cdot2018}=\boxed{\frac23}$$
 
-![Enunciat 4, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/04.png)
+![Enunciat 4, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/04.png)
 
 Podem aïllar el triangle i simplificar fàcilment:
 
 $$\triangle=\frac{2\times18\times14}{6\times7}=2\times\frac{18}6\times\frac{14}7=2\times3\times2=\boxed{12}$$
 
-![Enunciat 5, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/05.png)
+![Enunciat 5, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/05.png)
 
 Podem descartar els dibuixos $A$ i $B$ perquè tenen els cercles massa a prop de la base de la tanca.
 
 Pel que fa a la resta, l'opció $\boxed{\text{C}}$ és l'única que té els triangles ben orientats.
 
-![Enunciat 6, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/06.png)
+![Enunciat 6, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/06.png)
 
 Com que $2018\times14$ és múltiple de $7$, el residu d'aquest sumand és zero.
 
-Per tant, el residu de la suma serà el residu de dividir $15$ per $7$, que 
+Per tant, el residu de la suma serà el residu de dividir $15$ per $7$, que
 és $\boxed1$.
 
-![Enunciat 7, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/07.png)
+![Enunciat 7, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/07.png)
 
 En el pitjor dels casos, hi haurà un terç de persones a qui no agrada el futbol, però sí el tennis.
 
 Per tant, dels $\frac34$ aficionats del tennis, també els agrada el futbol a:
 $$\frac34-\frac13=\frac9{12}-\frac4{12}=\boxed{\frac5{12}}$$
 
-![Enunciat 8, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/08.png)
+![Enunciat 8, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/08.png)
 
 Hi ha $\boxed{4}$ camins possibles:
 
 ![Solució 8, nivell de 3r d'ESO del Cangur 2018 a Catalunya](solucions/08.png)
 
-![Enunciat 9, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/09.png)
+![Enunciat 9, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/09.png)
 
 Per la figura sabem que $5$ costats curts es corresponen amb $2$ costats llargs.
 Per tant, el costat curt mesura:
@@ -80,7 +80,7 @@ El perímetre del rectangle gran està format per $6$ costats llargs i $4$ de cu
 
 $$\text{P}=6\cdot10+4\cdot4=\boxed{76}$$
 
-![Enunciat 10, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/10.png)
+![Enunciat 10, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/10.png)
 
 Els cercles tenen diàmetre $7$, i per tant, radi $3.5$.
 
@@ -90,9 +90,9 @@ $$d=11-3.5-3.5=\boxed{4}$$
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/11.png)
+![Enunciat 11, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/11.png)
 
-El quadrat té àrea $3\times3=9$, i el triangle $\triangle DMC$ té una àrea que 
+El quadrat té àrea $3\times3=9$, i el triangle $\triangle DMC$ té una àrea que
 és un terç d'aquesta àrea, és a dir, $3$.
 
 Com l'altura del triangle $\triangle DMC$ és $3$, amb la base $DM$, la fórmula de la
@@ -105,7 +105,7 @@ I si aïllem $\overline{DM}$ tenim:
 $$\overline{DM}=\boxed2$$
 
 
-![Enunciat 12, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/12.png)
+![Enunciat 12, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/12.png)
 
 Provant una mica és fàcil adonar-se que la multiplicació ha de ser:
 
@@ -115,7 +115,7 @@ Per tant la suma dels tres dígits és:
 
 $$S=1+4+1=\boxed6$$
 
-![Enunciat 13, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/13.png)
+![Enunciat 13, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/13.png)
 
 En primer lloc, intentem esbrinar la mida del rectangle. Anomenem $a,b$ els dos
 costats del rectangle (el nombre de files i columnes de quadradets).
@@ -129,7 +129,7 @@ Per tant, necessàriament el nombre de files i columnes serà: $a=5, b=8$.
 La fila del mig té $8$ quadrats, i sense pintar en queden $40-8=\boxed{32}$.
 
 
-![Enunciat 14, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/14.png)
+![Enunciat 14, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/14.png)
 
 Si el regal fos a la caixa $1$, llavors les dues primeres pistes serien certes, cosa que no pot ser.
 
@@ -137,7 +137,7 @@ Si el regal fos a la caixa $2$, cap de les tres pistes seria certa, però sabem 
 
 Per tant, el regal és a la caixa $\boxed3$.
 
-![Enunciat 15, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/15.png)
+![Enunciat 15, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/15.png)
 
 Començant per dalt, i partint d'una recta horitzontal, realitzem un gir negatiu de $-10^\circ$ i després un positiu de $14^\circ$,
 obtenint una recta amb $4^\circ$ positius.
@@ -148,7 +148,7 @@ Entre ambdues rectes formen un angle de:
 
 $$\alpha=4-(-7)=\boxed{11^\circ}$$
 
-![Enunciat 16, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/16.png)
+![Enunciat 16, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/16.png)
 
 Anomenem $x,y$ els dos primers nombres de la seqüència:
 
@@ -162,7 +162,7 @@ Però resulta que $32=2^5$, i per tant $y=2$. Llavors:
 
 $$x\cdot y=1 \quad\Rightarrow\quad 2x=1 \quad\Rightarrow\quad x=\boxed{\frac12}$$
 
-![Enunciat 17, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/17.png)
+![Enunciat 17, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/17.png)
 
 L'any $2018$ té $365$ dies, per tant aquesta illa tindrà 15 dies núvol.
 
@@ -171,7 +171,7 @@ següent estarà núvol, cosa que es repetirà durant $30$ dies en total.
 
 Llavors, necessàriament tindrà dos dies de sol seguits. En total, haurà hagut d'esperar $\boxed{32}$ dies.
 
-![Enunciat 18, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/18.png)
+![Enunciat 18, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/18.png)
 
 Si la Carme ha gastat $c$, llavors la Berta ha gastat $0.15c$ i l'Àlia $1.6c$.
 En total, les tres han gastat:
@@ -186,7 +186,7 @@ Per tant, Àlia va gastar:
 
 $$a=1.6c=\boxed{32}$$
 
-![Enunciat 19, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/19.png)
+![Enunciat 19, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/19.png)
 
 L'àrea d'un triangle és la meitat de la base per l'altura.
 En el nostre cas, els dos triangles tenen la mateixa base (el costat llarg del rectangle).
@@ -195,7 +195,7 @@ A més, les sumes de les seves altures és també l'altura del rectangle.
 En conclusió, la suma de les àrees dels dos triangles és la meitat de l'àrea del rectangle, és a dir, $\boxed{20\text{ cm}^2}$.
 
 
-![Enunciat 20, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/20.png)
+![Enunciat 20, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/20.png)
 
 Si sumem les tres files i les tres columnes, sumem cada nombre dos cops. En total, sumarem:
 
@@ -209,7 +209,7 @@ I per tant el sisè resultat serà: $90-73=\boxed{17}$.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/21.png)
+![Enunciat 21, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/21.png)
 
 Anomenem $x_1,x_2,\ldots,x_{11}$ els punts, ordenats d'esquerra a dreta. Llavors, les sumes són:
 
@@ -224,7 +224,7 @@ I per tant, la distància entre els dos primers punts és:
 
 $$x_2-x_1=\frac{18}{9}=\boxed2$$
 
-![Enunciat 22, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/22.png)
+![Enunciat 22, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/22.png)
 
 Anomenem $a,b,c$ els tres costats, tal com es mostra a la figura:
 
@@ -260,7 +260,7 @@ Hem trobat que els tres costats mesuren $2,5,8$. Llavors, el volum és:
 
 $$V=2\times5\times8=\boxed{80\text{ cm}^3}$$
 
-![Enunciat 23, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/23.png)
+![Enunciat 23, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/23.png)
 
 Considerem $4$ nombres consecutius qualsevols en aquest requadre: $a,b,c,d$.
 Com cada nombre és la suma dels dos que són a la vora, resulta que:
@@ -279,7 +279,7 @@ Si anem omplint a partir del $10$ i el $3$, obtenim:
 
 I per tant, $x=-3+10=\boxed7$
 
-![Enunciat 24, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/24.png)
+![Enunciat 24, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/24.png)
 
 La Isabel ha fet $6$ llargs de piscina, és a dir, $300\text{ m}$.
 Com en Simó corre $3$ cops més ràpid, en el mateix temps ha corregut $900\text{ m}$.
@@ -290,7 +290,7 @@ Si anomenem $c$ el costat que no coneixem:
 $$180=2\times50 + 2\times c\quad\Rightarrow\quad c=\frac{180-100}2=\boxed{40}$$
 
 
-![Enunciat 25, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/25.png)
+![Enunciat 25, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/25.png)
 
 Dels $130$ vots, queden per comptar:
 
@@ -300,7 +300,7 @@ En el pitjor dels casos, en Biel rebria $8$ vots més, i llavors estarien empata
 
 Per tant, la Carla necessitaria més de la meitat d'aquests $32$ vots, és a dir, un total de $\boxed{17}$.
 
-![Enunciat 26, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/26.png)
+![Enunciat 26, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/26.png)
 
 En primer lloc, comprovem que l'àrea del colom és exactament la meitat de la bandera. Ho podem fer trobant les següents equivalències (iguals colors són iguals àrees):
 
@@ -324,7 +324,7 @@ $$a=\frac46b\quad\Rightarrow\quad \frac46b^2=384\quad\Rightarrow\quad b^2=576\qu
 I per tant la bandera mesura $\boxed{24\text{ cm}\times16\text{ cm}}$.
 
 
-![Enunciat 27, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/27.png)
+![Enunciat 27, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/27.png)
 
 Fixem-nos que inicialment, cap de les $5$ parelles de nombres coincideixen.
 
@@ -336,7 +336,7 @@ Amb $3$ moviments en total, hem trobat la següent seqüència:
 
 <img src="solucions/27.png" alt="Solució 27, nivell de 3r d'ESO del Cangur 2018 a Catalunya" style="width: 450px;"/>
 
-![Enunciat 28, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/28.png)
+![Enunciat 28, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/28.png)
 
 Podem dividir l'hexàgon en $6$ triangles equilàters formats pel centre i cadascun dels costats. Aquests triangles tenen un costat que és $\frac{DE}2$, i una àrea de $\frac16$.
 
@@ -345,7 +345,7 @@ Per tant, el triangle gran, que té un costat que és $3DE$, té un costat $6$ v
 $$A=36\cdot \frac16=\boxed6$$
 
 
-![Enunciat 29, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/29.png)
+![Enunciat 29, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/29.png)
 
 Suposem que ha fet $n$ salts quan porta una mitjana de $3.80$. Després de saltar $3.99$, la mitjana ha augmentat en $1$ cm:
 
@@ -359,7 +359,7 @@ $$\Rightarrow\quad 76.40 = 72.39 \quad\Rightarrow\quad x=4.01$$
 
 Així, el pròxim salt ha de ser de $\boxed{4.01\text{ m}}$.
 
-![Enunciat 30, nivell de 3r d'ESO del Cangur 2018 a Catalunya](enunciats/30.png)
+![Enunciat 30, nivell de 3r d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/30.png)
 
 En primer lloc, observem que com el triangle $\triangle MNP$ és isòsceles, els costats $MN$ i $NP$ són iguals, i per tant $LP=KN=MP$:
 
