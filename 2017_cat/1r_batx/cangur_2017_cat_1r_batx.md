@@ -8,7 +8,7 @@ Slug: solucions-cangur-2017-catalunya-1r-batx
 Extra: katex
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2017 a Catalunya
 
-Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({static}enunciat_2017_cat_1r_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -20,7 +20,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/01.png)
 
 Si Maria dóna $x$ euros a cadascun dels germans, ella es quedarà amb $24-3x$ euros, i els seus germans en tindran $12+x$. Per tal que tots acaben amb la mateixa quantitat s'ha de complir que:
 
@@ -29,7 +29,7 @@ $$
 $$
 Per tant, Maria ha de donar $3$ € a cada germà.
 
-![Enunciat 2, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 2, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/02.png)
 
 Si Antoni és el cinquè a l'esquerra, vol dir que hi ha $4$ nois entre els dos
 (per l'esquerra). Si és el vuitè per la dreta, hi ha $7$ entre tots dos (per la
@@ -40,7 +40,7 @@ $$
 $$
 En total hi ha $13$ nois al cercle.
 
-![Enunciat 3, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 3, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/03.png)
 
 Hi ha dues zones grises: la primera és la resta entre l'estel més gran i el segon
 més gran. La segona és la resta entre el segon estel més petit i el més petit.
@@ -49,22 +49,22 @@ La suma és:
 $$
 (16-9)+(4-1)=7+3=10\text{ cm}^2
 $$
-![Enunciat 4, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 4, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/04.png)
 
 Si al numerador li sumem i restem $2017$, tenim:
 $$ 2017^2+2017-2017-1=2017\times2018-2017-1= $$
 $$ =2017\times2018-2018=2016\times2018 $$
 Veiem que el numerador és igual que el denominador, i per tant la fracció és $1$.
 
-![Enunciat 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/05.png)
 
 Analitzem el moviment de la roda als cims i les valls:
 
-<img src="{filename}solucions/05.png" alt="Solució 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 400px;"/>
+<img src="{static}solucions/05.png" alt="Solució 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 400px;"/>
 
 I veiem que la **D** és la solució correcta.
 
-![Enunciat 6, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 6, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/06.png)
 
 Si comencem posant un nombre senar a dalt de tot, a sota d'ell ha d'haver-hi un senar i un parell:
 $$
@@ -94,12 +94,12 @@ En total, hem posat $7$ nombres senars.
 
 Mai podrem posar $8$ nombres senars, perquè llavors només en tindríem $2$ de parells. Si provem, veiem que necessàriament hi ha d'haver algun dels dos nombres parells a la base i és impossible evitar que n'acaben apareixent més de $2$.
 
-![Enunciat 7, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 7, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/07.png)
 
 El cercle dóna una volta sencera cada $2\pi\text{ cm}$. Després de $11\pi\text{ cm}$ haurà donat $5$ voltes completes (es trobarà en la posició inicial), i després donarà mitja volta. Llavors, la posició final serà la **B**.
 
 
-![Enunciat 8, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 8, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/08.png)
 
 Si la mainada és la vuitena part dels assistents, $\frac78$ dels assistents
 són adults. Dels adults, si $\frac37$ són homes, llavors $\frac47$ són dones.
@@ -108,7 +108,7 @@ En total, la proporció de dones és:
 $$
 \text{dones}=\frac78\cdot\frac47=\frac48=\frac12
 $$
-![Enunciat 9, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 9, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/09.png)
 
 Si guanya les $5$ partides que li queden, en total n'haurà guanyat
 $9+5=14$, d'un total de $15+5=20$. El percentatge de victòries és:
@@ -116,7 +116,7 @@ $9+5=14$, d'un total de $15+5=20$. El percentatge de victòries és:
 $$
 \text{victòries}=\frac{14}{20}\cdot100=14\cdot5=70\%
 $$
-![Enunciat 10, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/10.png)
 
 Els estudiants poden traure $6$ botons i que no n'hi hagen tres del mateix color (si són $2$ vermells, $2$ blancs i $2$ blaus). Ara bé, en traure el $7\text{è}$
 botó, necessàriament hi haurà $3$ botons del mateix color. Per tant, la solució
@@ -124,7 +124,7 @@ botó, necessàriament hi haurà $3$ botons del mateix color. Per tant, la soluc
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/11.png)
 
 Si l'altura del trapezi (i del triangle) és $h$, les àrees del triangle i del trapezi $EBCD$ són:
 $$
@@ -143,7 +143,7 @@ I si substituïm amb el que sabem:
 $$
 AE=(50-AE) + 20=70-AE \quad\Rightarrow\quad AE=35\text{ cm}
 $$
-![Enunciat 12, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/12.png)
 
 Si només un dels dos nombres $(n,\; n+20)$ és de $4$ xifres, hi ha dues opcions:
 o bé $n$ és de tres xifres i $n+20$ de quatre, o bé $n$ és de quatre xifres
@@ -159,18 +159,18 @@ $$n\in\{9980,\; 9981,\, \ldots,\; 9999\}\quad\rightarrow\quad 20\text{ nombres}$
 
 En total, hi ha $40$ nombres $n$ que compleixen la propietat de l'enunciat.
 
-![Enunciat 13, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/13.png)
 
 Podem dividir la figura en $6$ parts iguals (des del centre de l'hexàgon), i estudiar la proporció en aquestes porcions:
 
-![Solució 13, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}solucions/13b.png)
+![Solució 13, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}solucions/13b.png)
 
 La zona ombrejada és un triangle amb la base $b$ i altura $h$, mentre que el total és un triangle amb base $b$ i altura $2h$ (recordem que les perpendiculars al triangle gran tallen els costats oposats al punt mig).
 
 Per tant, l'àrea ombrejada és la meitat de la total, i la relació és $\frac12$.
 
 
-![Enunciat 14, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/14.png)
 
 Si anomenem $x$ el nombre d'enmig dels tres, tenim que:
 $$ (x-1)^2 + x^2 + (x+1)^2= $$
@@ -182,7 +182,7 @@ $$
 $$
 Finalment, el més gran dels tres nombres és $x+1=17$.
 
-![Enunciat 15, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/15.png)
 
 Si la politja $B$ fa $4$ voltes mentre la $A$ en fa $5$, la relació dels seus perímetres és:
 $$
@@ -196,7 +196,7 @@ Si $P_C=30$, llavors $P_A$ és:
 $$
 P_A=\frac45P_B=\frac45\cdot\frac76P_C=\frac{28}{30}\cdot30=28\text{ cm}
 $$
-![Enunciat 16, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/16.png)
 
 Podem comptar totes les opcions:
 $$
@@ -212,7 +212,7 @@ $$
 $$
 En total, hi ha $7$ possibles calendaris per escollir.
 
-![Enunciat 17, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/17.png)
 
 Podem considerar que els primers $7$ dies ha plogut, i per tant haurà fet sol en $7$ moments (matí o tarda). Com ha fet sol de tarda un dia més en total, repartim els $7$ moments de sol en $4$ dies de sol de tarda i $3$ dies de sol de matí (dels $7$ dies de pluja). Per arribar $5$ matins i $6$ tardes de sol, caldran dos dies més. Per exemple:
 $$
@@ -224,7 +224,7 @@ $$
 $$
 Així, calen $9$ dies com a mínim.
 
-![Enunciat 18, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/18.png)
 
 Anomenem $t,v,p,o$ les alçades dels germans Toni, Víctor, Pere i Òscar. Anem resumint l'enunciat pas per pas.
 
@@ -255,7 +255,7 @@ $$
 
 Per tant, l'alçada de l'Òscar és de $160\text{ cm}$.
 
-![Enunciat 19, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/19.png)
 
 Adonem-nos que només hi ha $4$ quadrats $2\times2$, i que tots ells inclouen la casella central; per tant, la casella central no influeix en la suma i podem posar-hi un $0$ per comoditat. Si anomenem $a,b,c,d$ les altres caselles, tenim el quadrat:
 $$
@@ -287,7 +287,7 @@ $$
 2 & 1 & 0\\\\
 \end{array}
 $$
-![Enunciat 20, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/20.png)
 
 Dels $36$ resultats possibles, seran negatius els que siguin producte d'un nombre positiu per un negatiu o el d'un negatiu per un positiu:
 $$
@@ -296,7 +296,7 @@ $$
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/21.png)
 
 Comencem descomposant $882$ en el seus factors primers:
 $$
@@ -310,7 +310,7 @@ Efectivament, el producte és $1\cdot7\cdot9\cdot14=882$, i la suma és:
 $$
 \text{suma edats}=1+7+9+14=31
 $$
-![Enunciat 22, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/22.png)
 
 En primer lloc, observem que els nombres contigus tindran paritat diferent (tenen diferència $1$). Per tal que la suma sigui senar, cal que hi hagi un nombre senar de sumands senars. Dels $7$ nombres, per tant, $3$ han de ser senars: hauran de ser $b, d, f$.
 
@@ -334,7 +334,7 @@ Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$: l'opció **D**.
 
-![Enunciat 23, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/23.png)
 
 Podem definir el número $ababab$ com la suma:
 $$ ababab = 100000a+10000b+1000a+100b+10a+b= $$
@@ -346,7 +346,7 @@ ababab=7\cdot(14430a+1443b)
 $$
 Per tant, $ababab$ segur que serà un múliple de $7$.
 
-![Enunciat 24, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/24.png)
 
 Anem comptant per ordre:
 
@@ -359,7 +359,7 @@ En total hi ha:
 $$
 N_{\text{contrasenyes}}=1+2+2+2+6=13
 $$
-![Enunciat 25, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/25.png)
 
 Fixem-nos que si dues persones contigües miren cap a la mateixa banda, no s'estaran donant la mà ni ara ni quan donim mitja volta:
 $$
@@ -375,11 +375,11 @@ $$
 $$
 En definitiva, $10$ persones acabaran donant-se la mà.
 
-![Enunciat 26, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/26.png)
 
 Centrem-nos en un quart de la figura per simplificar:
 
-<img src="{filename}solucions/29.png" alt="Solució 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 350px;"/>
+<img src="{static}solucions/29.png" alt="Solució 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 350px;"/>
 
 Aquest quart de la figura és un quadrat de costat $h$. Aquesta $h$ és l'altura del triangle equilàter, i la podem esbrinar per Teorema de Pitàgores:
 $$
@@ -406,7 +406,7 @@ Recordem que només hem calculat un quart de la figura total. L'àrea total ser�
 $$
 A_{\text{figura}}=4\cdot A=100(\sqrt3+1)
 $$
-![Enunciat 27, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/27.png)
 
 Per simplificar, suposem que els pesos són $1,2,3,4,5,6$. En total, sumen $1+2+3+4+5+6=21$, per tant, el plat que més pesa haurà de pesar $11$ com a mínim.
 
@@ -425,7 +425,7 @@ En total, es tracta de $10$ opcions diferent, i la massa $6$ es troba en $8$ d'e
 $$
 P=\frac8{10}=80\%
 $$
-![Enunciat 28, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/28.png)
 
 Anomenem $r$ el radi de la circumferència $(AM=BM=r)$.
 
@@ -452,7 +452,7 @@ $$
 
 Per tal que el radi sigui enter, $PA$ ha de ser un divisor de $18$. Com $18=2\cdot3^2$, té $(1+1)\cdot(2+1)=6$ divisors, i la solució és $6$.
 
-![Enunciat 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/29.png)
 
 Si $u$ i $v$ són les solucions, tenim l'equació:
 $$
@@ -481,11 +481,11 @@ Per tant, hi ha $2$ possibles solucions:
 $$
 (u, v)=\left\\{(0, 0), (1, -2)\right\\}
 $$
-![Enunciat 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 1r de batxillerat del Cangur 2017 a Catalunya]({static}enunciats/30.png)
 
 Fem un dibuix i anem pas per pas explicant com l'hem construit:
 
-<img src="{filename}solucions/30.png" alt="Solució 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 600px;"/>
+<img src="{static}solucions/30.png" alt="Solució 5, nivell de 1r de batxillerat del Cangur 2017 a Catalunya" style="width: 600px;"/>
 
 Hem fet una recta paral·lela a $AB$ que passa pel punt $N$, construint el triangle $\triangle PNC$ (vermell), que és semblant al $\triangle ABC$.  Concretament, l'angle $\widehat{NPC}$ és igual a l'angle $\widehat{BAC}$ que se'ns demana, i l'anomenem $\beta$.
 

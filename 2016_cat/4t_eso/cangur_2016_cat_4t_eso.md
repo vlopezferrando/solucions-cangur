@@ -9,7 +9,7 @@ Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 201
 
 Ja he preparat el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2016.
 Els enunciats estan extrets del primer model d'examen del
-[pdf d'enunciats]({filename}enunciat_2016_cat_4t_eso.pdf){:target="_blank"}.
+[pdf d'enunciats]({static}enunciat_2016_cat_4t_eso.pdf){:target="_blank"}.
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable
 pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
@@ -32,7 +32,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/01.png)
 
 Si traiem els parèntesis ens queda:
 
@@ -43,16 +43,16 @@ $$=1+1+\cdots+1$$
 Veiem que cada parella suma $1$, i en total hi ha $6$ parelles, per tant
 el resultat és $6$: la solució **A**.
 
-![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/02.png)
 
 Al quadrat hi ha $5\cdot 5=25$ quadradets, de manera que com a molt podrem
 posar $6$ figures ($6\cdot 4=24$ quadradets). Vegem que podem fer-ho:
 
-<img src="{filename}solucions/02.png" alt="Solució 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
+<img src="{static}solucions/02.png" alt="Solució 2, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
 
 Així que la solució és la **B**.
 
-![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 3, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/03.png)
 
 Com ha pagat $95$ €, per tal que la xifra de les unitat siga $5$, ha
 d'haver pagat la meitat per uns pantalons amb una xifra de les desenes
@@ -68,7 +68,7 @@ $70$ €, hauria d'haver comprat també els pantalons de $95-35=60$ €, però
 llavors no se li hauria aplicat el descompte als pantalons que valen $70$ €,
 sinó als de $60$ €.
 
-![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 4, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/04.png)
 
 Tenim les següents xifres disponibles:
 
@@ -89,7 +89,7 @@ $$99887766554433\;2\;21111111111110$$
 Tenim $1+12+2\cdot8=29$ xifres, la d'enmig està en la possició $15$, i és
 el $2$. La solució és la **C**.
 
-![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 5, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/05.png)
 
 Denotem la posició inicial com $\text{SJC}$ (Sara, Joana, Clara). A més,
 subratllarem les lletres quan ja hagen realitzat un adelantament.
@@ -119,31 +119,31 @@ Així hem vist que només hi ha dues possibles configuracions finals:
 $\underline{\text{JSC}}$ i $\underline{\text{SCJ}}$, i per tant
 la solució és la **B**.
 
-![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/06.png)
 
 La mediana és el valor d'enmig de tots els resultats ordenats. Podem
 comprovar a la figura que aquest valor és el $3$, i la solució és la
 **B**.
 
-![Solució 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/06.png)
+![Solució 6, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}solucions/06.png)
 
-![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/07.png)
 
 En primer lloc fixem-nos en els triangles equilàters "mitjans",
 que tenen els costats de $5+2+5=12$, que podem veure en nombres negres a la figura:
 
-![Solució 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/07.png)
+![Solució 7, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}solucions/07.png)
 
 Coneixent la mesura d'aquest costat, veiem que la base del triangle gran conté dos
 costats (vermell i blau) que mesuren $12$. Però aquests costats se superposen,
 concretament la mesura del costat dels triangles puntejats ($5$ en verd), i per això
 el costat del triangle gran mesura $12+12-5=19$, la solució **E**.
 
-![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/08.png)
 
 Dibuixem les rectes i punts tal com especifica l'enunciat:
 
-<img src="{filename}solucions/08.png" alt="Solució 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 400px;"/>
+<img src="{static}solucions/08.png" alt="Solució 8, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 400px;"/>
 
 En primer lloc, adonem-nos que no és possible crear triangles amb
 tres punts de la mateixa recta. Comptarem primer la possibilitat de
@@ -166,7 +166,7 @@ $$\dbinom{4}{2} = \frac{4!}{2!(4-2)!}= \frac{4\cdot3\cdot2}{2\cdot2}=6$$
 En total, podem formar $4+12=16$ triangles diferents amb aquests sis
 punts, i la solució és la **D**.
 
-![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 9, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/09.png)
 
 El quadrat gran té una àrea de $36$, per tant el seu costat mesura
 $\sqrt{36}=6$. Els quadrats petits tenen un costat que és una tercera
@@ -179,7 +179,7 @@ $$\frac{36}{60}\cdot100=\frac{360}{6}=60 \%$$
 
 I la solució és la **C**.
 
-![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/10.png)
 
 Hi ha 12 persones que toquen un instrument, $8$ són homes i $4$ són dones.
 Com el $60\%$ de les dones no toca cap instrument, això vol dir que el
@@ -189,7 +189,7 @@ si hi ha $10$ dones, hi ha $32-10=22$ homes, i la solució és la **B**.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/11.png)
 
 A cada costat té dues opcions: o bé dibuixar el costat paral·lel per
 dins del triangle original, o bé dibuixar-lo per fora. Així, a cadascun
@@ -197,7 +197,7 @@ dels $3$ costats, pot triar entre $2$ costats paral·lels, i el nombre
 de triangles que pot dibuixar és: $2\cdot2\cdot2=8$, i la solució és la
 **E**.
 
-![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/12.png)
 
 La manera òptima de doblegar-lo és per la meitat. Començant pel costat
 llarg, si el dobleguem un cop mesurarà $\frac{2,20}2=1,10 \text{ m}$,
@@ -212,7 +212,7 @@ el llençol cap del tot!
 
 L'hem hagut de doblegar $4$ cops, i per tant la solució és la **C**.
 
-![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/13.png)
 
 Anomenem $a$ el nombre d'abonats, de manera que $200-a$ és el nombre
 de no abonats. Avui han anat $a$ abonats, i el $25\%$ dels
@@ -223,27 +223,27 @@ $$10\cdot a + 40\cdot\frac14\cdot(200-a) = 10a + 2000 - 10a = 2000$$
 
 I la solució és la **D**.
 
-![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/14.png)
 
 Si seguim els moviment de les rodes dentades i les cordes, podem deduir
 tots els moviments:
 
-![Solució 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/14.png)
+![Solució 14, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}solucions/14.png)
 
 I cap amunt van els pesos $1$ i $3$, la solució **A**.
 
-![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/15.png)
 
 La única figura que no cap és la **E**. Per tal de tenir una àrea igual a la
 del quadrat, el triangle equilàter haurà de sobresortir, com veiem a la figura:
 
-<img src="{filename}solucions/15a.png" alt="Solució 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
+<img src="{static}solucions/15a.png" alt="Solució 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya" style="width: 200px;"/>
 
 La resta d'opcions caben dins del quadrat:
 
-![Solució 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/15b.png)
+![Solució 15, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}solucions/15b.png)
 
-![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/16.png)
 
 Anomenem $x$ el nombre de bales que tenen les deu noies al principi.
 Si la mitjana disminueix en una, això vol dir que:
@@ -257,7 +257,7 @@ $$\frac{x}{10} = \frac{x+12}{11} \quad \Rightarrow \quad
 
 Llavors, entre les onze tenen $120+1=121$ bales, i la solució és la **D**.
 
-![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/17.png)
 
 L'àrea enfosquida resulta de treure-li al quadrat gran l'àrea
 del quadrat petit (de costat $3x$) i dels dos triangles rectangles blancs.
@@ -268,7 +268,7 @@ $$(4x)^2 - (3x)^2 - 4x\cdot x = 16x^2 - 9x^2 - 4x^2 = 3x^2$$
 
 I la solució és la **A**.
 
-![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/18.png)
 
 Començant pel vèrtex de dalt a l'esquerra, podem triar qualsevol dels
 $3$ colors.
@@ -289,7 +289,7 @@ $$3\cdot(2\cdot1 + 2\cdot2) = 3\cdot6=18$$
 
 I la solució és la **B**.
 
-![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/19.png)
 
 Els vèrtexs, arestes i cares d'una piràmide vindran donats pel nombre
 de vèrtexs que té el polígon de la base. Si la base de la piràmide
@@ -309,7 +309,7 @@ De les opcions que se'ns presenten, només una es correspon a aquesta forma:
 $22=4\cdot 5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
 que el residu només és $2$ per a $22$). La solució és la **A**.
 
-![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/20.png)
 
 Si l'angle $\widehat{BAO}$ és de $60$ graus, com $A$ i $B$ estan a la
 circumferència de centre $O$, sabem que en realitat formen un triangle
@@ -329,7 +329,7 @@ I la solució és la **A**.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/21.png)
 
 La Sara reparteix quatre caramels i en dóna a tothom, així que per
 començar en dóna un a Rosa, un a Núria i un a Carles. Per tal que
@@ -346,15 +346,15 @@ Hem de trobar una opció que en restar-li $5$, siga múltiple de $3$.
 La única opció que ho compleix és el $20$, ja que $20 = 3\cdot5 + 5$, i
 la solució és la **D**.
 
-![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/22.png)
 
 L'àrea del rectangle és $16\cdot 9=144$, de manera que si formem un quadrat
 d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
 serà $4\cdot 12=48$, l'opció **B**. Comprovem que podem formar aquest quadrat:
 
-![Solució 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}solucions/22.png)
+![Solució 22, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}solucions/22.png)
 
-![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/23.png)
 
 En primer lloc comptem de quantes maneres podem col·locar les lletres $U$.
 A la primera fila va una lletra $U$, a una de les $3$ caselles.
@@ -374,7 +374,7 @@ $$6\cdot 4!=6\cdot 24=144$$
 
 formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**.
 
-![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/24.png)
 
 Quatre nombre consecutius són:
 
@@ -407,7 +407,7 @@ Veient aquestes quatre expressions, podem deduir que si algun dels quatre
 nombres és múltiple de $5$, no podrà ser-ho la suma, ja que $4x_1 + 6,\;
 4x_2+2,\; 4x_3-2,\; 4x_4-6$ no seran múltiples de $5$.
 
-![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/25.png)
 
 Els tres segments han de complir la *desigualtat triangular*,
 que diu que la longitud d'un segment no pot ser major que la
@@ -429,7 +429,7 @@ $$\frac13 < k < 1$$
 
 I la solució és la **C**.
 
-![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/26.png)
 
 Expressem l'enunciat amb equacions. Anomenem $a, b, c$ les edats
 d'Andreu, Berta i Cesc. La suma és $22$:
@@ -474,7 +474,7 @@ $$65 + 9a = 22\cdot5 = 110 \quad \Rightarrow \quad
 
 Per tant, Andreu té $5$ anys i la solució és la **B**.
 
-![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/27.png)
 
 $p$ i $q$ són primers entre ells, per tant tenen factors primers
 diferents.
@@ -493,7 +493,7 @@ quedat evidenciat als quocients.
 
 Per tant, la suma és $77+30=107$ i la solució és la **A**.
 
-![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/28.png)
 
 Descomposant $12$ en els seus factors primers, tenim: $12=2^2\cdot3$, en
 total hi ha tres factors: $2,2,3$.
@@ -512,7 +512,7 @@ que no ho compleix:
 
 Així, la solució és la **C**.
 
-![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/29.png)
 
 Si anomenem $a, b$ les xifres de les desenes i de les unitats del nombre
 més gran, els dos nombres són:
@@ -534,7 +534,7 @@ trobem provant una mica: $19\cdot3 - 8\cdot7= 57-56=1$.
 Finalment, la suma de les xifres del resultat és $b+a=3+7=10$, i la solució
 és la **B**.
 
-![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 4t d'ESO del Cangur 2016 a Catalunya]({static}enunciats/30.png)
 
 Anomenem $h_T$ l'altura del triangle $PTS$ i $h_R$ l'altura del
 triangle $PRQ$.

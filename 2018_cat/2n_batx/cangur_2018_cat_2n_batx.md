@@ -8,7 +8,7 @@ Extra: katex
 Slug: solucions-cangur-2018-catalunya-2n-batx
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2018 a Catalunya
 
-Aquest és el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2018_cat_2n_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Aquest és el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({static}enunciat_2018_cat_2n_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 

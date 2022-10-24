@@ -8,7 +8,7 @@ Extra: katex
 Slug: solucions-cangur-2018-catalunya-4t-eso
 Description: Recull de solucions del nivell de 4t d'ESO de les Proves Cangur 2018 a Catalunya
 
-Aquest és el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2018_cat_4t_eso.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Aquest és el recull de solucions del Nivell de 4t d'ESO del Cangur de Catalunya de 2018. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({static}enunciat_2018_cat_4t_eso.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -20,14 +20,14 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/01.png)
 
 Hi ha $\boxed{6}$ camins possibles:
 
-![Solució 1, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}solucions/01.png)
+![Solució 1, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}solucions/01.png)
 
 
-![Enunciat 2, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 2, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/02.png)
 
 Provant una mica és fàcil adonar-se que la multiplicació ha de ser:
 
@@ -38,14 +38,14 @@ Per tant la suma dels tres dígits és:
 $$S=1+4+1=\boxed6$$
 
 
-![Enunciat 3, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 3, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/03.png)
 
 Simplifiquem la fracció:
 
 $$\frac{2018+2018}{2018+2018+2018}=\frac{2\cdot2018}{3\cdot2018}=\boxed{\frac23}$$
 
 
-![Enunciat 4, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 4, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/04.png)
 
 En primer lloc, intentem esbrinar la mida del rectangle. Anomenem $a,b$ els dos
 costats del rectangle (el nombre de files i columnes de quadradets).
@@ -58,7 +58,7 @@ Per tant, necessàriament el nombre de files i columnes serà: $a=3, b=4$.
 
 La fila del mig té $4$ quadrats, i sense pintar en queden $12-4=\boxed{8}$.
 
-![Enunciat 5, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 5, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/05.png)
 
 Identifiquem el segment $TE$ amb la recta real, on $T=0$ i $E=16$, i anem situant-hi la resta de punts.
 
@@ -73,7 +73,7 @@ Per tant, l'ordre és:
 $$T=0,\ A=4,\ I=12,\ R=14,\ E=16 \quad\Rightarrow\quad \boxed{TAIRE}$$
 
 
-![Enunciat 6, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 6, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/06.png)
 
 Si el regal fos a la caixa $1$, llavors les dues primeres pistes serien certes, cosa que no pot ser.
 
@@ -81,7 +81,7 @@ Si el regal fos a la caixa $2$, cap de les tres pistes seria certa, però sabem 
 
 Per tant, el regal és $\boxed{\text{A la caixa }3}$.
 
-![Enunciat 7, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 7, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/07.png)
 
 L'àrea del triangle $\triangle DCM$ és igual al quadrilàter $AMCN$, i per tant, és el doble que la del triangle $\triangle AMC$, que és la meitat del quadrilàter.
 
@@ -102,14 +102,14 @@ $$\Rightarrow\quad c^2=3c\quad\Rightarrow\quad c=3$$
 Finalment, el perímetre del quadrat és $4\cdot3=\boxed{12\text{ cm}}$.
 
 
-![Enunciat 8, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 8, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/08.png)
 
 Cada menú té $5$ opcions de primer ($2$ amanides o $3$ sopes), $5$ segons, i $4$ postres.
 El nombre total de menús diferents és el producte:
 
 $$N=5\cdot5\cdot4=\boxed{100}$$
 
-![Enunciat 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/09.png)
 
 El quadrat central té costat $1$, i per tant àrea $1^2=1$.
 
@@ -123,7 +123,7 @@ La suma de l'àrea del quadrat i la dels quatre triangles és:
 
 $$A=1+4\cdot\frac14=1+1=\boxed2$$
 
-![Enunciat 10, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/10.png)
 
 Com els equips han de ser paritaris, com a mínim caldran $8$ dones més per igualar-se a $19$.
 
@@ -135,7 +135,7 @@ $$N=8+(24-19)\cdot2=8+5\cdot2=\boxed{18}$$
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/11.png)
 
 Fixem-nos que inicialment, cap de les $5$ parelles de nombres coincideixen.
 
@@ -145,22 +145,22 @@ Però llavors cap de les $5$ parelles de nombres adjacents coincideixen. En subs
 
 Amb $\boxed3$ moviments en total, hem trobat la següent seqüència:
 
-<img src="{filename}solucions/11.png" alt="Solució 11, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 450px;"/>
+<img src="{static}solucions/11.png" alt="Solució 11, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 450px;"/>
 
-![Enunciat 12, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/12.png)
 
 És evident que la figura $Y$ té la meitat de l'àrea ombrejada.
 La següent figura ens ajuda a veure que $X$ i $Z$ també tenen la meitat de l'àrea ombrejada:
 
-<img src="{filename}solucions/12.png" alt="Solució 12, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
+<img src="{static}solucions/12.png" alt="Solució 12, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
 
 Per tant, hem comprovat que $\boxed{X=Y=Z}$.
 
-![Enunciat 13, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/13.png)
 
 Anomenem $a,b,c,d$ els quatre segments de la figura següents:
 
-![Solució 13, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}solucions/13.png)
+![Solució 13, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}solucions/13.png)
 
 Volem esbrinar el valor de $ad$, i per l'enunciat, sabem que:
 $$ac=15,\quad bc=3,\quad bd=18$$
@@ -169,7 +169,7 @@ $$bd=18\quad\Rightarrow\quad b=\frac{18}d$$
 $$bc=3\quad\Rightarrow\quad c=\frac3b=\frac3{\frac{18}d}=\frac{d}6$$
 $$ac=a\cdot\frac{d}6=15\quad\Rightarrow\quad ad=6\cdot15=\boxed{90}$$
 
-![Enunciat 14, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/14.png)
 
 Dels $130$ vots, queden per comptar:
 
@@ -179,7 +179,7 @@ En el pitjor dels casos, en Biel rebria $8$ vots més, i llavors estarien empata
 
 Per tant, la Carla necessitaria més de la meitat d'aquests $32$ vots, és a dir, un mínim de $\boxed{17}$.
 
-![Enunciat 15, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/15.png)
 
 Si la Carme ha gastat $c$, llavors la Berta ha gastat $0.15c$ i l'Àlia $1.6c$.
 En total, les tres han gastat:
@@ -194,12 +194,12 @@ Per tant, Àlia va gastar:
 
 $$a=1.6c=\boxed{32}$$
 
-![Enunciat 16, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/16.png)
 
 
 Anomenem $a,b,c$ els tres costats, tal com es mostra a la figura:
 
-![Solució 16, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}solucions/16.png)
+![Solució 16, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}solucions/16.png)
 
 Llavors les tres mesures del dibuix es corresponen a les següents equacions:
 
@@ -232,7 +232,7 @@ Hem trobat que els tres costats mesuren $2,5,8$. Llavors, el volum és:
 $$V=2\times5\times8=\boxed{80\text{ cm}^3}$$
 
 
-![Enunciat 17, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/17.png)
 
 Com que hi ha un esglaó del mig, el nombre d'esglaons ha de ser senar. De les opcions que ens queden, només $45$ pot ser, ja que les altres $(21,23)$ són nombres massa petits: després de pujar $7$ esglaons des del mig, ja quasi ha arribat a dalt de tot, i no li queda un terç.
 
@@ -240,11 +240,11 @@ En canvi, des de l'esglaó del mig d'una escala de $45$ esglaons, el $23$, puja 
 
 Per tant, la solució és $\boxed{45}$.
 
-![Enunciat 18, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/18.png)
 
 En primer lloc, comprovem que l'àrea del colom és exactament la meitat de la bandera. Ho podem fer trobant les següents equivalències (iguals colors són iguals àrees):
 
-![Solució 18, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}solucions/18.png)
+![Solució 18, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}solucions/18.png)
 
 Per tant, l'àrea de la bandera és:
 
@@ -264,7 +264,7 @@ $$a=\frac46b\quad\Rightarrow\quad \frac46b^2=384\quad\Rightarrow\quad b^2=576\qu
 I per tant la bandera mesura $\boxed{24\text{ cm}\times16\text{ cm}}$.
 
 
-![Enunciat 19, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/19.png)
 
 Anomenem $a$ els anys que ara té l'Anna. Les seves germanes ara tenen les següents edats:
 
@@ -280,13 +280,13 @@ $$a+a-1+a-4=20+a+1\quad\Rightarrow\quad 2a=26\quad\Rightarrow\quad a=13$$
 
 Així doncs, l'Anna té $\boxed{13}$ anys.
 
-![Enunciat 20, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/20.png)
 
 El cavaller mai pot tallar un nombre de caps que sigui un múltiple de $3$. Altrament, després de tallar els últims $3$ caps n'hauria de tallar un més. Per tant, la solució és $\boxed{99}$, l'únic múltiple de $3$ que hi ha entre les opcions.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/21.png)
 
 Anomenem $x$ la distància entre el primer edifici i la parada (la distància amb el segon edifici serà $250-x$).
 Llavors la distància total que recorreran tots els estudiants serà:
@@ -297,7 +297,7 @@ Per tal de minimitzar aquesta distància, hem de triar una $x$ el més gran poss
 Per tant, la millor opció és posar la parada $\boxed{\text{davant del segon edifici}}$.
 
 
-![Enunciat 22, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/22.png)
 
 Provant per a nombres petits, trobem que:
 
@@ -318,15 +318,15 @@ $$\frac{M+10}{M}=n\quad\Rightarrow\quad 1+\frac{10}{M}=n$$
 
 Com $\frac{10}M$ ha de ser enter, i $10=2\cdot5$, hi ha tants denominadors $M$ com divisors de $10$: $1,2,5,10$, $\boxed4$ en total.
 
-![Enunciat 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/23.png)
 
 En primer lloc, observem que com el triangle $\triangle MNP$ és isòsceles, els costats $MN$ i $NP$ són iguals, i per tant $LP=KN=MP$:
 
-<img src="{filename}solucions/23a.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
+<img src="{static}solucions/23a.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
 
 Anomenem $\alpha$ l'angle que volem esbrinar i anomenem la resta d'angles amb diverses lletres gregues:
 
-<img src="{filename}solucions/23b.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
+<img src="{static}solucions/23b.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
 
 Ara anirem resolent poc a poc el valor de cadascun d'aquests angles.
 
@@ -352,13 +352,13 @@ $$\zeta = \varepsilon + \gamma = \frac32\alpha + \frac\alpha2 = 2\alpha$$
 
 Hem esbrinat, per tant, que el triangle té els següents angles:
 
-<img src="{filename}solucions/23c.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
+<img src="{static}solucions/23c.png" alt="Solució 23, nivell de 4t d'ESO del Cangur 2018 a Catalunya" style="width: 250px;"/>
 
 I com tots tres han de sumar $180^\circ$, $\alpha$ mesura:
 
 $$5\alpha=180\quad\Rightarrow\quad \alpha=\boxed{36^\circ}$$
 
-![Enunciat 24, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/24.png)
 
 Si dividim $2018$ entre $9$, obtenim:
 
@@ -377,12 +377,12 @@ $$2018.\quad 6^2=36\quad\rightarrow\quad6$$
 
 Està clar que a partir de la posició $11$, la segona posició serà sempre un $\boxed6$.
 
-![Enunciat 25, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/25.png)
 
 El triangle original queda dividit en el triangle equilàter $\triangle LMN$, i tres triangles rectangles iguals, com el $\triangle ALN$.
 Aquests triangles rectangles tenen els angles de $30^\circ, 60^\circ, 90^\circ$, cosa que implica les següents proporcions pel que fa als costats:
 
-<img src="{filename}solucions/25.png" alt="Solució 25, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="150"/>
+<img src="{static}solucions/25.png" alt="Solució 25, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="150"/>
 
 Per tant, la base del triangle original és $3a$ (una hipotenusa i el costat curt del triangle rectangle). D'altra banda, la base del triangle equilàter gris és $\sqrt3a$.
 
@@ -399,7 +399,7 @@ Finalment, l'àrea del triangle $\triangle LMN$ és un terç de la del triangle 
 $$A_{\triangle LMN}=\frac{36}3=\boxed{12\text{ cm}^2}$$
 
 
-![Enunciat 26, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/26.png)
 
 Si la mediana és $2$, això vol dir que dels $15$ nombres, hi haurà un $2$, set nombres iguals o més grans que $2$, i set nombres iguals o més petits que $2$.
 
@@ -411,7 +411,7 @@ Per tant, la mitjana de tots els nombres és:
 
 $$m=\frac{5\cdot1+4\cdot2+6\cdot3}{15}=\boxed{\frac{31}{15}}$$
 
-![Enunciat 27, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/27.png)
 
 El fet que durant $6$ anys l'edat de la neta hagi sigut divisora de l'edat de l'àvia ens porta a pensar que les edats de la neta havien de ser nombres molt petits, previsiblement $1,2,3,\ldots$
 
@@ -439,7 +439,7 @@ $$\begin{array}{c|c|c}
 
 Per tant, la solució és $\boxed{70}$.
 
-![Enunciat 28, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/28.png)
 
 El $13\%$ dels estudiants de la universitat fan un idioma diferent de l'anglès, i representen un $65\%$
 de tots els estudiants d'idiomes (perquè el $35\%$ fan anglès).
@@ -447,11 +447,11 @@ Així doncs, el nombre total d'estudiants d'idiomes és:
 
 $$P_\text{idiomes}=\frac{13}{0.65}=\boxed{20\%}$$
 
-![Enunciat 29, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/29.png)
 
 Primer de tot, vegem en una figura el polígon i les dues diagonals:
 
-<img src="{filename}solucions/29.png" alt="Solució 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="250"/>
+<img src="{static}solucions/29.png" alt="Solució 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="250"/>
 
 
 Hi ha $3$ polígons:
@@ -470,13 +470,13 @@ Així, els vèrtexs dels tres polígons són:
 
 $$\boxed{38, 983, 1001}$$
 
-![Enunciat 30, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 4t d'ESO del Cangur 2018 a Catalunya]({static}enunciats/30.png)
 
 Com que $AP$ és un terç de $AC$, i $BQ$ és un terç de $BC$, pel Teorema de Tales, resulta que el segment $PQ$ és paral·lel al costat $AB$.
 
 Així doncs, els triangles $\triangle ABR$ i $\triangle PRQ$ són semblants, amb raó $\frac23$, tal com es veu a la figura:
 
-<img src="{filename}solucions/30.png" alt="Solució 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="450"/>
+<img src="{static}solucions/30.png" alt="Solució 9, nivell de 4t d'ESO del Cangur 2018 a Catalunya" width="450"/>
 
 Així, els segments $RQ$ i $AR$ també tenen una raó $\frac23$, i per tant:
 

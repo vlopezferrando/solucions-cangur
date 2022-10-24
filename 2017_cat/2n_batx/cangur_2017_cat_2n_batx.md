@@ -8,7 +8,7 @@ Slug: solucions-cangur-2017-catalunya-2n-batx
 Extra: katex
 Description: Recull de solucions del nivell de 2n de batxillerat de les Proves Cangur 2017 a Catalunya
 
-Ací teniu el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2017_cat_2n_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
+Ací teniu el recull de solucions del Nivell de 2n de batxillerat del Cangur de Catalunya de 2017. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({static}enunciat_2017_cat_2n_batx.pdf){:target="_blank"}. Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
 Podeu accedir a les qüestions directament:
 
@@ -20,13 +20,13 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/01.png)
 
 Operem:
 $$
 \frac{20\cdot17}{2+0+1+7}=\frac{20\cdot17}{10}=\frac{20}{10}\cdot17=2\cdot17=34
 $$
-![Enunciat 2, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 2, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/02.png)
 
 La suma dels angles d'un polígon convex sempre és un múltiple de $180$. Vegem quin és el següent múltiple de $180$ després de $2017$:
 $$
@@ -36,31 +36,31 @@ Per tant, l'angle que falta mesura:
 $$
 \text{angle} = 180-37=143^\circ
 $$
-![Enunciat 3, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 3, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/03.png)
 
 A simple vista es pot veure que no es pot fer eliminant només $2$ ponts, però sí eliminant-ne $3$:
 
-![Solució 3, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}solucions/03.png)
+![Solució 3, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}solucions/03.png)
 
-![Enunciat 4, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 4, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/04.png)
 
 Podem expressar la igualtat com:
 $$
 0.75a=0.4b\quad\Rightarrow\quad\frac34a=\frac25b\quad\Rightarrow\quad15a=8b
 $$
-![Enunciat 5, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 5, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/05.png)
 
 La gràfica $A$ ens mostra una paràbola que comença a créixer a prop de $x=0$. La gràfica $B$ és compatible amb la corba d'$A$. La gràfica $C$ ens mostra una corba creixent al voltant de $x\in(1,2)$. La gràfica $E$ ens mostra una gràfica decreixen al voltant de l'interval $x\in(-4,-3)$, cosa que també és compatible.
 
 En canvi, la gràfica $D$ ens mostra una corba que decreix a l'interval $(3,4)$, cosa que no coincideix amb les altres quatre gràfiques.
 
-![Enunciat 6, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 6, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/06.png)
 
 Com els segments $OB$ i $BC$ són iguals, els dos triangles seran equilàters, i per tant cada sector circular equival a $\frac16$ del cercle. En total, l'àrea ombrejada és la part del cercle:
 $$
 A_{\text{ombrejada}} = \frac16+\frac16=\frac13
 $$
-![Enunciat 7, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 7, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/07.png)
 
 Els costats del triangle són les sumes dels radis dos a dos:
 $$
@@ -74,7 +74,7 @@ L'àrea, per tant, és la meitat del producte dels dos catets:
 $$
 A=\frac12\cdot3\cdot4=6
 $$
-![Enunciat 8, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 8, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/08.png)
 
 Calculem les solucions:
 $$
@@ -88,7 +88,7 @@ g_1(x)=x^2= x &\Rightarrow& x=\{0,1\}\\\\
 $$
 Per tant, $g_2$ és la funció amb més punts en comú amb $f$.
 
-![Enunciat 9, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 9, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/09.png)
 
 Calculem la probabilitat de triar una bola blava de cada capsa:
 
@@ -103,7 +103,7 @@ $$ P_B=\frac35=\frac{27}{45} > \frac{25}{45} = \frac{5}{9} = P_A $$
 $$ P_B=\frac35=\frac{21}{35} > \frac{20}{35} = \frac{4}{7} = P_C=P_E $$
 $$ P_B=\frac35=\frac{6}{10} > \frac{5}{10} = \frac{1}{2} = P_D $$
 
-![Enunciat 10, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/10.png)
 
 Es tracta d'una recta que no passa per l'origen, per tant no pot ser que passi pels quatre quadrants. Vegem per quins sí que passa:
 $$
@@ -118,15 +118,15 @@ L'únic quadrant pel que no passa és pel $\text{III}$.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/11.png)
 
 En primer lloc, observem que podem dividir els pètals en dos de la següent manera:
 
-![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}solucions/11a.png)
+![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}solucions/11a.png)
 
 I cada mig pètal es correspon amb l'àrea que queda entre un triangle equilàter i un sector circular:
 
-![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}solucions/11b.png)
+![Solució 11, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}solucions/11b.png)
 
 Calculem ara l'àrea del triangle i la del sector circular per fer la resta. Pel Teorema de Pitàgores, esbrinem l'altura del triangle:
 $$
@@ -148,7 +148,7 @@ Finalment, l'àrea ombrejada original té $6$ pètals, és a dir, $12$ mitjos p�
 $$
 A_{\text{ombrejada}} = 12\cdot A_{\text{mig pètal}} = 12\cdot\left(\frac\pi6 - \frac{\sqrt3}4\right) = 2\pi - 3\sqrt3
 $$
-![Enunciat 12, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/12.png)
 
 En ordre decreixent, tenim les següents desigualtats:
 $$
@@ -156,7 +156,7 @@ p+q \quad  >\quad q \quad >\quad p\cdot q\quad >\quad p\quad >\quad \frac{p}{q}
 $$
 Per tant, $p+q$ és el més major de tots.
 
-![Enunciat 13, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/13.png)
 
 Anomenem $h_A, h_B$ les altures dels cilindres i $r_A,r_B$ els radis de les seues bases. Sabem $1.1r_A=r_B$, i els volums són iguals, per tant:
 $$
@@ -169,13 +169,13 @@ $$
 
 És a dir, l'altura del cilindre $A$ és un $21\%$ més llarga que la de $B$.
 
-![Enunciat 14, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/14.png)
 
 Cadascun dels $6$ quadrats està en contacte amb $4$ triangles, però estarem contant cada triangle $3$ cops, ja que cada triangle està en contacte amb $3$ quadrats. Per tant:
 $$
 N_{\text{triangles}}=\frac{6\cdot4}3=8
 $$
-![Enunciat 15, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/15.png)
 
 La millor opció serà posar una bola negra a cada caixa i totes les blanques en la mateixa caixa. La probabilitat de guanyar serà:
 $$
@@ -190,7 +190,7 @@ P_D=\frac15\cdot\frac56=\frac16\\\\
 P_E=\frac45
 \end{array}
 $$
-![Enunciat 16, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/16.png)
 
 Si $x$ és una arrel del polinomi, es compleix:
 $$
@@ -202,7 +202,7 @@ $$
 $$
 Per tant, $x$ ha de ser un divisor de $-24$, i $5$ és la única opció que no ho és.
 
-![Enunciat 17, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/17.png)
 
 El quadrat més gran que podrà formar serà de costat $44$:
 $$
@@ -216,7 +216,7 @@ $$
 \end{array}
 $$
 
-![Enunciat 18, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/18.png)
 
 En primer lloc, observem que els nombres contigus tindran paritat diferent (tenen diferència $1$). Per tal que la suma sigui senar, cal que hi hagi un nombre senar de sumands senars. Dels $7$ nombres, per tant, $3$ han de ser senars: hauran de ser $b, d, f$.
 
@@ -240,7 +240,7 @@ Com a màxim, podem obtenir una suma de $13$, i no podem arribar a $15$.
 
 Per tant, només poden ser $286$ la $a$ i la $g$.
 
-![Enunciat 19, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/19.png)
 
 
 
@@ -251,7 +251,7 @@ Concretament, el costat $CD=7$ es correspon al costat $BC=$9. Per tant, el perí
 $$
 \text{Perímetre}(\triangle CDE) = \frac79\cdot(8+9+10)=\frac79\cdot 27=21
 $$
-![Enunciat 20, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/20.png)
 
 
 
@@ -275,7 +275,7 @@ Finalment, la suma de les xifres de $78$ és $7+8=15$.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/21.png)
 
 Anomenem $x$ un nombre que compleixi la condició anterior, i siga $u$ la seua xifra de les unitats. Llavors, ha de complir la següent condició:
 $$
@@ -293,11 +293,11 @@ Per tant, hi ha $2$  enters positius que ho compleixen. Són:
 $$ x=14 \quad\rightarrow\quad 1 = 14\div14 $$
 $$ x=28 \quad\rightarrow\quad 2 = 28\div14 $$
 
-![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/22.png)
 
 Girem el dibuix per centrar-nos en els triangles rectangles que hi apareixen:
 
-<img src="{filename}solucions/22.png" alt="Solució 22, nivell de 2n de batxillerat del Cangur 2017 a Catalunya" style="width: 200px;"/>
+<img src="{static}solucions/22.png" alt="Solució 22, nivell de 2n de batxillerat del Cangur 2017 a Catalunya" style="width: 200px;"/>
 
 Hem anomenat $P$ el punt d'intersecció dels segments $BC$ i $AD$, que formen un angle recte.
 
@@ -332,7 +332,7 @@ Finalment:
 $$
 AB=\sqrt{12}=2\sqrt{3}
 $$
-![Enunciat 23, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/23.png)
 
 Vegem com evoluciona la successió en els primers termes:
 $$
@@ -357,7 +357,7 @@ $$
 $$
 Per tant, $a_{2017}=a_1=2017$.
 
-![Enunciat 24, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/24.png)
 
 Adonem-nos que al tetraedre original li hem tret quatre tetraedres petits, un per cada vèrtex. Per resoldre el problema, calcularem el volum d'aquests tetraedres petits, per exemple, ens podem centrar en el superior.
 
@@ -365,7 +365,7 @@ Pel Teorema de Tales, sabem que l'altura del tetraedre petit serà la meitat que
 
 Com tenim $4$ d'aquests petits tetraedres, en total hem restat $4\cdot\frac18=\frac12$ del volum original, i per tant el sòlid resultat té un volum d'$\frac12$ del volum original.
 
-![Enunciat 25, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/25.png)
 
 Si la suma de les xifres del nombre $A$ és múltiple de $7$, i la suma de les xifres d'$A+1$ també és múltiple de $7$, això vol dir que la variació en la suma de les xifres entre els dos nombres també serà múltiple de $7$.
 
@@ -386,13 +386,13 @@ A+1=700\,000&\rightarrow&7+0+0+0+0+0=7\mid7\\\\
 $$
 Per tant, l'$A$ més petit que compleix aquesta propietat té $5$ xifres.
 
-![Enunciat 26, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/26.png)
 
 Si considerem els daus com a diferents, podem obtindre un total de $4^4=256$ resultats diferents. Com cada dau oculta només una cara, per tal que no poguem compondre el número $2017$ (que té totes les xifres diferents), és necessari que quedi oculta la mateixa xifra als quatre daus. Per tant, hi ha $4$ tirades en què no podrem compondre el $2017$ (una per cada xifra). Llavors, la probabilitat que busquem és:
 $$
 P=\frac{256-4}{256}=\frac{252}{256}=\frac{63}{64}
 $$
-![Enunciat 27, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/27.png)
 
 Anomenem $x$ el nombre que va a la casella central. Llavors, podem omplir la graella, per exemple, amb els següents nombres:
 $$
@@ -428,7 +428,7 @@ $$
 0&-1&0\\\\
 \end{array}
 $$
-![Enunciat 28, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/28.png)
 
 Provarem suposant que $x$ és negatiu, i després provarem suposant que és positiu si no trobem la solució.
 
@@ -475,7 +475,7 @@ I la suma és:
 $$
 x+y=4-3=1
 $$
-![Enunciat 29, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/29.png)
 
 Només hi ha tres potències de $2$ de tres xifres:
 $$
@@ -509,7 +509,7 @@ N=2+2+8+2+4+3=21\text{ opcions}
 $$
 
 
-![Enunciat 30, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 2n de Batxillerat del Cangur 2017 a Catalunya]({static}enunciats/30.png)
 
 Vegem què passa amb els habitants del banquet. Si un d'ells diu la veritat, llavors al seu voltant en tindrà un de cada mena:
 $$

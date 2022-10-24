@@ -7,7 +7,7 @@ Extra: katex
 Slug: solucions-cangur-2015-catalunya-nivell1
 Description: Recull de solucions del nivell 1 de les Proves Cangur 2015 a Catalunya
 
-Ací he fet un recull amb solucions per totes les qüestions del Nivell 1 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_1.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
+Ací he fet un recull amb solucions per totes les qüestions del Nivell 1 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({static}enunciat_2015_cat_1.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
 
 
 Podeu accedir a les qüestions directament:
@@ -258,7 +258,7 @@ la solució serà $2015+2015=4030$ , la **B**.
 
 Trobem les solucions sistemàticament, ja que no són massa:
 
-![Solució 17]({filename}solucions/17.png)
+![Solució 17]({static}solucions/17.png)
 
 En total hi ha $10$ formes diferents de fer-ho, i la solució és la **E**.
 

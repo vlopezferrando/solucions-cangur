@@ -8,7 +8,7 @@ Extra: katex
 Slug: solucions-cangur-2016-catalunya-1r-batx
 Description: Recull de solucions del nivell de 1r de batxillerat de les Proves Cangur 2016 a Catalunya
 
-Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({filename}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
+Ja he preparat el recull de solucions del Nivell de 1r de batxillerat del Cangur de Catalunya de 2016. Els enunciats estan extrets del primer model d'examen del [pdf d'enunciats]({static}enunciat_2016_cat_1r_batx.pdf){:target="_blank"}.
 
 Si trobeu cap errada o teniu algun comentari o solució alternativa, no dubteu en fer un comentari a sota del tot.
 
@@ -33,7 +33,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 1, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 1, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/01.png)
 
 Intentarem simplificar la divisió eliminant els termes que siguen múltiples de
 $21$, ja que per aquests el residu serà zero. Com que $21=3\cdot 7$, els múltiples
@@ -48,7 +48,7 @@ terme de la resta:
 La resta de dos múltiples de $21$ serà múltiple de $21$ i per tant el residu
 és $0$. La solució és la **A**.
 
-![Enunciat 2, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 2, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/02.png)
 
 Anomenem $h$ l'altura de cada franja, de manera que l'altura del triangle
 és $5h$. De manera anàloga, anomenem $b$ la base del petit triangle
@@ -77,24 +77,24 @@ $$\frac{A_{gris}}{A_{total}} = \frac{\frac12bh+\frac52bh+\frac92bh}{\frac{25}2bh
 
 I la solució és la **A**.
 
-![Enunciat 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/03.png)
 
 La única figura que no cap és la **E**. Per tal de tenir una àrea igual a la
 del quadrat, el triangle equilàter haurà de sobresortir, com veiem a la figura:
 
-![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/03.png)
+![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/03.png)
 
 La resta d'opcions caben dins del quadrat:
 
-![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/03b.png)
+![Solució 3, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/03b.png)
 
-![Enunciat 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/04.png)
 
 Els costats del quadrat i del triangle mesuren el mateix, ja que comparteixen
 el costat $CD$. Així, el triangle $ADF$ és isòsceles. Centrant-nos en aquest
 triangle, podem dibuixar la figura:
 
-![Solució 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/04.png)
+![Solució 4, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/04.png)
 
 Com coneixem els angles del quadrat i del triangle, podem esbrinar l'angle $\alpha$:
 
@@ -103,7 +103,7 @@ $$\alpha = \frac{180 - (90+60)}2 = \frac{30}2=15$$
 Per tant, l'angle $BAF$ serà l'angle recte menys l'angle $\alpha$: $90-15=75$;
 i la solució és la **C**.
 
-![Enunciat 5, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 5, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/05.png)
 
 La línia poligonal sempre comença a la lletra $K$, però llavors pot anar a
 qualsevol de les dues lletres $A$, així que de moment tenim $2$ opcions.
@@ -113,7 +113,7 @@ hi ha $2$ possibilitats més.
 
 En total, hi ha $2\cdot 2=4$ línies diferents i la solució és la **D**.
 
-![Enunciat 6, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 6, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/06.png)
 
 Simplificarem els càlculs usant $x=9999990$, llavors:
 
@@ -124,7 +124,7 @@ $$x^2 + 4x + 5x + 20 - x^2 - 9x = 20$$
 
 I la solució és la **A**.
 
-![Enunciat 7, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 7, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/07.png)
 
 Inicialment, $\frac13$ compraven $B$. A aquests cal sumar-lost $\frac14$ dels
 que compraven $A$, que eren $\frac23$:
@@ -133,7 +133,7 @@ $$\frac13 + \frac14\cdot \frac23 = \frac13 + \frac2{12} = \frac4{12} + \frac2{12
 
 La solució és la **D**.
 
-![Enunciat 8, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 8, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/08.png)
 
 En una [progressió geomètrica](https://ca.wikipedia.org/wiki/Progressi%C3%B3_geom%C3%A8trica),
 cada terme és igual al terme anterior multiplicat
@@ -141,7 +141,7 @@ per un nombre (anomenat raó). Per passar de $a_{2015}=2015!$ a $a_{2016}=2016!$
 hem multiplicat per $2016$. Per obtindre $a_{2017}$, hem de multiplicar
 també per $2016$: $a_{2017}=2016\cdot 2016!$, i la solció és la **B**.
 
-![Enunciat 9, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 9, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/09.png)
 
 Si $\frac1N$ es pot escriure com un decimal exacte, vol dir que per a un cert
 nombre de zeros, $10\ldots0$ és divisible per $N$. Els nombres $10\ldots0$, que
@@ -157,7 +157,7 @@ Per tant, la solució és $80$, la **D**. Efectivament:
 
 $$\frac1{80}=0,0125$$
 
-![Enunciat 10, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/10.png)
 
 Anomenem $n$ el nombre de membres de la penya. Quan es reparteixen en $24$
 minibusos enlloc de'n $32$, hi ha $2$ persones més per minibus, llavors:
@@ -177,15 +177,15 @@ La solució és la **C**.
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/11.png)
 
 L'àrea del rectangle és $16\cdot 9=144$, de manera que si formem un quadrat
 d'aquesta àrea, el costat serà $\sqrt{144}=12$ i per tant el seu perímetre
 serà $4\cdot 12=48$, l'opció **C**. Comprovem que podem formar aquest quadrat:
 
-![Solució 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/11.png)
+![Solució 11, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/11.png)
 
-![Enunciat 12, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/12.png)
 
 En primer lloc operem amb  $(x+y)^2$:
 
@@ -209,7 +209,7 @@ $$(x+y)^2 = 1 + 4xy = 1 + 4\cdot 3 = 13$$
 
 I la solució és la **E**.
 
-![Enunciat 13, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/13.png)
 
 En primer lloc comptem de quantes maneres podem col·locar les lletres $U$.
 A la primera fila va una lletra $U$, a una de les $3$ caselles.
@@ -229,7 +229,7 @@ $$6\cdot 4!=6\cdot 24=144$$
 
 formes d'escriure $SUDOKU$ tal com demana l'enunciat, i la solució és la **E**.
 
-![Enunciat 14, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/14.png)
 
 Els vèrtexs, arestes i cares d'una piràmide vindran donats pel nombre
 de vèrtexs que té el polígon de la base. Si la base de la piràmide
@@ -249,13 +249,13 @@ De les opcions que se'ns presenten, només una es correspon a aquesta forma:
 $22=4\cdot 5 + 2$ (ho podem comprovar dividint cada opció per $4$ i veient
 que el residu només és $2$ per a $22$). La solució és la **E**.
 
-![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/15.png)
 
 Girem la figura i anomenem $x$ el segment del qual volem
 saber la longitud, i $y$ el segment que completa $a$ per
 formar un triangle a sota.
 
-![Solució 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/15.png)
+![Solució 15, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/15.png)
 
 Pel [Teorema de Tales](https://ca.wikipedia.org/wiki/Teorema_de_Tales)
 sabem que:
@@ -275,7 +275,7 @@ $$x = \frac{a\left(\frac{a}{\sqrt3}+a\right)}{\frac{a}{\sqrt3}} =
 
 I la solució és la **D**.
 
-![Enunciat 16, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/16.png)
 
 Els tres segments han de complir la *desigualtat triangular*,
 que diu que la longitud d'un segment no pot ser major que la
@@ -297,7 +297,7 @@ $$\frac13 < k < 1$$
 
 I la solució és la **B**.
 
-![Enunciat 17, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/17.png)
 
 A la figura veiem que la gràfica passa pels punts:
 
@@ -322,7 +322,7 @@ $$2b+2d =0 \quad \Rightarrow \quad b = -d = -3$$
 
 I la solució és la **B**.
 
-![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/18.png)
 
 Comencem resolent el sistema:
 
@@ -354,14 +354,14 @@ $$a^3 + b^3 = \frac{144}{8} = 18$$
 
 I la solució és la **D**.
 
-![Enunciat 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/19.png)
 
 En total hi ha $12$ quadrats diferents, com podem veure a la figura següent,
 i la solució és la **E**.
 
-![Solució 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/19.png)
+![Solució 19, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/19.png)
 
-![Enunciat 20, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/20.png)
 
 En primer lloc fixem-nos que tots els nombres primers són senars excepte un: el $2$.
 
@@ -381,7 +381,7 @@ de manera que aquesta també és una solució correcta.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/21.png)
 
 A l'equació $x^3+y^3 = x^2y^2$, crida l'atenció que a l'esquerra la $x$ i la $y$ estan
 elevades a $3$ i a la dreta estan elevades a $2$. Açò és significatiu perquè el resultat
@@ -391,7 +391,7 @@ Per aquesta raó mai pot haver cap punt al quadrant $\text{III}$, ja que en aque
 quadrant $x$ i $y$ són negatives, i per tant a l'esquerra de l'equació el valor és negatiu
 i a la dreta és positiu. Així doncs, la solució és la **D**.
 
-![Enunciat 22, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/22.png)
 
 Si anomenem $x$ la llargada de les espelmes, aquestes cremen
 al ritme:
@@ -413,7 +413,7 @@ $$\Rightarrow \quad 16t=60\quad \Rightarrow \quad t=3+\frac34$$
 És a dir, han passat $3$ hores i $3$ quarts, i per tant són
 les 22.45. La solució és la **B**.
 
-![Enunciat 23, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/23.png)
 
 En primer lloc, podem trobar una solució trivial amb $x=1, y=6$:
 
@@ -435,7 +435,7 @@ un factorial, i per tant el nombre de solucions ha de ser per força finit.
 
 Així, la solució és la **D**.
 
-![Enunciat 24, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/24.png)
 
 Expressem el que signifiquen els logaritmes de l'enunciat, i anomenem $?$
 el que volem esbrinar:
@@ -449,7 +449,7 @@ $$x^c=b=a^{\frac1c} \quad \Rightarrow \quad x=a^{\frac1{c^2}}=a^{c^{-2}}$$
 
 I la solució és $c^{-2}$, la **B**.
 
-![Enunciat 25, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/25.png)
 
 Si $x=2$ és solució de $x^2+bx+c=0$, llavors:
 
@@ -468,17 +468,17 @@ $$b(4-4) + 4^2 - 2\cdot 4 -8 = 0$$
 
 I la solució és la **D**.
 
-![Enunciat 26, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/26.png)
 
 Podem escriure l'equació com $y^2=x^2$. Per cada nombre positiu $a$, seran
 solucions de l'equació $\left\\{(a,a), (-a, a), (a, -a), (-a, -a)\right\\}$. Aquestes
 solucions es corresponen amb la gràfica **A**.
 
-![Enunciat 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/27.png)
 
 Podem fer un dibuix com el següent, que mostra una secció vertical de l'esfera:
 
-![Solució 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/27.png)
+![Solució 27, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/27.png)
 
 Veiem que tenim un triangle rectangle amb catets $12$ i $r-8$, i amb una hipotenusa $r$.
 Pel teorema de Pitàgores, tenim l'equació:
@@ -494,7 +494,7 @@ $$
 
 Per tant el radi mesura $13\text{ cm}$ i la solució és la **C**.
 
-![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/28.png)
 
 **Solució alternativa proposada per Gabriel als comentaris**
 
@@ -525,7 +525,7 @@ dins del quadrat al costat inferior i esquerre respectivament. Llavors,
 els quatre triangles tenen una base $x$ i unes altures $a, b, x-a, x-b$,
 tal com es veu a la figura:
 
-![Solució 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}solucions/28.png)
+![Solució 28, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}solucions/28.png)
 
 Decidim arbitràriament que $a$ és l'altura més gran, i per tant, forma
 el triangle d'àrea més gran:
@@ -566,7 +566,7 @@ $$
 
 Per tant, l'àrea del quart triangle és $6$ i la solució és la **B**.
 
-![Enunciat 29, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/29.png)
 
 Al dau hi ha sis números: $1,2,3,4,5,6$. Adonem-nos que per tal que el producte
 de dos d'aquests números sigui més petit que la suma, un dels dos números ha de
@@ -588,7 +588,7 @@ $$\frac16 + \frac16 - \frac16\cdot \frac16 = \frac{6 + 6 - 1}{36} = \frac{11}{36
 
 I la solució és la **C**.
 
-![Enunciat 30, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell de 1r de batxillerat del Cangur 2016 a Catalunya]({static}enunciats/30.png)
 
 Els divisors de $2016$ són els productes de totes les diferents combinacions
 dels seus factors primers. Aquests factors primers són:

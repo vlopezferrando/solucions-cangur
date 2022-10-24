@@ -7,7 +7,7 @@ Extra: katex
 Slug: solucions-cangur-2015-catalunya-nivell2
 Description: Recull de solucions del nivell 2 de les Proves Cangur 2015 a Catalunya
 
-Ací he fet un recull amb solucions per totes les qüestions del Nivell 2 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({filename}enunciat_2015_cat_2.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
+Ací he fet un recull amb solucions per totes les qüestions del Nivell 2 del Cangur de Catalunya de 2015. Els enunciats estan extrets del [pdf d'enunciats del cangur]({static}enunciat_2015_cat_2.pdf){:target="_blank"}, en concret, del primer model d'examen (hi ha altres models amb les opcions *ABCDE* de cada qüestió permutades).
 
 Les solucions estan amagades (cal fer clic per mostrar-les) perquè és recomanable pensar detingudament cada problema abans de mirar la solució que jo proposo!
 
@@ -51,7 +51,7 @@ Els enunciats del Cangur són propietat de la Societat Catalana de Matemàtiques
 
 ### Qüestions de 3 punts
 
-![Enunciat 01, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/01.png)
+![Enunciat 01, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/01.png)
 
 Si els estudiem per ordre:
 
@@ -64,7 +64,7 @@ que és múltiple de $3$.
 
 Així que la solució és la **E**.
 
-![Enunciat 02, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/02.png)
+![Enunciat 02, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/02.png)
 
 Se'ns demana pel costat curt del rectangle gran, que és el mateix que el costat llarg dels rectangles petits.
 
@@ -72,7 +72,7 @@ Pel que fa als rectangles petits, observem que el costat llarg mesura el mateix 
 
 Llavors, la longitud de $10\text{ cm}$ equival a $2$ costats llargs de rectangle petit, i per tant la solució és $\frac{10}{2}=5\text{ cm}$, la **A**.
 
-![Enunciat 03, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/03.png)
+![Enunciat 03, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/03.png)
 
 El perímetre és:
 
@@ -84,7 +84,7 @@ $$\frac{6030}{3}=2010$$
 
 La **A**.
 
-![Enunciat 04, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/04.png)
+![Enunciat 04, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/04.png)
 
 Cal imaginar aquest dau en tres dimensions, i es veu que les parelles de nombres oposats són:
 
@@ -92,7 +92,7 @@ $$(1,3),\; (2,4),\; (5,6)$$
 
 Les sumes són $4,6,11$: l'opció **A**.
 
-![Enunciat 05, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/05.png)
+![Enunciat 05, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/05.png)
 
 Si anomenem $x$ el nombre de branques amb $5$ fulles, i $y$ el nombre de branques amb $2$ fulles i $1$ flor, tenim que:
 
@@ -113,7 +113,7 @@ $$fulles=45 \quad\Rightarrow\quad x=\frac{45-20}{3}=\frac{25}{3}$$
 
 Però cap de les divisions anteriors ens dóna un resultat enter, de manera que la solució és la **E**.
 
-![Enunciat 06, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/06.png)
+![Enunciat 06, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/06.png)
 
 Sabem que cada nombre és la suma dels dos veïns, aleshores, procedim amb les deduccions:
 
@@ -123,31 +123,31 @@ Sabem que cada nombre és la suma dels dos veïns, aleshores, procedim amb les d
 
 Podem veure els passos a la següent figura:
 
-![Solució 06]({filename}solucions/06.png)
+![Solució 06]({static}solucions/06.png)
 
 La solució és $-8$, la **C**.
 
-![Enunciat 07, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/07.png)
+![Enunciat 07, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/07.png)
 
 Si imaginem com es monta el prisma, veiem que $U$ coincidirà amb $Y$ i $V$ coincidirà amb $X$ i la solució és la **C**.
 
-![Enunciat 08, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/08.png)
+![Enunciat 08, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/08.png)
 
 A la següent figura veiem pas per pas les deduccions que podem fer:
 
-![Solució 08]({filename}solucions/08.png)
+![Solució 08]({static}solucions/08.png)
 
 Veiem que necessàriament $x=groc$, i la solució és la **B**.
 
-![Enunciat 09, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/09.png)
+![Enunciat 09, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/09.png)
 
 Si dibuixem en $verd$ l'àrea on en Simó pot anar (al voltant de l'arbre), i en $vermell$ l'àrea on no entra (al voltant de la caseta del gos), la figura és:
 
-![Solució 09]({filename}solucions/09.png)
+![Solució 09]({static}solucions/09.png)
 
 Llavors, la zona per on l'esquirol Simó es mou és la **A**.
 
-![Enunciat 10, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/10.png)
+![Enunciat 10, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/10.png)
 
 Durant $5$ segons a $5\text{ m/s}$ el ciclista recorre $5\cdot5=25\text{ m}$.
 
@@ -155,7 +155,7 @@ Com la roda té $1,25\text{ m}$ de circumferència, ha donat $\frac{25}{1,25}=20
 
 ### Qüestions de 4 punts
 
-![Enunciat 11, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/11.png)
+![Enunciat 11, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/11.png)
 
 
 Si cap nen ha nascut el mateix dia de la setmana, però quan entri un nou nen aquesta condició deixarà de ser certa, hi ha $7$ nens, nascuts un dia de la setmana diferent cadascun.
@@ -164,13 +164,13 @@ De la mateixa manera, hi ha $12$ nenes, nascuda cadascuna en un mes diferent.
 
 En total, hi ha $7+12=19$ alumnes a la classe, la **B**.
 
-![Enunciat 12, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/12.png)
+![Enunciat 12, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/12.png)
 
 **Solució 1**
 
 Observem que podem completar la zona ombrejada amb un rectangle (vermell a la figura) per tal de formar un triangle rectangle:
 
-![Solució 12]({filename}solucions/12_1.png)
+![Solució 12]({static}solucions/12_1.png)
 
 La relacio entre les àrees és:
 
@@ -190,11 +190,11 @@ I la solució és la **B**.
 
 També ens podem fixar en que la zona ombrejada de sota pot completar la zona ombrejada de dalt per formar un quadrat de costat $1$:
 
-![Solució 12]({filename}solucions/12_2.png)
+![Solució 12]({static}solucions/12_2.png)
 
 I per tant, l'àrea és la del quadrat: $1^2=1$, l'opció **B**.
 
-![Enunciat 13, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/13.png)
+![Enunciat 13, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/13.png)
 
 En primer lloc, reorganitzem els termes de la suma. Podem 1) treure els zeros, 2) passar el primer $2$ a l'altre costat de la equació i 3) posar els termes en ordre creixent. Quedarà:
 
@@ -211,7 +211,7 @@ $$-1-1-1-2-2-5=-12$$
 
 La solució és $2$, la **A**.
 
-![Enunciat 14, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/14.png)
+![Enunciat 14, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/14.png)
 
 Un litre per metre quadrat equival a un augment d'un milímetre, aleshores
 el nivell augmenta $1,5\text{ cm}$: la **C**.
@@ -223,7 +223,7 @@ $$\frac{1\text{ L}}{1\text{ m}^2}\cdot
 \frac{1\text{ m}^3}{1000\text{ dm}^3} =
 \frac{1}{1000}\text{ m} = 1\text{ mm}$$
 
-![Enunciat 15, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/15.png)
+![Enunciat 15, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/15.png)
 
 Anomenem $x, y, z$ els números que estan oposats al $5,7,12$ respectivament.
 
@@ -251,7 +251,7 @@ $$3y=27 \quad\Rightarrow\quad y=9$$
 
 I per tant, la cara oposada al $7$ té un $9$: la **A**.
 
-![Enunciat 16, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/16.png)
+![Enunciat 16, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/16.png)
 
 La mitjana global és la mitjana ponderada entre la mitjana dels que han aprovat i la mitjana dels que han suspés:
 
@@ -259,7 +259,7 @@ $$0.6\cdot8+0.4\cdot m=6 \quad\Rightarrow\quad m=\frac{6-4.8}{0.4}=3$$
 
 Per tant, la solució és la **C**.
 
-![Enunciat 17, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/17.png)
+![Enunciat 17, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/17.png)
 
 Anomenem $a, b$ els costats del rectangle. Si les sumes d'Agnès i Miquel són diferents, per força han deixat de sumar un costat diferent. Les sumes són:
 
@@ -275,11 +275,11 @@ $$2a+2b=\frac23(3a+3b)=\frac2384=56$$
 
 I la solució és la **B**.
 
-![Enunciat 18, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/18.png)
+![Enunciat 18, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/18.png)
 
 Anomenem $a$ el costat del quadrat, llavors la seua àrea és $a^2$. L'àrea del pentàgon és set vuitens d'aquesta àrea: $\frac78a^2$, cosa que podem deduir si dividim el quadrat en triangles iguals:
 
-![Solució 18]({filename}solucions/18.png)
+![Solució 18]({static}solucions/18.png)
 
 Si ambdós àrees són número consecutius, significa que l'àrea del quadrat és l'àrea del pentàgon més $1$:
 
@@ -287,7 +287,7 @@ $$a^2=\frac78a^2+1 \quad\Rightarrow\quad \frac18a^2=1 \quad\Rightarrow\quad a^2=
 
 L'àrea del quadrat és $8$, és a dir, l'opció **E**.
 
-![Enunciat 19, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/19.png)
+![Enunciat 19, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/19.png)
 
 Anomenem $a,b,c,d$ les edats de l'Anna, Biel, Cinta i David respectivament.
 
@@ -311,7 +311,7 @@ $$b+d=14+12=26$$
 
 La solució és la **C**.
 
-![Enunciat 20, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/20.png)
+![Enunciat 20, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/20.png)
 
 Fixem-nos que totes les afirmacions són excloents, és a dir, si un està dient la veritat, la resta està mentint necessàriament.
 
@@ -325,11 +325,11 @@ Per tant, la solució és $1$, la **E**.
 
 ### Qüestions de 5 punts
 
-![Enunciat 21, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/21.png)
+![Enunciat 21, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/21.png)
 
 Anomenem els sectors $a,b,c,d,e$ com es veu a la figura:
 
-![Solució 21]({filename}solucions/21.png)
+![Solució 21]({static}solucions/21.png)
 
 Llavors els sectors amb $2$ i $-4$ es corresponen amb les sumes:
 
@@ -340,7 +340,7 @@ a+b+c+d&=&-4
 
 Si  ala primera equació li restem la segona, trobem que $e=2-(-4)=6$, i la solució és la **A**.
 
-![Enunciat 22, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/22.png)
+![Enunciat 22, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/22.png)
 
 Anomenem $a, b,c$ les tres targetes. Llavors les sumes possibles de dues en dues són:
 
@@ -361,11 +361,11 @@ $$c=70-22 \quad\Rightarrow\quad c=48$$
 
 Els tres números són $22, 35, 48$, i el més gran és $48$, la **B**.
 
-![Enunciat 23, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/23.png)
+![Enunciat 23, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/23.png)
 
 Anomenem $h$ la meitat de la diagonal del quadrat. Si considerem la base dels triangles ombrejats a la diagonal, $h$ és l'altura de tots aquests triangles:
 
-![Solució 23]({filename}solucions/23.png)
+![Solució 23]({static}solucions/23.png)
 
 Llavors, sabent les àrees dels triangles podem deduir les longituds de la base de cada triangle:
 
@@ -400,7 +400,7 @@ $$NP=\frac{2h^2-28}{h}=\frac{2\cdot15-28}{h}=\frac{2}{h}$$
 
 Finalment, veiem que el segment més llarg de tots és $PQ=\frac{10}{h}$, i la solució és la la **B**.
 
-![Enunciat 24, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/24.png)
+![Enunciat 24, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/24.png)
 
 Els $2$ cangurs més lleugers pesen el $25\%$ del total i els $3$ més pesants pesen el $60\%$ del total, entre tots $5$ cangurs pesen el $85\%$ del total, de manera que hi ha d'haver més cangurs a més d'aquests $5$.
 
@@ -410,7 +410,7 @@ Però només pot haver $1$ cangur "extra". Si fossin $2$ o més cangurs, els dos
 
 De manera que en total hi ha $6$ cangurs, i la solució és la **D**.
 
-![Enunciat 25, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/25.png)
+![Enunciat 25, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/25.png)
 
 Per fer el cub en Raimon necessitarà un total de $12\text{ cm}$ de filferro,
 ja que el cub està format per $12$ arestes d'$1\text{ cm}$.
@@ -422,7 +422,7 @@ no siga extrem de cap filferro, per aquest vèrtex els filferros haurien de
 *passa* un filferro (vermell), queda una aresta sola (negra), i per tant el vèrtex
 és a l'extrem del filferro negre:
 
-![Solució 25]({filename}solucions/25_0.png)
+![Solució 25]({static}solucions/25_0.png)
 
 Com en un cub hi ha $8$ vèrtexs, hi haurà com a mínim $8$ extrems de filferros.
 Com cada filferro té $2$ extrems, com a mínim hi haurà $4$ filferros diferents.
@@ -432,11 +432,11 @@ $$12=6+3+2+1$$
 
 I podem comprovar que es pot construir el cub amb el següent dibuix:
 
-![Solució 25]({filename}solucions/25_1.png)
+![Solució 25]({static}solucions/25_1.png)
 
 Per tant, la solució és la **D**.
 
-![Enunciat 26, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/26.png)
+![Enunciat 26, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/26.png)
 
 Mai hi ha una única manera de resoldre els problemes geomètrics, però una manera molt útil d'abordar aquests problemes és anar dibuixant circumferències, rectes paral·leles, etc. intentant buscar relacions de simetria i altres propietats que ens poden dur a la solució del problema.
 
@@ -449,7 +449,7 @@ Llavors tenim un triangle isòsceles a $\triangle{OQR}$. Com que l'angle  $\wide
 
 $$120+2\alpha=180 \quad\Rightarrow\quad \alpha=\frac{60}{2}=30^\circ$$
 
-![Solució 26]({filename}solucions/26_1.png)
+![Solució 26]({static}solucions/26_1.png)
 
 I la solució és la **E**.
 
@@ -457,15 +457,15 @@ I la solució és la **E**.
 
 Una altra manera de solucionar aquest problema és dibuixant una circumferència centrada en $O$ i amb radi $x$:
 
-![Solució 26]({filename}solucions/26.png)
+![Solució 26]({static}solucions/26.png)
 
 L'angle $\widehat{NOR}$ és de $60^\circ$, ja que està en un triangle equilàter. A més, aquest angle té el vèrtex al centre de la circumferència. L'angle $\alpha$ que busquem, és un [angle inscrit](https://ca.wikipedia.org/wiki/Angle_inscrit){:target="_blank"} a la mateixa circumferència i que abarca el mateix arc, de manera que és la meitat de l'angle $\widehat{NOR}$, és a dir, $\alpha=30^\circ$, i la solució és la **E**.
 
-![Enunciat 27, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/27.png)
+![Enunciat 27, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/27.png)
 
 Anomenem $a,b,c,d$ les distàncies entre els $5$ punts:
 
-![Solució 27]({filename}solucions/27.png)
+![Solució 27]({static}solucions/27.png)
 
 I podem anar fent deduccions:
 
@@ -500,7 +500,7 @@ $$k=9+15=14$$
 
 I la solució és la **E**.
 
-![Enunciat 28, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/28.png)
+![Enunciat 28, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/28.png)
 
 El número que tinc apuntat és de la forma:
 
@@ -535,7 +535,7 @@ $$70-6=64$$
 
 Són $64$ els números que cal provar, és a dir, la **A**.
 
-![Enunciat 29, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/29.png)
+![Enunciat 29, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/29.png)
 
 Si anomenem $d$ el divisor, $q$ el quocient i $r$ el residu, la fórmula de la divisió és:
 
@@ -557,7 +557,7 @@ $$2015=2\cdot672+671$$
 
 Llavors la solució és la **B**.
 
-![Enunciat 30, nivell 2 del Cangur 2015 a Catalunya]({filename}enunciats/30.png)
+![Enunciat 30, nivell 2 del Cangur 2015 a Catalunya]({static}enunciats/30.png)
 
 Usarem el subratllat per diferenciar els colors. Fixem-nos que podem intercanviar els dos colors i obtenir configuracions diferents, de manera que començarem suposant que l'$1$ és *blau* (subratllat), i al final multiplicarem per dos el resultat, que es correspondrà a quan l'$1$ siga *vermell* (sense subratllar).
 
